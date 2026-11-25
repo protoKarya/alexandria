@@ -1,6 +1,7 @@
 # Alexandria
 
-The card catalog of the library that floats over MSU (42.73°N, 84.48°W).
+The card catalog of the library. On the globe it sits in HUD space above the Library of Congress in
+Washington DC (38.89°N, 77.00°W).
 
 Every page of the library has one card here. Nothing was moved and nothing was removed: the pages
 stay where they are published, and the card says what each one is.
@@ -9,7 +10,7 @@ stay where they are published, and the card says what each one is.
 
 [sporePrint](https://github.com/ecoPrimals/sporePrint) is the centre. Everything else is shelved around it.
 
-- **Soul - the science.** The papers, notebooks, thesis and methods of sporePrint. They live in the library over MSU.
+- **Soul - the science.** The papers, notebooks, thesis and methods of sporePrint. They live in the library.
 - **Heart - the hardware and the Lansing Scuffle.** Paper 110, every work that names the Scuffle, and
   the sporePrint works whose own title is about the hardware. They live in Lansing, in the two houses.
 

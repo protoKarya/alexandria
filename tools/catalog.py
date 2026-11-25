@@ -92,7 +92,7 @@ SCUFFLE = re.compile(r"lansing\s+scuffle", re.I)
 HARDWARE = re.compile(r"\b(hardware|gpus?|cpus?|npus?|silicon|neuromorphic|thermal|data cent(?:er|re)s?|compute)\b")
 
 PLACES = {
-    "library": {"name": "The Library, floating over MSU - the nucleus, and works that belong to no one place", "lat": 42.7325, "lon": -84.4822},
+    "library": {"name": "The Library, in HUD space above the Library of Congress, Washington DC - the nucleus, and works that belong to no one place", "lat": 38.8887, "lon": -77.0047},
     "lansing": {"name": "Lansing - the two houses of the Scuffle, and the Capitol", "lat": 42.7336, "lon": -84.5555},
     "detroit": {"name": "Detroit", "lat": 42.3314, "lon": -83.0458},
     "michigan": {"name": "Michigan, statewide", "lat": 44.3148, "lon": -85.6024},
@@ -299,7 +299,7 @@ def main():
         f.write("# The shelves\n\nFirst pass, sorted by machine: %d works, nothing moved. Fix a card in `overrides.json` and run `tools/catalog.py` again.\n\n" % len(cards))
         if args.centre:
             f.write("## The nucleus: %s\n\n%d works, %d words. Everything else is shelved around it.\n\n" % (args.centre, len(nucleus), sum(c["words"] for c in nucleus)))
-            f.write("- **Soul - the science:** %d works over MSU.\n" % len(by_organ.get("soul", [])))
+            f.write("- **Soul - the science:** %d works in the library above the Library of Congress.\n" % len(by_organ.get("soul", [])))
             f.write("- **Heart - the hardware and the Lansing Scuffle:** %d works in Lansing.\n\n" % len(by_organ.get("heart", [])))
             f.write("### The heart\n\n")
             for c in sorted(by_organ.get("heart", []), key=lambda c: (not SCUFFLE.search(c["title"]), not c["nucleus"], c["title"].lower())):
