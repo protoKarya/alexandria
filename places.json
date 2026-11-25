@@ -1,23 +1,23 @@
 {
+ "library": {
+  "name": "The Library, floating over MSU - the nucleus, and works that belong to no one place",
+  "lat": 42.7325,
+  "lon": -84.4822
+ },
+ "lansing": {
+  "name": "Lansing - the two houses of the Scuffle, and the Capitol",
+  "lat": 42.7336,
+  "lon": -84.5555
+ },
  "detroit": {
   "name": "Detroit",
   "lat": 42.3314,
   "lon": -83.0458
  },
- "lansing": {
-  "name": "Lansing (the Capitol)",
-  "lat": 42.7336,
-  "lon": -84.5555
- },
  "michigan": {
   "name": "Michigan, statewide",
   "lat": 44.3148,
   "lon": -85.6024
- },
- "library": {
-  "name": "The Library, floating over MSU - works that belong to no one place",
-  "lat": 42.7325,
-  "lon": -84.4822
  },
  "unplaced": {
   "name": "Not yet placed - case records that name no Michigan place",

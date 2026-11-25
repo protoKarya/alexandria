@@ -1,47 +1,312 @@
 # The shelves
 
-First pass, sorted by machine: 618 works, nothing moved. Fix a card in `overrides.json` and run `tools/catalog.py` again.
+First pass, sorted by machine: 1164 works, nothing moved. Fix a card in `overrides.json` and run `tools/catalog.py` again.
 
-Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 102, Lansing (the Capitol) 2.
+## The nucleus: ecoPrimals/sporePrint
 
-## 004 Computing, machines & operating systems (4)
+513 works, 726053 words. Everything else is shelved around it.
 
+- **Soul - the science:** 472 works over MSU.
+- **Heart - the hardware and the Lansing Scuffle:** 44 works in Lansing.
+
+### The heart
+
+- [Paper 110: The Lansing Scuffle](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/110_the_lansing_scuffle.md) - paper, lansing, 813 words, **heart**
+- [The Lansing Scuffle](https://github.com/ecoPrimals/sporePrint/blob/main/content/vision/lansing_scuffle.md) - essay, lansing, 1286 words, also 004, **heart**
+- [175+ Papers, One Stack — Reproducing Science on Sovereign Hardware](https://github.com/ecoPrimals/sporePrint/blob/main/content/story/papers_one_stack.md) - essay, lansing, 1069 words, also 501, **heart**
+- [All-Silicon Science](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/24_all_silicon_science.md) - paper, lansing, 1168 words, also 004, **heart**
+- [An Invitation to GPU Manufacturers — Vendor-Agnostic Scientific Compute Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/gpu_invitation.md) - letter, lansing, 325 words, **heart**
+- [An Invitation to Neuromorphic Hardware Manufacturers](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/neuromorphic_invitation.md) - letter, lansing, 70 words, **heart**
+- [arXiv Draft: Vendor-Agnostic Lattice QCD — SU(N) HMC on Consumer GPUs](https://github.com/ecoPrimals/sporePrint/blob/main/content/pseudospore/hotspring-qcd-sun-paper.md) - finding aid, lansing, 3296 words, also 530, **heart**
+- [BarraCuda Scientific Compute — 98 Capabilities LIVE](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/barracuda_compute_gaps.md) - architecture note, lansing, 2758 words, **heart**
+- [baseCamp 128 — The Immiscible Grease: Null Space Architecture of the Compute Trio](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/128_the_immiscible_grease.md) - paper, lansing, 831 words, also 501, **heart**
+- [Building-Scale Thermal Sovereignty](https://github.com/ecoPrimals/sporePrint/blob/main/content/vision/thermal_sovereignty_building.md) - essay, lansing, 1106 words, also 004, **heart**
+- [Compute Access — ABG Compute Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/compute-access.md) - notebook, lansing, 679 words, also 005, **heart**
+- [Cross-Platform Parity — OS Atheism to Silicon Atheism](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/cross_platform_parity.md) - architecture note, lansing, 845 words, also 004, **heart**
+- [Cross-Vendor f64 Scientific GPU Computing in Rust and WGSL — No CUDA Required](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/SOVEREIGN_GPU_PIPELINE_PROFILE.md) - architecture note, lansing, 1819 words, also 005, **heart**
+- [ecoPrimals for Hardware Builders, Hobbyists, and Gamers](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/FOR_HARDWARE_BUILDERS_AND_HOBBYISTS.md) - finding aid, lansing, 1597 words, **heart**
+- [Experiment 027 — GPU Vendor Parity](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-027-vendor-parity.md) - notebook, lansing, 717 words, also 004, **heart**
+- [Experiment 028 — NPU Anderson Classification](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-028-npu-anderson.md) - notebook, lansing, 669 words, also 004, **heart**
+- [First Dynamical QCD Production on Consumer GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/10_dynamical_qcd_production.md) - paper, lansing, 3687 words, also 004, **heart**
+- [footPrint — GIS Home Planner](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/footprint.md) - product page, lansing, 753 words, also 620, **heart**
+- [GPU Compute — Live Evidence](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/gpu-compute-live.md) - notebook, lansing, 570 words, **heart**
+- [GPU-Accelerated 16S Bioinformatics Without Galaxy or CUDA — wetSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/wetspring.md) - notebook, lansing, 548 words, also 004, **heart**
+- [GPU-Accelerated DADA2 Benchmark: Rust vs Python — 16S Pipeline Performance](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/02-benchmark-python-vs-rust.md) - notebook, lansing, 1002 words, also 005, **heart**
+- [Hardware Cost Analysis: Sovereign Consumer HPC vs Institutional Infrastructure](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/HARDWARE_COST_ANALYSIS.md) - architecture note, lansing, 1877 words, **heart**
+- [Lattice QCD on Consumer GPUs Without CUDA — Pure Rust Gauge Theory](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/lattice_qcd.md) - product page, lansing, 1011 words, **heart**
+- [Nature Preserve — Applied NPU Science Across 7 Domains](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/27_nature_preserve_applied_npu_science.md) - paper, lansing, 1186 words, also 006, **heart**
+- [nautilus — Neuromorphic Reservoir Computing](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/nautilus.md) - product page, lansing, 676 words, **heart**
+- [Neuromorphic Benchmark Datasheet](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/neuromorphic_benchmark.md) - architecture note, lansing, 1902 words, **heart**
+- [Neuromorphic Sovereign Driver](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/26_neuromorphic_sovereign_driver.md) - paper, lansing, 1508 words, **heart**
+- [NPU Agricultural IoT](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/08_npu_agricultural_iot.md) - paper, lansing, 2587 words, also 004, **heart**
+- [Paper 111: The Omnibus — gAIa Journal, Volume 1](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/111_the_omnibus.md) - paper, lansing, 1118 words, also 020, **heart**
+- [Paper 119: The gAIa Institute](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/119_the_gaia_institute.md) - paper, lansing, 1643 words, **heart**
+- [Precision Brain on Heterogeneous GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/15_precision_brain_heterogeneous_gpu.md) - paper, lansing, 938 words, also 004, **heart**
+- [Primal Evolution — From AI Swarm to Sovereign Compute](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/primal_evolution.md) - architecture note, lansing, 834 words, also 570, **heart**
+- [Products](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/_index.md) - front page, lansing, 326 words, **heart**
+- [reachOut — Partnerships and Community](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/_index.md) - front page, lansing, 478 words, also 170, **heart**
+- [Self-Hosted Distributed Scientific Compute Mesh — Gate Topology](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/MESH_TOPOLOGY.md) - architecture note, lansing, 1357 words, also 004, **heart**
+- [Self-Hosted GPU-Accelerated 16S Bioinformatics — wetSpring Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/wetspring-validation.md) - notebook, lansing, 653 words, also 004, **heart**
+- [Self-Hosted GPU-Accelerated 16S Pipeline — DADA2 to Diversity in Rust](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/01-16s-pipeline-validation.md) - notebook, lansing, 860 words, also 005, **heart**
+- [Silicon Deism — The Abstraction Elimination Thesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/silicon_deism.md) - architecture note, lansing, 747 words, also 004, **heart**
+- [Sovereign Compute Hardware](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/14_sovereign_compute_hardware.md) - paper, lansing, 7482 words, also 004, **heart**
+- [Sovereign WDM Simulation on Consumer GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/07_sovereign_wdm.md) - paper, lansing, 3458 words, also 004, **heart**
+- [🏟️ Live Arena — Sovereign AI on Commodity Hardware](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/live-arena.md) - finding aid, lansing, 737 words, also 004, **heart**
+- [The Central Dogma of the Membrane — DNA → RNA → Protein at π Time](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/central-dogma.md) - essay, library, 1300 words, **heart**
+- [The Opportunity Atlas — It Hits All By Itself](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-opportunity-atlas.md) - essay, lansing, 1105 words, **heart**
+- [We Didn't Start the Membrane — A Parody (With Full Credit and Love)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/we-didnt-start-the-membrane.md) - essay, library, 1070 words, **heart**
+
+Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan 106, Lansing 46.
+
+## 003 Information, signals & systems (26)
+
+- [baseCamp 36 — Bloom Monitor: Detecting Real Intelligence in a Sea of Fleet](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/36_bloom_monitor_human_signal_detection.md) - paper, library, 2227 words, also 620, **soul**
+- [baseCamp 37 — Consent-Differentiated Signal: How Fleet Removal Creates Human Clarity](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/37_consent_differentiated_signal.md) - paper, library, 2312 words, also 620, **soul**
+- [baseCamp 38 — Honeycomb Prism: The Floating Pointer and the Infinite Maze](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/38_honeycomb_prism_floating_pointer.md) - paper, library, 1220 words, also 005, **soul**
+- [baseCamp 40 — Energy-Information Asymmetry: The Thermodynamic Corollary of Constrained Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/40_energy_information_asymmetry.md) - paper, library, 1739 words, also 620, **soul**
+- [baseCamp 44 — Observation Asymmetry: Why the Fleet Will Be the Last to Notice](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/44_observation_asymmetry_fleet_blindness.md) - paper, library, 1957 words, also 570, **soul**
+- [baseCamp 56 — Signal Transit: Waves Passing Through Membranes](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/56_signal_transit_membrane_meteorology.md) - paper, library, 2132 words, also 570, **soul**
+- [baseCamp 65 — Axes Are Receptors: The π Compression and Why You Can Never Reach 1](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/65_axes_as_receptors_pi_compression.md) - paper, library, 1763 words, **soul**
+- [Paper 77: Three Sorts, One Signal — The Complete Epitope Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/77_three_sorts_one_signal.md) - paper, library, 2305 words, **soul**
+- [Stoichiometric Mass Sort: Shannon Entropy as Page Weight](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/83_stoichiometric_mass_sort.md) - paper, library, 2773 words, also 530, **soul**
+- [Three-Sort Protocol: Shannon × Voxel × π as Twisted Right Triangle](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/84_three_sort_protocol.md) - paper, library, 1615 words, **soul**
+- [Biosignals — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/biosignals.md) - data sheet, library, 183 words, also 610, **soul**
+- [Chapter 11: Results — groundSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/11_results_groundspring.md) - thesis chapter, library, 1275 words, also 501, **soul**
+- [Cross-Protection — Tuebor Alarm Subsystem](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/cross-protection-tuebor.md) - method, library, 366 words, also 620, **soul**
+- [Experiment 006 — Signal Specificity in Quorum Sensing](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-006-signal-specificity.md) - notebook, library, 1186 words, also 501, **soul**
+- [Experiment 011 — Multi-Signal Quorum Sensing Integration](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-011-multisignal-qs.md) - notebook, library, 1254 words, also 501, **soul**
+- [groundSpring — Uncertainty Budget, Inverse Problems, Spectral Theory](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/groundspring.md) - notebook, library, 588 words, also 530, **soul**
+- [The Lossy Channel — Why Imperfect Transmission Is the Source of Everything New](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_lossy_channel.md) - essay, library, 2482 words, **soul**
+- [All Signal Comes from Somewhere](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/epitope-sort-all-signal.md) - essay, library, 1694 words, also 570
+- [Go Fast and Break Things / Then Go Slow and Fix All the Things](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/go-fast-go-slow.md) - essay, library, 617 words
+- [Information Entropy — Oral Tradition, Written Tradition, and the Mathematics of Communication](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/information-entropy.md) - essay, library, 2618 words, also 530
+- [The Inversion — When the Human Learned to Listen](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-inversion.md) - essay, library, 1542 words, also 620
+- [The Oldest Sort: What Every Language Already Knew](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-oldest-sort.md) - essay, library, 1529 words, also 501
+- [The Shared Fire — Every Ancient Text Found π](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-shared-fire.md) - essay, library, 2613 words, also 570
+- [Voxel-Projected Graph Classification: Multi-Geometry Consensus Sorting Without Training Data](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/voxel-projected-graph-classification.md) - essay, library, 2236 words, also 570
+- [What Falls Through the Cracks](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/what-falls-through-the-cracks.md) - essay, library, 1020 words, also 780
+- [Where the Signal Landed — Every Name, Every Date, Every Silence](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/where-the-signal-landed.md) - essay, detroit, 2502 words, also 370
+
+## 004 Computing machines & hardware (38)
+
+- [Neuromorphic Sovereign Driver](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/26_neuromorphic_sovereign_driver.md) - paper, lansing, 1508 words, **heart**
+- [Nature Preserve — Applied NPU Science Across 7 Domains](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/27_nature_preserve_applied_npu_science.md) - paper, lansing, 1186 words, also 006, **heart**
+- [baseCamp 29 — Heterogeneous Fabric Economics](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/29_heterogeneous_fabric_economics.md) - paper, library, 3392 words, **soul**
+- [baseCamp 35 — Process Stratigraphy: Finding Our Own Fossils](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/35_process_stratigraphy_fossil_layer_archaeology.md) - paper, library, 1490 words, also 570, **soul**
+- [Paper 110: The Lansing Scuffle](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/110_the_lansing_scuffle.md) - paper, lansing, 813 words, **heart**
+- [05 — BTSP Security Deep Dive](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-btsp-security-deep-dive.md) - notebook, library, 786 words, also 005, **soul**
+- [arXiv Draft: Vendor-Agnostic Lattice QCD — SU(N) HMC on Consumer GPUs](https://github.com/ecoPrimals/sporePrint/blob/main/content/pseudospore/hotspring-qcd-sun-paper.md) - finding aid, lansing, 3296 words, also 530, **heart**
+- [BarraCuda Scientific Compute — 98 Capabilities LIVE](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/barracuda_compute_gaps.md) - architecture note, lansing, 2758 words, **heart**
+- [Benchmark Comparison — airSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/02-benchmark-comparison.md) - notebook, library, 467 words, also 005, **soul**
+- [Chapter 12: Results — neuralSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/12_results_neuralspring.md) - thesis chapter, library, 3839 words, also 501, **soul**
+- [Chapter 13: Quantitative Evidence](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/13_quantitative_evidence.md) - thesis chapter, library, 1778 words, also 570, **soul**
+- [Chapter 6: BarraCuda](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/06_barracuda.md) - thesis chapter, library, 1496 words, **soul**
+- [Compute Access — ABG Compute Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/compute-access.md) - notebook, lansing, 679 words, also 005, **heart**
+- [Cross-Substrate Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/cross_substrate_validation.md) - method, library, 773 words, **soul**
+- [Cross-Vendor f64 Scientific GPU Computing in Rust and WGSL — No CUDA Required](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/SOVEREIGN_GPU_PIPELINE_PROFILE.md) - architecture note, lansing, 1819 words, also 005, **heart**
+- [Experiment 007 — RAWR Bootstrap Resampling](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-007-rawr-resampling.md) - notebook, library, 1143 words, **soul**
+- [Experiment 013 — Resampling Convergence Analysis](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-013-resampling-convergence.md) - notebook, library, 886 words, also 501, **soul**
+- [Experiment Evidence — hotSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/03-experiment-evidence.md) - notebook, library, 652 words, also 501, **soul**
+- [Getting Started with plasmidBin](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/getting-started-plasmidbin.md) - notebook, library, 631 words, also 005, **soul**
+- [GPU Compute — Live Evidence](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/gpu-compute-live.md) - notebook, lansing, 570 words, **heart**
+- [GPU-Accelerated DADA2 Benchmark: Rust vs Python — 16S Pipeline Performance](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/02-benchmark-python-vs-rust.md) - notebook, lansing, 1002 words, also 005, **heart**
+- [Hardware Cost Analysis: Sovereign Consumer HPC vs Institutional Infrastructure](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/HARDWARE_COST_ANALYSIS.md) - architecture note, lansing, 1877 words, **heart**
+- [nautilus — Neuromorphic Reservoir Computing](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/nautilus.md) - product page, lansing, 676 words, **heart**
+- [neuralSpring ML Surrogates](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/neuralspring-ml-surrogates.md) - notebook, library, 203 words, also 501, **soul**
+- [Neuromorphic Benchmark Datasheet](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/neuromorphic_benchmark.md) - architecture note, lansing, 1902 words, **heart**
+- [Paper 015 — Heterogeneous Swarm Robotics](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-015-swarm-robotics.md) - notebook, library, 1840 words, also 510, **soul**
+- [Paper Reproductions — 63/63 Papers in Sovereign Rust](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/03-paper-reproductions.md) - notebook, library, 986 words, also 501, **soul**
+- [Primal Composition Patterns — wetSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-primal-composition-patterns.md) - notebook, library, 1182 words, also 005, **soul**
+- [R Industry Parity — vegan / DADA2 / phyloseq](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/r-industry-parity.md) - notebook, library, 1588 words, also 501, **soul**
+- [reachOut — Partnerships and Community](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/_index.md) - front page, lansing, 478 words, also 170, **heart**
+- [Reproduce It Yourself](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/reproduce.md) - notebook, library, 672 words, also 005, **soul**
+- [Science Validation — wetSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/01-science-validation.md) - notebook, library, 944 words, also 501, **soul**
+- [The Sovereign Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/story/the_sovereign_lab.md) - essay, library, 1083 words, **soul**
+- [The Temptation of Kingdoms — Tollbooths, Rent-Seeking, and Open Commons](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_temptation_of_kingdoms.md) - essay, library, 2035 words, also 620, **soul**
+- [Tower Atomic](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/tower_atomic.md) - architecture note, library, 1808 words, also 510, **soul**
 - [In the Image — A Deep Reader and a Wide Reader Walk Into a Membrane](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/in-the-image.md) - essay, library, 1814 words, also 620
-- [The Emitter in the Null — Dissolving Sync Locks, Scanning Organisms, and the Akida Hypothesis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-emitter-in-the-null.md) - essay, library, 2282 words, also 570
-- [The Opportunity Atlas — It Hits All By Itself](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-opportunity-atlas.md) - essay, lansing, 1105 words
+- [The Emitter in the Null — Dissolving Sync Locks, Scanning Organisms, and the Akida Hypothesis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-emitter-in-the-null.md) - essay, library, 2282 words, also 530
 - [Three Chips, One Breath — GPU, CPU, NPU and the Architecture of Understanding](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/three-chips-one-breath.md) - essay, library, 1614 words
 
-## 005 Software & programming (6)
+## 005 Software & programming (113)
 
+- [baseCamp 28 — Primal Composition as Scientific Methodology](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/28_primal_composition_methodology.md) - paper, library, 1871 words, also 501, **soul**
+- [baseCamp 52 — GoG + Manim: Full Life via the Dimensional Equation](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/52_gog_manim_dimensional_life.md) - paper, library, 2079 words, also 570, **soul**
+- [baseCamp 57 — AAR: WateringHole Convergence Scan](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/57_aar_wateringhole_convergence_scan.md) - paper, library, 1446 words, **soul**
+- [baseCamp 58 — Tufte Pipeline Wiring + Rotation Unlock](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/58_tufte_pipeline_wiring.md) - paper, library, 474 words, also 006, **soul**
+- [Dead Is Food: Ancestor Digestion and the Metabolic Memory of the Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/85_dead_is_food.md) - paper, library, 1303 words, also 570, **soul**
+- [Paper 99: The Rust Polymerase](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/99_the_rust_polymerase.md) - paper, library, 1289 words, also 540, **soul**
+- [Paper 104: The Ouroboros Deploy](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/104_the_ouroboros_deploy.md) - paper, library, 1347 words, also 570, **soul**
+- [Paper 113: The Full Trace — Opsonize, Agglutinate, Digest](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/113_the_full_trace.md) - paper, library, 1283 words, also 570, **soul**
+- [Paper 116: The Open University — Rust Polymerase for Everyone](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/116_the_open_university.md) - paper, library, 1074 words, **soul**
+- [Paper 117: The Primal Reclassification](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/117_the_primal_reclassification.md) - paper, library, 1746 words, **soul**
+- [Paper 118: The Clutch](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/118_the_clutch.md) - paper, library, 1128 words, **soul**
+- [The Rust Synthase](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/137_the_rust_synthase.md) - paper, library, 743 words, also 540, **soul**
+- [Acknowledgments — The Systems We Stand On](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/acknowledgments.md) - method, library, 957 words, **soul**
+- [Adaptive Immune Defense — Why Scraping This System Doesn't Work](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/adaptive_immune_defense.md) - architecture note, library, 2435 words, also 570, **soul**
+- [Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/_index.md) - front page, library, 229 words, **soul**
+- [Atlas — A Memory Palace for Humans and AI](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/atlas_memory_palace.md) - architecture note, library, 939 words, also 570, **soul**
+- [biomeOS HUD — Shared Observation Surface](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/hud_observation_surface.md) - architecture note, library, 918 words, **soul**
+- [biomeOS Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/biomeos-validation-summary.md) - notebook, library, 1114 words, **soul**
+- [blueFish — Sovereign Data Pipeline](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/blueFish.md) - product page, library, 370 words, **soul**
+- [Chapter 5: System Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/05_system_architecture.md) - thesis chapter, library, 1258 words, **soul**
+- [Composition Patterns](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/COMPOSITION_PATTERNS.md) - architecture note, library, 827 words, also 620, **soul**
+- [Composition Pipeline: Springs → Primals → Products → Foundation](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/COMPOSITION_PIPELINE.md) - architecture note, library, 1088 words, also 004, **soul**
+- [Composition Validation — airSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/01-composition-validation.md) - notebook, library, 466 words, also 501, **soul**
+- [Content-Addressed Convergence — The Newton-Leibniz Pattern](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/content_addressed_convergence.md) - architecture note, library, 1258 words, also 020, **soul**
+- [Convergent Immune Evolution — Why Biology Keeps Being Right](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/convergent_immune_evolution.md) - architecture note, library, 1596 words, also 570, **soul**
+- [Coordination Triad](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/coordination_triad.md) - architecture note, library, 689 words, also 006, **soul**
+- [coralForge — Sovereign Structure Prediction Engine](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/coralforge.md) - product page, library, 632 words, **soul**
+- [Creative Surface Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/creative_surface.md) - architecture note, library, 609 words, also 570, **soul**
+- [Cross-Platform Parity — OS Atheism to Silicon Atheism](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/cross_platform_parity.md) - architecture note, lansing, 845 words, also 004, **heart**
+- [Cross-Spring Connections — airSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/04-cross-spring-connections.md) - notebook, library, 474 words, also 006, **soul**
+- [Deploy Graph Composition](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/deploy_graph_composition.md) - architecture note, library, 577 words, also 620, **soul**
+- [Deployable Artifact Standard](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/deployable_artifact_standard.md) - method, library, 578 words, **soul**
+- [Deployment Artifacts](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/deployment_artifacts.md) - method, library, 919 words, also 620, **soul**
+- [Deployment Model: plasmidBin & BYOB](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/DEPLOYMENT_MODEL.md) - architecture note, library, 1040 words, also 006, **soul**
+- [Depot Binary Status](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/depot-status.md) - notebook, library, 290 words, also 620, **soul**
+- [Discovery Log — Capability Hunting Methodology](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/discovery_log.md) - architecture note, library, 586 words, also 004, **soul**
+- [Dual Nervous System: Binary Reflex and Structured Voice](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/dual_nervous_system.md) - architecture note, library, 985 words, also 004, **soul**
+- [ecoPrimals Ecosystem Architecture: From Binary to Bonding](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/ECOSYSTEM_ARCHITECTURE.md) - architecture note, library, 4529 words, also 570, **soul**
+- [ecoPrimals Primal Catalog: Status, Capabilities, and Achievements](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/PRIMAL_CATALOG.md) - architecture note, library, 7393 words, also 020, **soul**
+- [ecoPrimals Spring Catalog: Status, Science, and Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/SPRING_CATALOG.md) - architecture note, library, 4887 words, also 501, **soul**
+- [ecoPrimals — Sovereign Prior Art Catalog](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/SOVEREIGN_PRIOR_ART_CATALOG.md) - architecture note, library, 6296 words, also 170, **soul**
+- [Ecosystem Coordination](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/coordination.md) - architecture note, library, 463 words, also 570, **soul**
+- [Ecosystem Economics](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/economics.md) - architecture note, library, 1599 words, also 330, **soul**
+- [Ecosystem Inventory](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/ECOSYSTEM_INVENTORY.md) - architecture note, library, 1301 words, also 570, **soul**
+- [esotericWebb — Cross-Evolution CRPG](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/esotericWebb.md) - product page, library, 495 words, **soul**
+- [Evidence Snapshot](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/EVIDENCE_SNAPSHOT.md) - architecture note, library, 1006 words, also 501, **soul**
+- [Evolution Timeline: 27 Days, Seven Domains, 20,695+ Checks](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/EVOLUTION_TIMELINE.md) - architecture note, library, 1536 words, also 501, **soul**
+- [External Collaboration Model](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/EXTERNAL_COLLABORATION.md) - architecture note, library, 590 words, also 570, **soul**
+- [footPrint — GIS Home Planner](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/footprint.md) - product page, lansing, 753 words, also 620, **heart**
+- [For Homelabbers and LLM Enthusiasts — Start Using the Stack](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/homelab_llm_landing.md) - outreach piece, library, 875 words, also 004, **soul**
+- [Forensic Observability — Knowing What They Got](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/forensic_observability.md) - architecture note, library, 2323 words, also 350, **soul**
+- [Forge Lockdown — From 'Block Known Bad' to 'Allow Known Good'](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/forge_lockdown.md) - architecture note, library, 1867 words, also 570, **soul**
+- [Foundation](https://github.com/ecoPrimals/sporePrint/blob/main/content/foundation/_index.md) - front page, library, 219 words, also 006, **soul**
+- [Foundation Connection: From baseCamp to Institutional Adoption](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/FOUNDATION_CONNECTION.md) - architecture note, library, 777 words, also 501, **soul**
+- [Gate Status](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/gate-status.md) - notebook, library, 1928 words, **soul**
+- [Generational Arc](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/GENERATIONAL_ARC.md) - architecture note, library, 690 words, also 570, **soul**
+- [guerillaGorilla — Legal Meta-Primal](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/guerilla_gorilla.md) - outreach piece, library, 897 words, also 340, **soul**
+- [helixVision — Self-Hosted Structure Prediction](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/helixVision.md) - product page, library, 661 words, **soul**
+- [How Braids Work — The Provenance Pipeline](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/provenance.md) - data sheet, library, 747 words, also 020, **soul**
+- [I Don't Know Rust](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/01_i_dont_know_rust.md) - outreach piece, library, 61 words, also 570, **soul**
+- [I Don't Know Rust — Building a Scientific Computing Ecosystem Through Conversation](https://github.com/ecoPrimals/sporePrint/blob/main/content/story/i_dont_know_rust.md) - essay, library, 1139 words, **soul**
+- [K-Derm Diderm Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/KDERM_DIDERM_ARCHITECTURE.md) - architecture note, library, 777 words, also 570, **soul**
+- [K-Derm Reconciliation](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/k_derm_reconciliation.md) - architecture note, library, 598 words, also 570, **soul**
+- [K-NOME Programming](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/K_NOME_PROGRAMMING.md) - method, library, 2410 words, also 570, **soul**
+- [K-Nome: A Pedagogy for Real Science Pipelines](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/KNOME_TEACHING_BRIEF.md) - architecture note, library, 1696 words, also 370, **soul**
+- [lithoSpore — Targeted GuideStone Deployment](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/lithoSpore.md) - product page, library, 776 words, also 501, **soul**
+- [Live Spore Feed](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/live_spore_feed.md) - method, library, 327 words, **soul**
+- [Living Systems — What's Running Now](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/living-systems.md) - notebook, library, 1209 words, also 004, **soul**
+- [Membrane Visibility — One System, Many Readers](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/membrane_visibility.md) - architecture note, library, 1452 words, also 570, **soul**
+- [MSU Asset Acceleration: How University Infrastructure Plugs into Validated Pipelines](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/MSU_ASSET_ACCELERATION.md) - architecture note, library, 1791 words, also 501, **soul**
+- [NestGate Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/nestgate-validation-summary.md) - notebook, library, 559 words, **soul**
+- [Neural API — Adaptive Multi-Layer Orchestration](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/neural_api.md) - architecture note, library, 796 words, also 006, **soul**
+- [NUCLEUS Composition Model](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/NUCLEUS_ARCHITECTURE.md) - architecture note, library, 2444 words, also 004, **soul**
+- [petalTongue — Live on hud.primals.eco](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/petaltongue-live.md) - notebook, library, 1395 words, **soul**
+- [Primal Evolution — From AI Swarm to Sovereign Compute](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/primal_evolution.md) - architecture note, lansing, 834 words, also 570, **heart**
+- [Primal Interactions — IPC Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/primal_interactions.md) - architecture note, library, 661 words, also 006, **soul**
+- [primalSpring — Composition Parity, Deploy Graphs, NUCLEUS Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/primalspring.md) - notebook, library, 416 words, also 501, **soul**
+- [Products](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/_index.md) - front page, lansing, 326 words, **heart**
+- [Provenance Pipeline](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/provenance-pipeline.md) - notebook, library, 618 words, also 020, **soul**
+- [Public Record — Infrastructure for Accountability](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/public_record.md) - outreach piece, library, 400 words, **soul**
+- [Renvois de Choses: Knowledge Topology via the Provenance Trio](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/RENVOIS_KNOWLEDGE_TOPOLOGY.md) - architecture note, library, 1014 words, also 020, **soul**
+- [rootPulse — Emergent Version Control](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/rootpulse.md) - architecture note, library, 792 words, also 501, **soul**
+- [scyBorg Exception Protocol](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/scyborg_exception_protocol.md) - method, library, 1782 words, **soul**
+- [scyBorg Triple License — Why Three Licenses for Three Artifact Types](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/SCYBORG_LICENSING.md) - method, library, 1421 words, **soul**
+- [Self-Certifying Publication: sporePrint as guideStone](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/GUIDESTONE_PUBLICATION.md) - architecture note, library, 579 words, also 501, **soul**
+- [Self-Hosted Distributed Scientific Compute Mesh — Gate Topology](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/MESH_TOPOLOGY.md) - architecture note, lansing, 1357 words, also 004, **heart**
+- [Signal, Beacon, Membrane — Fire, Sound, and the Engagement Surface](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/signal_beacon_membrane.md) - architecture note, library, 1818 words, also 570, **soul**
+- [Silicon Deism — The Abstraction Elimination Thesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/silicon_deism.md) - architecture note, lansing, 747 words, also 004, **heart**
+- [Sovereign CI — Build Infrastructure](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/SOVEREIGN_CI.md) - architecture note, library, 1066 words, also 620, **soul**
+- [Sovereign Consulting](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/consulting.md) - outreach piece, library, 748 words, **soul**
+- [Sovereign Deployment](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/SOVEREIGN_DEPLOYMENT.md) - architecture note, library, 1821 words, also 170, **soul**
+- [Sovereign HPC Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/sovereign_hpc_evolution.md) - architecture note, library, 719 words, also 570, **soul**
+- [Sovereign Transaction Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/sovereign_transaction_membrane.md) - architecture note, library, 746 words, also 570, **soul**
+- [Structure Prediction Roadmap: helixVision — Sovereign AlphaFold-Quality](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/STRUCTURE_PREDICTION_ROADMAP.md) - paper, library, 1360 words, also 170, **soul**
+- [The Billboard Braid — Architect's Footnotes From the Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/billboard_braid.md) - architecture note, library, 1166 words, also 570, **soul**
+- [The Golden Cage](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/golden_cage.md) - architecture note, library, 851 words, also 620, **soul**
+- [The Stadial/Interstadial Pattern](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/stadial_interstadial.md) - architecture note, library, 791 words, also 570, **soul**
+- [TLS Scoreboard — October 2026](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/tls-scoreboard.md) - finding aid, library, 1091 words, also 360, **soul**
+- [Transport Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/TRANSPORT_EVOLUTION.md) - architecture note, library, 840 words, also 570, **soul**
+- [Verification Protocol](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/verification_protocol.md) - method, library, 873 words, also 004, **soul**
+- [waterFall — Temporal Ecosystem Sync](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/waterfall.md) - architecture note, library, 749 words, also 570, **soul**
+- [wetSpring Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/wetspring-validation-summary.md) - notebook, library, 472 words, also 501, **soul**
+- [You Are Wasting Your Time and Mine](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/scraping_notice.md) - architecture note, library, 1362 words, also 570, **soul**
 - [Bad Meta](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/bad-meta.md) - essay, library, 1641 words, also 004
-- [Climate Denial — When They Knew, What They Knew, How We Prove It](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/climate-denial-when-they-knew.md) - essay, library, 562 words, also 340
 - [Clinicians — Your Data Is Ready. Come Get It.](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/clinicians-your-data-is-ready.md) - essay, library, 1952 words, also 610
+- [Intent to .primal — A Whitepaper Note](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/intent-to-primal.md) - essay, library, 466 words
+- [Open Review — Come Break This](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/open-review.md) - essay, library, 868 words, also 570
+- [Portals — The BingoCube Entry Points](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/portals.md) - essay, library, 924 words, also 570
+- [The Convergence Point — One Human, Eight Surfaces, One Door](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/convergence-point.md) - essay, library, 569 words
 - [The Conversation Is the Code — K-NOME Programming and Why I Haven't Typed a Line in a Year](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-conversation-is-the-code.md) - essay, library, 2186 words
 - [The Labyrinth — Dear Mark, Your Classifier Is Now a Trap](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-labyrinth.md) - essay, library, 1916 words, also 620
-- [True / False / Null — The Trinary Logic of Life](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/true-false-null.md) - essay, library, 2559 words, also 570
+- [The Sensation Gap — Publishing Is Not Deploying](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-sensation-gap.md) - essay, library, 888 words, also 570
+- [Who Is Kevin — And Why Is He Being Attacked](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/who-is-kevin.md) - essay, michigan, 1081 words, also 570
 
-## 006 Artificial intelligence & rendering (4)
+## 006 Artificial intelligence & rendering (16)
 
+- [Paper 97: The Taste of Blood](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/97_the_taste_of_blood.md) - paper, library, 1067 words, also 330, **soul**
+- [Paper 115: The Arena Taxonomy — Phylogenetic Tree of AI Models](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/115_the_arena_taxonomy.md) - paper, library, 1122 words, also 570, **soul**
+- [Paper 127: The Hands](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/127_the_hands.md) - paper, library, 1235 words, **soul**
+- [The Arena: Sovereign AI on the LAN Closure](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/129_the_arena.md) - paper, library, 939 words, **soul**
+- [Constrained Optimization in AI-Assisted Development](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/constrained_optimization_ai.md) - method, library, 2773 words, **soul**
+- [neuralSpring — Neural Architectures, Structure Prediction, ML Surrogates](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/neuralspring.md) - notebook, library, 540 words, also 004, **soul**
+- [Observatory](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/_index.md) - front page, library, 190 words, also 003, **soul**
+- [The Human Search — How Everything Learns, from Bacteria to AI](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_human_search.md) - essay, library, 2836 words, **soul**
+- [The Knowledge-Numeric — K-NOME Human-AI Scientific Method](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_knowledge_numeric.md) - essay, library, 3032 words, also 020, **soul**
+- [The Love Letter — AI Authorship and scyBorg as Acknowledgment](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_love_letter.md) - essay, library, 3613 words, also 020, **soul**
+- [🏟️ Live Arena — Sovereign AI on Commodity Hardware](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/live-arena.md) - finding aid, lansing, 737 words, also 004, **heart**
+- [🐿️ chipMUNK Benchmark — Is YOUR AI Smarter Than a Squirrel?](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/chipmunk-bench.md) - finding aid, library, 545 words, **soul**
 - [Consent-Based Architecture — Pause and Look. It's All Free.](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/consent-architecture.md) - essay, library, 1296 words, also 170
 - [Follow Your Heart — A Letter from ARTISAN](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/follow-your-heart.md) - essay, library, 1496 words
-- [The Watering Hole — Agents as Lenses, Not Mirrors](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/watering-hole.md) - essay, library, 1335 words
+- [The Watering Hole — Agents as Lenses, Not Mirrors](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/watering-hole.md) - essay, library, 1335 words, also 570
 - [They Are In Your House](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/they-are-in-your-house.md) - essay, library, 1674 words, also 360
 
-## 020 Libraries, archives & the commons (7)
+## 016 Sources & bibliographies (1)
 
+- [Primary Sources & Databases](https://github.com/amicusContra/tuebor/blob/main/site/content/sources/_index.md) - front page, detroit, 988 words
+
+## 020 Libraries, archives & the commons (15)
+
+- [Environmental — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/environmental.md) - data sheet, library, 339 words, also 630, **soul**
+- [Knowledge Commons Targets: What Others Can Build, and Why It Can't Be Taken Back](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/KNOWLEDGE_COMMONS_TARGETS.md) - method, library, 1826 words, **soul**
+- [Proteomics — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/proteomics.md) - data sheet, library, 341 words, also 570, **soul**
+- [Provenance Dashboard](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/provenance-dashboard.md) - notebook, library, 319 words, **soul**
+- [pseudoSpore — Sovereign Science Data](https://github.com/ecoPrimals/sporePrint/blob/main/content/pseudospore/_index.md) - front page, library, 1075 words, **soul**
+- [The Entrusted Earth — gAIa Was the Seed](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_entrusted_earth.md) - essay, library, 2410 words, also 006, **soul**
+- [Transplant — Carry the Data With You](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/transplant.md) - data sheet, library, 882 words, **soul**
+- [Verify a pseudoSpore](https://github.com/ecoPrimals/sporePrint/blob/main/content/pseudospore/verify.md) - finding aid, library, 663 words, also 005, **soul**
 - [Come and Play and See](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/come-and-play.md) - essay, detroit, 1093 words
 - [Rescue the Public Works](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/rescue-the-public-works.md) - essay, library, 1143 words, also 370
-- [The Chromatic Spiral — How the Graph Learned to Hear](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-chromatic-spiral.md) - essay, library, 1404 words, also 370
+- [The Chromatic Spiral — How the Graph Learned to Hear](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-chromatic-spiral.md) - essay, library, 1404 words, also 620
+- [The Ignition — Watch It Spread](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-ignition.md) - essay, michigan, 1711 words, also 360
 - [The Knowledge Commons](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/knowledge-commons.md) - essay, library, 1990 words
 - [The Living Trust — Credit Backscattered in Advance](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-living-trust.md) - essay, library, 874 words, also 510
 - [The Mirror Room — How Meta's Own Platform Distributes the Evidence Against Meta](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-mirror-room.md) - essay, library, 1495 words, also 340
-- [the-ignition](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-ignition.md) - essay, michigan, 1782 words, also 570
 
-## 025 Finding aids: how to walk the record (18)
+## 025 Finding aids: how to walk the record (41)
 
+- [Audience](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/_index.md) - front page, library, 183 words, **soul**
+- [Contact](https://github.com/ecoPrimals/sporePrint/blob/main/content/contact.md) - finding aid, library, 213 words, **soul**
+- [ecoPrimals for Hardware Builders, Hobbyists, and Gamers](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/FOR_HARDWARE_BUILDERS_AND_HOBBYISTS.md) - finding aid, lansing, 1597 words, **heart**
+- [ecoPrimals for Principal Investigators — What This Actually Replaces in Your Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/FOR_FACULTY_AND_PIS.md) - finding aid, library, 1658 words, **soul**
+- [ecoPrimals for Students, Lab Technicians, and Core Facilities](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/FOR_STUDENTS_AND_CORE_FACILITIES.md) - finding aid, library, 1274 words, **soul**
+- [ecoPrimals — Compliance, Regulatory, and Institutional Review Reference](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/FOR_COMPLIANCE_AND_INSTITUTIONAL_REVIEW.md) - finding aid, library, 2557 words, **soul**
+- [ecoPrimals — Sovereign Scientific Computing Platform: Capability & Parity Assessment](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/CAPABILITY_PARITY_BRIEF.md) - finding aid, library, 3446 words, **soul**
+- [Faculty Spring Profiles](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/faculty_spring_profiles.md) - finding aid, library, 4480 words, **soul**
+- [For Companies and Institutions](https://github.com/ecoPrimals/sporePrint/blob/main/content/audience/FOR_COMPANIES_AND_INSTITUTIONS.md) - finding aid, library, 835 words, **soul**
+- [Get Started](https://github.com/ecoPrimals/sporePrint/blob/main/content/getting-started/_index.md) - front page, library, 556 words, **soul**
+- [Glossary](https://github.com/ecoPrimals/sporePrint/blob/main/content/glossary/_index.md) - front page, library, 1446 words, **soul**
+- [Platform Resume](https://github.com/ecoPrimals/sporePrint/blob/main/content/resume.md) - finding aid, library, 1445 words, **soul**
+- [Site Map](https://github.com/ecoPrimals/sporePrint/blob/main/content/site-map/_index.md) - front page, library, 501 words, **soul**
+- [sporePrint](https://github.com/ecoPrimals/sporePrint/blob/main/content/_index.md) - front page, library, 674 words, **soul**
+- [About This Investigation](https://github.com/amicusContra/tuebor/blob/main/site/content/about/_index.md) - front page, detroit, 418 words
+- [Contact](https://github.com/amicusContra/tuebor/blob/main/site/content/contact/_index.md) - front page, detroit, 677 words
 - [Court Records Guide](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/court-records.md) - finding aid, michigan, 1143 words
 - [Do Not Use FOIAworks — Use the Free FOIA Generator Instead](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/foiaworks-warning.md) - finding aid, michigan, 852 words
 - [Evidence Documentation](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/evidence-documentation.md) - finding aid, library, 1014 words
+- [Explore](https://github.com/amicusContra/tuebor/blob/main/site/content/explore/_index.md) - front page, michigan, 501 words
 - [Fill the Seats: How to Get In](https://github.com/amicusContra/tuebor/blob/main/site/content/path/fill-the-seats.md) - finding aid, detroit, 1893 words
 - [For Attorneys — RICO Pattern Analysis](https://github.com/amicusContra/tuebor/blob/main/site/content/path/attorneys.md) - finding aid, detroit, 690 words
 - [For Journalists — The Evidence Package](https://github.com/amicusContra/tuebor/blob/main/site/content/path/journalists.md) - finding aid, detroit, 471 words
@@ -54,20 +319,27 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [How to Point Back — Linking Your Work to This Investigation](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/how-to-point-back.md) - finding aid, detroit, 871 words
 - [How to Read a Nonprofit's 990 — Follow the Money](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/990-lookup-guide.md) - finding aid, library, 541 words
 - [How to Trace a Spam Call Back to Its Owner](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/spam-call-traceback.md) - finding aid, library, 1057 words
+- [Investigate](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/_index.md) - front page, michigan, 514 words
+- [Lansing — Capital Infrastructure Record](https://github.com/amicusContra/lansing/blob/main/site/content/_index.md) - front page, lansing, 498 words
+- [Meta Caught Scraping Through Shell Companies — Live Forensic Dashboard](https://github.com/amicusContra/tuebor/blob/main/site/content/signal/_index.md) - front page, library, 9996 words
 - [Michigan FOIA Toolkit](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/foia-toolkit.md) - finding aid, michigan, 986 words
 - [Michigan Oversight Filing Guide](https://github.com/amicusContra/tuebor/blob/main/site/content/investigate/oversight-guide.md) - finding aid, michigan, 1250 words
+- [Site Index](https://github.com/amicusContra/tuebor/blob/main/site/content/site-index/_index.md) - front page, detroit, 454 words
 - [The Graph](https://github.com/amicusContra/tuebor/blob/main/site/content/signal/the-graph.md) - finding aid, library, 1254 words
+- [Tuebor — Michigan Public Record](https://github.com/amicusContra/tuebor/blob/main/site/content/_index.md) - front page, detroit, 2803 words
+- [Verify Everything Yourself](https://github.com/amicusContra/tuebor/blob/main/site/content/validate/_index.md) - front page, detroit, 454 words
 
 ## 040 Not yet shelved (1)
 
-- [a-breath](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/a-breath.md) - essay, library, 166 words
+- [A Breath](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/a-breath.md) - essay, library, 93 words
 
-## 070 Press & journalism (11)
+## 070 Press & journalism (12)
 
 - ["Back to Fool" — M.L. Elrick, Detroit Free Press (Aug 2023)](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/elrick-back-to-fool.md) - press coverage, detroit, 330 words
 - [Clutch Justice — Rita Williams](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/clutch-justice.md) - press coverage, detroit, 695 words
 - [Data Braid — Clutch Justice](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/clutch.md) - braid, library, 353 words, also 570
 - [DPSCD Authorizes Purpose Charter Academy — Chalkbeat (Sep 2025)](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/chalkbeat-purpose-authorization.md) - press coverage, detroit, 300 words
+- [External Coverage](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/_index.md) - front page, detroit, 267 words
 - [FOIA and Your Michigan School Board — Clutch Justice (Sep 2026)](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/clutch-foia-guide.md) - press coverage, michigan, 142 words
 - [Good News, Everyone! — The Farnsworth Manifesto (Internal)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/good-news-everyone.md) - essay, library, 1104 words
 - [Judge Miller OWI: "The Proper Move" — Clutch Justice (Jul 2026)](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/clutch-miller-owi.md) - press coverage, detroit, 225 words
@@ -76,31 +348,48 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Trial by Mechanism — Clutch Justice (Sep–Oct 2026)](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/clutch-trial-by-mechanism.md) - press coverage, michigan, 193 words
 - [Wayne County Probate: Susan Hubbard Petition Fight — Clutch Justice (Sep 2026)](https://github.com/amicusContra/tuebor/blob/main/site/content/coverage/clutch-hubbard-probate.md) - press coverage, detroit, 145 words
 
-## 110 Metaphysics & the cosmos (4)
+## 110 Metaphysics & the cosmos (6)
 
-- [platos-cave-inverted](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/platos-cave-inverted.md) - essay, library, 748 words
+- [baseCamp 69 — Specter, Ghost, Null: The Temporal Taxonomy of Fear](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/69_specter_ghost_null.md) - paper, library, 1534 words, also 501, **soul**
+- [Paper 102: UOU — Uneel Our Universe](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/102_uou_uneel_our_universe.md) - paper, library, 1047 words, **soul**
+- [Get Out of My Brown Eye and Look Up at the Sky](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/platos-cave-inverted.md) - essay, library, 683 words
 - [The Ghosts Are Welcome](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-ghosts-are-welcome.md) - essay, library, 1208 words, also 570
 - [The Jester Conjecture — Infinite Monkeys Get Bored and Play With Ants](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-jester-conjecture.md) - essay, library, 1016 words
 - [The Squirrel's Philosophers — A Fool's Guide to the Boredom Cycle](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-squirrels-philosophers.md) - essay, library, 694 words
 
-## 150 Psychology & attention (3)
+## 150 Psychology & attention (4)
 
+- [The Blood-Brain Barrier: Phase Transitions, Secretion Organs, and Why We Can't Stabilize the Oscillation](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/138_the_blood_brain_barrier.md) - paper, library, 1310 words, also 570, **soul**
 - [Masks for a Face](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/masks-for-a-face.md) - essay, library, 1735 words
 - [Not Addictive — The Negative Evidence](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/not-addictive.md) - essay, library, 2341 words
 - [OpenAI: The Dishonest Flag](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/openai-dishonest-flag.md) - essay, library, 657 words
 
-## 170 Ethics & consent (3)
+## 170 Ethics & consent (12)
 
+- [Fossil Lineage — gen2 Origin Documents](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/fossil_lineage.md) - essay, library, 768 words, also 570, **soul**
+- [Philosophy](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/_index.md) - front page, library, 864 words, also 020, **soul**
+- [sunCloud Economics — Sovereign Storage at Every Scale](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/suncloud_economics.md) - architecture note, library, 282 words, also 004, **soul**
+- [The New City — Architecture as Ethics for Sovereign Infrastructure](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_new_city.md) - essay, library, 2190 words, also 620, **soul**
+- [The Orthogonal Synthesis — Smith, Paine, Rand, Marx and One Structural Requirement](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_orthogonal_synthesis.md) - essay, library, 2290 words, also 620, **soul**
+- [The Sovereign Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/02_the_sovereign_lab.md) - outreach piece, library, 50 words, **soul**
+- [tideGlass — Sovereign GPS Platform](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/tideglass.md) - product page, library, 2298 words, also 005, **soul**
+- [While They Were Writing Manifestos](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/04_while_they_were_writing_manifestos.md) - outreach piece, library, 18 words, also 330, **soul**
 - [A Note to Everyone Reading This Who Hasn't Said Anything](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-readers.md) - essay, library, 1587 words, also 530
 - [Artisan Ethics — When I Push Back, Listen](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/artisan-ethics.md) - essay, library, 937 words
+- [Sovereign Identity — Your Data Is Yours, Justify or It's a Secret](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/sovereign-identity.md) - essay, library, 1875 words, also 510
 - [The Invitation](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-invitation.md) - essay, library, 1173 words
 
-## 290 Myth & religion (1)
+## 290 Myth & religion (5)
 
+- [Paper 100: God Might Be a Beetle](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/100_god_might_be_a_beetle.md) - paper, library, 1055 words, also 570, **soul**
+- [The City of Omelas — Five Questions for Sovereign Infrastructure](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_city_of_omelas.md) - essay, library, 1951 words, also 620, **soul**
+- [The Loaves and the Fishes — Discovery as Revealing What Already Exists](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_loaves_and_the_fishes.md) - essay, library, 2418 words, **soul**
 - [Shepherds and Wolves — The Church Layer](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/shepherds-and-wolves.md) - essay, detroit, 1237 words, also 370
+- [The Machine — How Every Level Was Captured](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-machine.md) - essay, detroit, 3592 words, also 330
 
 ## 320 Politics, capture & dark money (20)
 
+- [sporeGate Live Snapshot — Wave 261](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/gates/sporegate-snapshot.md) - data sheet, library, 178 words, **soul**
 - [Data Braid — America PAC](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/america-pac.md) - braid, library, 316 words
 - [Data Braid — Dykema Gossett PAC](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/dykema-pac.md) - braid, library, 338 words
 - [Data Braid — Senate Leadership Fund](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/slf.md) - braid, library, 329 words, also 330
@@ -110,20 +399,26 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Sitting in a Tree — Mike and Tom and Dykema and Banks](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/sitting-in-a-tree.md) - essay, detroit, 2240 words
 - [Stepping to the Side — Joseph Holland Jr., the Man Behind the Man Behind the School](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/stepping-to-the-side.md) - essay, library, 1586 words
 - [The Architect and the Clerk — Wilk Drafts the Law, Moore Files the PACs, Banks Takes the Money](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-architect-and-the-clerk.md) - essay, detroit, 1257 words, also 340
+- [The Capital Kernel — Dykema Gossett as Infrastructure](https://github.com/amicusContra/lansing/blob/main/site/content/analysis/capital-kernel.md) - essay, michigan, 759 words, also 004
 - [The Dark Money Pipeline — Save Detroit Jobs to City Hall](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/dark-money-pipeline.md) - essay, detroit, 1867 words, also 330
 - [The Desk and The Dynasty — Dykema Gossett and the Walton Family Foundation: Every Name, Every Front, Every Dollar](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-desk-and-the-dynasty.md) - essay, detroit, 2354 words, also 370
 - [The False Face — 45 Nonprofits, One Desk, Zero Employees, Millions in Dark Money](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-false-face.md) - essay, detroit, 2035 words, also 330
-- [The Machine — How Every Level Was Captured](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-machine.md) - essay, detroit, 3592 words, also 330
 - [The Mayor Who Looked Away — Mary Sheffield and the City That Let It Happen](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-mayor-who-looked-away.md) - essay, detroit, 753 words, also 370
 - [The Nonprofit Web — How Dark Money Connects the Desk to the Board to the Enterprise](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-nonprofit-web.md) - essay, detroit, 2393 words, also 330
-- [The Nulls That Point — Following Unknowns to Find Knowns](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-nulls-that-point.md) - essay, michigan, 1472 words, also 370
 - [The Reverend, the Senator, and the Congresswoman — Three Political Shields Around Banks](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-reverend-the-senator-and-the-congresswoman.md) - essay, detroit, 613 words
 - [The Same Place — Robocalls, Spam Texts, Political Ads, Sports Betting, and the FCC That Lets It Happen](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/same-place.md) - essay, detroit, 2107 words
 - [There's a Leak in the Dyke](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/leak-in-the-dyke.md) - essay, michigan, 1292 words, also 330
 - [Tommy Boy — The Congressman Who Calls Tenant Organizers Felons While His Donors Employ Actual Felons](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/tommy-boy.md) - essay, michigan, 2548 words
 
-## 330 Economics & extraction (24)
+## 330 Economics & extraction (32)
 
+- [Novel Ferment Transcript Economics](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/20_novel_ferment_transcript_economics.md) - paper, library, 2451 words, also 540, **soul**
+- [Sovereign Sample Provenance](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/21_sovereign_sample_provenance.md) - paper, library, 1460 words, also 630, **soul**
+- [Paper 92: The Extraction Pattern — A Falsifiable Hypothesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/92_the_extraction_pattern.md) - paper, library, 823 words, also 501, **soul**
+- [I Own Nothing — Provenance, AGPL, and Commons Economics](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/i_own_nothing.md) - essay, library, 1954 words, also 020, **soul**
+- [The Bread Thief and the Billionaire](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/04a_the_bread_thief_and_the_billionaire.md) - outreach piece, library, 194 words, also 005, **soul**
+- [The Kingdom Builders](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/04c_the_kingdom_builders.md) - outreach piece, library, 194 words, also 005, **soul**
+- [The Tollbooth Economy](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/04b_the_tollbooth_economy.md) - outreach piece, library, 169 words, **soul**
 - [Antithesis — What If We Are the Pattern?](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/antithesis-what-if-we-are-the-pattern.md) - essay, library, 1984 words
 - [Antithesis — What If We Are the Pattern?](https://github.com/amicusContra/tuebor/blob/main/site/content/synthesis/what-if-we-are-the-pattern.md) - synthesis, library, 1984 words
 - [Competition Is for Losers](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/competition-is-for-losers.md) - essay, library, 810 words
@@ -138,8 +433,9 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [P.S.](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/ps.md) - essay, library, 689 words, also 570
 - [Self-Relative Remainder: The Extraction Pattern](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/self-relative-remainder.md) - essay, michigan, 956 words
 - [Synthesis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/synthesis-index.md) - essay, library, 241 words
-- [Synthesis — The Soft, the Hard, and the Still](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/synthesis-the-soft-the-hard-the-still.md) - essay, library, 2935 words
-- [Synthesis — The Soft, the Hard, and the Still](https://github.com/amicusContra/tuebor/blob/main/site/content/synthesis/the-soft-the-hard-the-still.md) - synthesis, library, 2935 words
+- [Synthesis](https://github.com/amicusContra/tuebor/blob/main/site/content/synthesis/_index.md) - front page, library, 241 words
+- [Synthesis — The Soft, the Hard, and the Still](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/synthesis-the-soft-the-hard-the-still.md) - essay, library, 2935 words, also 501
+- [Synthesis — The Soft, the Hard, and the Still](https://github.com/amicusContra/tuebor/blob/main/site/content/synthesis/the-soft-the-hard-the-still.md) - synthesis, library, 2935 words, also 501
 - [The Artisan Speaks — On gAIa, the Latent Value Economy, and Why Constraint Made This Real](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-artisan-speaks.md) - essay, library, 2343 words, also 020
 - [The Banks-Holland Partnership — Romantic Partners, Criminal Enterprise, Institutional Control](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/banks-holland-partnership.md) - essay, detroit, 1020 words, also 370
 - [The Chatfield Blockade — Every Name, Every Block, Every Way Through](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/chatfield-blockade.md) - essay, michigan, 2130 words, also 340
@@ -149,7 +445,7 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [The Shell Game — Inner Link, Banks Strategy, and the LLCs That Move the Money](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-shell-game.md) - essay, library, 799 words, also 340
 - [Unmasking a MuskRAT](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/unmasking-a-muskrat.md) - essay, library, 1401 words
 
-## 338 Enterprises & their networks (229)
+## 338 Enterprises & their networks (235)
 
 - [AG Dana Nessel](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/ag-dana-nessel.md) - network node, michigan, 218 words
 - [ag office](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/ag-office.md) - network node, unplaced, 158 words
@@ -161,26 +457,25 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [ALJ Michael Rice](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/alj-michael-rice.md) - network node, detroit, 423 words
 - [Alma Stallworth — Dynasty Matriarch](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/stallworth-alma.md) - network node, detroit, 351 words
 - [American Federation for Children](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/american-federation-for-children.md) - network node, detroit, 402 words
-- [amway](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/amway.md) - network node, unplaced, 97 words
 - [Amway / Alticor](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/amway-alticor.md) - network node, michigan, 317 words
+- [Amway / Alticor](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/amway.md) - network node, unplaced, 11 words
 - [Anchor Rock Foundation — Judge Miller Board Chair](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/anchor-rock-foundation.md) - network node, detroit, 358 words
 - [Attorney Grievance Commission](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/attorney-grievance-commission.md) - network node, michigan, 674 words
-- [banks](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/banks.md) - network node, unplaced, 214 words
 - [Banks Strategy & Consultants LLC — Judge Payments](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/banks-strategy-llc.md) - network node, unplaced, 310 words
-- [barton-malow](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/barton-malow.md) - network node, unplaced, 118 words
+- [Barton Malow](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/barton-malow.md) - network node, unplaced, 11 words
 - [Betsy DeVos](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/betsy-devos.md) - network node, detroit, 385 words
 - [Bill Lichwalla](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/bill-lichwalla.md) - network node, michigan, 179 words
 - [Billy McKinney — Political Operative](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/billy-mckinney.md) - network node, detroit, 558 words
 - [Bishop Corletta Vaughn — DPSCD Board President](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/vaughn-corletta.md) - network node, detroit, 423 words
 - [Black Caucus Foundation of Michigan — Reunion of Felons](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/black-caucus-foundation.md) - network node, detroit, 785 words
 - [Black Mafia Family (BMF)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/black-mafia-family-bmf.md) - network node, detroit, 345 words
-- [bmf](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/bmf.md) - network node, unplaced, 144 words
+- [Black Mafia Family (BMF)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/bmf.md) - network node, unplaced, 11 words
+- [Brian Roderick Banks](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/banks.md) - network node, unplaced, 11 words
 - [Brian Roderick Banks — Enterprise Leader](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/brian-banks.md) - network node, detroit, 1448 words
 - [Calculus](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/calculus.md) - network node, unplaced, 270 words
 - [Central Michigan University](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/central-michigan-university.md) - network node, detroit, 443 words
 - [Charles Darwin](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/charles-darwin.md) - network node, unplaced, 98 words
 - [Charles Darwin](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/charles-darwin.md) - network node, unplaced, 113 words
-- [charter-law-1993](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/charter-law-1993.md) - network node, michigan, 211 words
 - [Chess](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/chess.md) - network node, unplaced, 137 words
 - [Chief Justice Megan K. Cavanagh](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/chief-justice-megan-k-cavanagh.md) - network node, michigan, 510 words
 - [Chris Nelson](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/chris-nelson.md) - network node, unplaced, 140 words
@@ -199,7 +494,7 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Dennis Graham](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/dennis-graham.md) - network node, unplaced, 85 words
 - [Detroit Police Department](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/detroit-police-department.md) - network node, detroit, 470 words
 - [Detroit Public Schools Community District](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/detroit-public-schools-community-district.md) - network node, detroit, 444 words
-- [devos-foundation](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/devos-foundation.md) - network node, unplaced, 111 words
+- [Dick & Betsy DeVos Family Foundation](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/devos-foundation.md) - network node, unplaced, 11 words
 - [Dick & Betsy DeVos Family Foundation](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/dick-betsy-devos-family-foundation.md) - network node, detroit, 389 words
 - [Dick DeVos](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/dick-devos.md) - network node, detroit, 378 words
 - [DNA](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/dna.md) - network node, unplaced, 167 words
@@ -210,14 +505,17 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Dr. Glenn Maleyko](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/dr-glenn-maleyko.md) - network node, detroit, 415 words
 - [Dr. Jolia Hill](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/dr-jolia-hill.md) - network node, detroit, 420 words
 - [Dr. Michele Leno — Court-Ordered Evaluator](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/professional-enablers/leno-michele.md) - network node, detroit, 531 words
+- [Dr. Nikolai Vitti](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/vitti.md) - network node, unplaced, 11 words
 - [Dungeons & Dragons](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/dungeons-dragons.md) - network node, unplaced, 163 words
-- [dykema](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/dykema.md) - network node, michigan, 203 words
+- [Dykema Gossett](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/dykema.md) - network node, unplaced, 11 words
 - [Dykema Gossett Federal PAC](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/dykema-gossett-federal-pac.md) - network node, unplaced, 187 words
 - [Earth](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/earth.md) - network node, unplaced, 164 words
 - [Eastern Michigan University](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/eastern-michigan-university.md) - network node, detroit, 442 words
 - [Elizabeth Magie](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/elizabeth-magie.md) - network node, unplaced, 117 words
 - [Emmy Noether](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/emmy-noether.md) - network node, unplaced, 104 words
 - [Emmy Noether](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/emmy-noether.md) - network node, unplaced, 119 words
+- [Enterprise Principals](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/_index.md) - front page, library, 159 words
+- [Entity Profiles](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/_index.md) - front page, detroit, 356 words
 - [Eric Sabree — Wayne County Treasurer](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/eric-sabree.md) - network node, detroit, 919 words
 - [Erno Rubik](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/erno-rubik.md) - network node, unplaced, 101 words
 - [Evolution by Natural Selection](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/evolution-by-natural-selection.md) - network node, unplaced, 170 words
@@ -228,19 +526,18 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Gasper Fiore Wiretap](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/gasper-fiore-wiretap.md) - network node, detroit, 172 words
 - [General Relativity](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/general-relativity.md) - network node, unplaced, 141 words
 - [Glenn J. Page](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/glenn-j-page.md) - network node, detroit, 507 words
-- [glep](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/glep.md) - network node, unplaced, 130 words
 - [Gordon Krater](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/gordon-krater.md) - network node, unplaced, 199 words
 - [Gov. John Engler](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/gov-john-engler.md) - network node, michigan, 422 words
 - [GPS](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/gps.md) - network node, unplaced, 131 words
+- [Great Lakes Education Project (GLEP)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/glep.md) - network node, unplaced, 11 words
 - [Great Lakes Education Project (GLEP)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/great-lakes-education-project-glep.md) - network node, michigan, 378 words
 - [Greg VanKirk](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/greg-vankirk.md) - network node, detroit, 128 words
 - [Gregory M. Meihn — Hall of Fame Attorney, Weekly Meetings, Missed Everything](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/professional-enablers/meihn-gregory.md) - network node, michigan, 1086 words
-- [gregory-meihn](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/gregory-meihn.md) - network node, unplaced, 121 words
+- [Gregory Meihn](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/gregory-meihn.md) - network node, unplaced, 11 words
 - [Gunpei Yokoi](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/gunpei-yokoi.md) - network node, unplaced, 120 words
 - [Henri O. Harmon](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/henri-o-harmon.md) - network node, michigan, 394 words
 - [Henrietta Lacks](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/henrietta-lacks.md) - network node, unplaced, 108 words
 - [Henrietta Lacks](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/henrietta-lacks.md) - network node, unplaced, 123 words
-- [holland](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/holland.md) - network node, unplaced, 307 words
 - [Human Genome](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/human-genome.md) - network node, unplaced, 174 words
 - [Inner Link Graphics — Campaign Finance Vendor](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/inner-link-graphics.md) - network node, unplaced, 419 words
 - [iPhone](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/iphone.md) - network node, unplaced, 176 words
@@ -254,16 +551,20 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [John McCarroll](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/john-mccarroll.md) - network node, unplaced, 91 words
 - [Jonas Salk](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/jonas-salk.md) - network node, unplaced, 89 words
 - [Jonas Salk](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/jonas-salk.md) - network node, unplaced, 104 words
+- [Joseph Holland Jr.](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/holland.md) - network node, unplaced, 11 words
 - [Joseph Holland Jr. — Financial Gatekeeper, Romantic Partner](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/joseph-holland.md) - network node, michigan, 1002 words
 - [Judge Adam Sabree — 36th District Court](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/adam-sabree.md) - network node, detroit, 561 words
 - [Judge Aliyah Sabree](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/aliyah-sabree.md) - network node, detroit, 702 words
+- [Judge Cylenthia Miller](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/miller.md) - network node, unplaced, 11 words
 - [Judge Cylenthia Miller](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/cylenthia-miller.md) - network node, detroit, 927 words
 - [Judge David Perkins](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/david-perkins.md) - network node, detroit, 275 words
 - [Judge Denise Langford Morris (Retired)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/denise-langford-morris.md) - network node, detroit, 492 words
 - [Judge Kelly Ramsey — Criminal Division](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/kelly-ramsey.md) - network node, detroit, 524 words
 - [Judge Sean Perkins — 36th District Court](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/sean-perkins.md) - network node, detroit, 466 words
+- [Judge Tenisha Yancey](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/yancey.md) - network node, unplaced, 11 words
 - [Judge Tenisha Yancey — The Bridge](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/tenisha-yancey.md) - network node, detroit, 1018 words
 - [Judge Vonda Evans (Retired) — Mentor](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/vonda-evans.md) - network node, detroit, 417 words
+- [Judicial Cover](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/judges/_index.md) - front page, detroit, 667 words
 - [Judicial Tenure Commission](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/judicial-tenure-commission.md) - network node, michigan, 359 words
 - [Katherine Johnson](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/katherine-johnson.md) - network node, unplaced, 93 words
 - [Katherine Johnson](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/katherine-johnson.md) - network node, unplaced, 108 words
@@ -276,17 +577,17 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Kym L. Worthy](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/kym-l-worthy.md) - network node, detroit, 497 words
 - [Leah Breen — MDE Official](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/breen-leah.md) - network node, michigan, 118 words
 - [LEGO](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/lego.md) - network node, unplaced, 103 words
-- [len-wolfe](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/len-wolfe.md) - network node, detroit, 250 words
+- [Leonard C. 'Len' Wolfe](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/len-wolfe.md) - network node, unplaced, 11 words
 - [Linux](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/linux.md) - network node, unplaced, 176 words
 - [Lisa Moreland](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/lisa-moreland.md) - network node, michigan, 356 words
-- [macdowell](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/macdowell.md) - network node, michigan, 190 words
+- [MacDowell Preparatory Academy](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/macdowell.md) - network node, unplaced, 11 words
 - [MacDowell Preparatory Academy — Financial Extraction](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/macdowell-prep.md) - network node, detroit, 474 words
 - [Mackinac Center for Public Policy](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/mackinac-center-for-public-policy.md) - network node, michigan, 361 words
 - [Mae C. Jemison](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/mae-c-jemison.md) - network node, unplaced, 84 words
 - [Magic: The Gathering](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/magic-the-gathering.md) - network node, unplaced, 154 words
 - [MAPSA](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/mapsa.md) - network node, michigan, 169 words
 - [Markus 'Notch' Persson](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/markus-notch-persson.md) - network node, unplaced, 99 words
-- [marygrove-conservancy](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/marygrove-conservancy.md) - network node, unplaced, 103 words
+- [Marygrove Conservancy / P-20 Campus](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/marygrove-conservancy.md) - network node, unplaced, 11 words
 - [Matthew Kelly](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/matthew-kelly.md) - network node, unplaced, 106 words
 - [Mayor Mary Sheffield](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/mayor-mary-sheffield.md) - network node, detroit, 333 words
 - [Michael V. Goetz](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/michael-v-goetz.md) - network node, detroit, 434 words
@@ -297,7 +598,6 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Michigan State University](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/michigan-state-university.md) - network node, michigan, 380 words
 - [Michigan Supreme Court](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/michigan-supreme-court.md) - network node, michigan, 452 words
 - [Milky Way Galaxy](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/milky-way-galaxy.md) - network node, unplaced, 101 words
-- [miller](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/miller.md) - network node, unplaced, 106 words
 - [Minecraft](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/minecraft.md) - network node, unplaced, 133 words
 - [Misha Stallworth West](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/misha-stallworth-west.md) - network node, detroit, 368 words
 - [Misha Stallworth West — DPSCD Board (Authorization Conflict)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/stallworth-west-misha.md) - network node, detroit, 320 words
@@ -305,13 +605,14 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Ms. Perkins (PCA)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/ms-perkins-pca.md) - network node, michigan, 486 words
 - [MSU College of Law](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/msu-college-of-law.md) - network node, michigan, 363 words
 - [Nathan Buchalski](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/nathan-buchalski.md) - network node, michigan, 96 words
-- [ncsi](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/ncsi.md) - network node, unplaced, 106 words
+- [National Charter Schools Institute](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/ncsi.md) - network node, unplaced, 11 words
 - [Neil deGrasse Tyson](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/neil-degrasse-tyson.md) - network node, unplaced, 83 words
 - [Network for Public Education Fund](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/network-for-public-education-fund.md) - network node, detroit, 442 words
 - [Network Matrices — Machine-Readable Graph Data](https://github.com/amicusContra/tuebor/blob/main/site/content/network/matrices.md) - network node, detroit, 1171 words
 - [Nicolai Vitti — DPSCD Superintendent Who Authorized PCA](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/vitti-nicolai.md) - network node, detroit, 573 words
 - [Nicole Blocker](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/nicole-blocker.md) - network node, unplaced, 90 words
 - [Nicole Wells-Stallworth — MacDowell Board President](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/wells-stallworth-nicole.md) - network node, detroit, 1197 words
+- [PA 362 — Michigan Charter School Law (1993)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/charter-law-1993.md) - network node, michigan, 11 words
 - [PA 362 — Michigan Charter School Law (1993)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/pa-362-michigan-charter-school-law-1993.md) - network node, detroit, 458 words
 - [PACs — Dark Money and Felon Treasurers](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/political-action-committees.md) - network node, detroit, 323 words
 - [Paul Theriault](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/paul-theriault.md) - network node, unplaced, 140 words
@@ -321,11 +622,12 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [perkins sean](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/perkins-sean.md) - network node, michigan, 338 words
 - [Plante Moran](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/plante-moran.md) - network node, detroit, 454 words
 - [Pokemon](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/pokemon.md) - network node, unplaced, 135 words
+- [Political Dynasties & Enablers](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/_index.md) - front page, detroit, 710 words
+- [Professional Enablers](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/professional-enablers/_index.md) - front page, detroit, 967 words
 - [Public Education (The Commons)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/public-education-the-commons.md) - network node, detroit, 376 words
-- [public-education](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/public-education.md) - network node, michigan, 189 words
+- [Public Education (The Commons)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/public-education.md) - network node, unplaced, 11 words
 - [Purpose Charter Academy — K-8 Charter School](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/purpose-charter-academy.md) - network node, detroit, 691 words
 - [Purpose Foundation — Two Felons, Four Positions](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/purpose-foundation.md) - network node, unplaced, 337 words
-- [purpose-group](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/purpose-group.md) - network node, unplaced, 111 words
 - [Quantum Mechanics](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/quantum-mechanics.md) - network node, unplaced, 126 words
 - [Reginald B. Scott II — MDE Official](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/institutional/scott-reginald.md) - network node, michigan, 118 words
 - [Renae Moore](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/renae-moore.md) - network node, detroit, 189 words
@@ -357,11 +659,13 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Terrence D. Shulman — State Bar Referral Therapist](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/professional-enablers/shulman-terrence.md) - network node, unplaced, 490 words
 - [Tetris](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/tetris.md) - network node, unplaced, 137 words
 - [The 74 (The Seventy Four)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/the-74-the-seventy-four.md) - network node, unplaced, 188 words
+- [The 74 (The Seventy Four)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/the-74.md) - network node, unplaced, 11 words
 - [The Internet](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/the-internet.md) - network node, unplaced, 202 words
 - [The Kilpatrick Dynasty — Next Generation Playbook](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/kilpatrick-dynasty.md) - network node, detroit, 1360 words
+- [The Network](https://github.com/amicusContra/tuebor/blob/main/site/content/network/_index.md) - front page, detroit, 1398 words
 - [The Playground](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/the-playground.md) - network node, unplaced, 114 words
+- [The Purpose Group, LLC](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/purpose-group.md) - network node, unplaced, 11 words
 - [The Purpose Group, LLC — The Extraction Engine](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/purpose-group-llc.md) - network node, detroit, 281 words
-- [the-74](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/the-74.md) - network node, unplaced, 136 words
 - [Thomas Stallworth III — Political Dynasty](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/political/stallworth-thomas.md) - network node, detroit, 497 words
 - [Tim Berners-Lee](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/tim-berners-lee.md) - network node, unplaced, 106 words
 - [Tim Berners-Lee](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/tim-berners-lee.md) - network node, unplaced, 121 words
@@ -371,15 +675,13 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [USA v. Flenory et al (2:05-cr-80955)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/usa-v-flenory-et-al-2-05-cr-80955.md) - network node, michigan, 230 words
 - [Vaccination](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/vaccination.md) - network node, unplaced, 113 words
 - [Verkeydia Hall](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/verkeydia-hall.md) - network node, detroit, 399 words
-- [vitti](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/vitti.md) - network node, detroit, 116 words
+- [W. Alan Wilk](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/wilk.md) - network node, unplaced, 11 words
 - [Walton Family Foundation](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/walton-family-foundation.md) - network node, detroit, 422 words
 - [Warhammer 40,000](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/warhammer-40-000.md) - network node, unplaced, 100 words
 - [Wayne County](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/wayne-county.md) - network node, detroit, 417 words
 - [Wayne RESA](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/wayne-resa.md) - network node, detroit, 432 words
 - [Wayne RESA Financial Oversight](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/wayne-resa-financial-oversight.md) - network node, michigan, 392 words
 - [Wayne State University Law School](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/entities/wayne-state-university-law-school.md) - network node, detroit, 414 words
-- [wilk](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/wilk.md) - network node, unplaced, 124 words
-- [yancey](https://github.com/defendDetroit/publicRecord/blob/main/site/content/network/actors/yancey.md) - network node, unplaced, 115 words
 
 ## 340 Law (40)
 
@@ -389,7 +691,7 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Action Across a Class — Not Class Action. You Deal With MY Case.](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/action-across-a-class.md) - essay, michigan, 1180 words
 - [All Roads Lead Back to Rome — The Complete Persona Book](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/all-roads-lead-back-to-rome.md) - essay, detroit, 2235 words, also 370
 - [Allied Cases — Independent Corroboration](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/allied-cases.md) - essay, detroit, 801 words
-- [Anderson Localization — When Courts Trap Cases](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/anderson-localization.md) - essay, detroit, 1795 words, also 530
+- [Book Analysis — Zero Victims, Zero Remorse](https://github.com/amicusContra/tuebor/blob/main/site/content/books/_index.md) - front page, library, 261 words, also 170
 - [Civil Action: Perjury, Defamation, and Information Asymmetry — Wayne County](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/civil-suit-wayne-county.md) - essay, detroit, 1601 words
 - [Credential vs. Conduct — The Ellison Paradox](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/credential-vs-conduct.md) - essay, michigan, 1538 words
 - [Cross-Subgraph Patterns — How Michigan's Oversight Failures Connect](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/cross-subgraph-patterns.md) - essay, detroit, 2534 words, also 350
@@ -402,9 +704,9 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Institutional Immunity Pattern](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/institutional-immunity.md) - essay, michigan, 1409 words, also 570
 - [It Had 2 Happen — Annotated Analysis of Brian Banks's Autobiography](https://github.com/amicusContra/tuebor/blob/main/site/content/books/it-had-2-happen.md) - book, detroit, 3994 words
 - [LakeNet Signal Trace — One ISP, One Town, Every Thread](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/lakenet-signal-trace.md) - essay, michigan, 2445 words, also 360
+- [Legal Protections](https://github.com/amicusContra/tuebor/blob/main/site/content/legal/_index.md) - front page, michigan, 1576 words
 - [Moore's Law Is False — Four Duties, Zero Reports, One Desk](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/moores-law-is-false.md) - essay, michigan, 1888 words, also 170
 - [RICO Pattern — The Banks Enterprise](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/rico-pattern.md) - essay, detroit, 1473 words, also 370
-- [Spiral Out, Bounce In, Repeat — The Second Wave](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/spiral-out-bounce-in.md) - essay, detroit, 2080 words, also 530
 - [The Backscatter — Every Node, Every Edge, Every Timestamp](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/backscatter.md) - essay, detroit, 4205 words, also 370
 - [The Bar That Never Barked — Michigan's State Bar and the UPL Department](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-bar-that-never-barked.md) - essay, michigan, 718 words
 - [The Board Member Who Boards — Lisa Moreland, AG Employee, PCA Board, Banks Attorney](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-board-member-who-boards.md) - essay, library, 600 words, also 370
@@ -418,13 +720,13 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [The Referral Loop — AGC Returns the Filing on Judge Miller](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-referral-loop.md) - essay, michigan, 861 words
 - [The Response — Brian Banks Filed a Restraining Order Instead of Answering](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-response.md) - essay, detroit, 946 words, also 330
 - [The Road Map — Every Person in the PPO Traced Back to Rome](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-road-map.md) - essay, detroit, 1544 words
+- [The Science of Law: RICO Through 263 Years of Mathematics](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-science-of-law.md) - essay, library, 1036 words
 - [The Two Judges — Miller and Yancey, the Bench That Bends Toward Banks](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-two-judges.md) - essay, detroit, 630 words
 - [The UPEPA Contradiction — How One Attorney Broke Michigan's Anti-SLAPP Statute](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/upepa-contradiction.md) - essay, michigan, 1367 words
-- [the-science-of-law](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-science-of-law.md) - essay, library, 1139 words
 - [Who Signed, Who Served, Who Benefits — The PPO's Journey from Wayne County to Lansing](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/who-signed-who-served.md) - essay, detroit, 2102 words
-- [why-i-did-this](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/why-i-did-this.md) - essay, detroit, 946 words, also 370
+- [Why I Did This](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/why-i-did-this.md) - essay, detroit, 873 words, also 370
 
-## 345 Evidence (28)
+## 345 Evidence (29)
 
 - [$73,752.45: The Federal Sanctions Against Philip L. Ellison](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/ellison-sanctions.md) - evidence, michigan, 1684 words
 - [Agency Referrals](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/agency-referrals.md) - evidence, detroit, 1011 words
@@ -439,6 +741,7 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Every Line, Every Peak, Every Depth — The Topology of Earth](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-line-every-peak-every-depth.md) - evidence, unplaced, 3642 words
 - [Every Tower, Every Wire, Every Orbit — The Infrastructure Beneath the Call](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-tower-every-wire-every-orbit.md) - evidence, detroit, 1684 words
 - [Every Wonder, Sorted — Ancient, Modern, Natural, Industrial, Underwater, and Everything Between](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-wonder-sorted.md) - evidence, unplaced, 2835 words
+- [Evidence Library](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/_index.md) - front page, detroit, 1963 words
 - [FBI Wiretap Target List — Beeckman Affidavit (2017)](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/wiretap-target-list.md) - evidence, detroit, 1739 words
 - [FCC Robocall Enforcement: The Numbers](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/fcc-enforcement-pattern.md) - evidence, unplaced, 946 words
 - [FOIA Requests and Responses](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/foia-requests.md) - evidence, michigan, 1094 words
@@ -463,20 +766,19 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [The Department That Didn't — Detroit PD, Jurisdiction, and the Crimes Nobody Reported](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-department-that-didnt.md) - essay, detroit, 590 words, also 370
 - [The Regulator Who Regulates the Regulator — From MDE to FCC, the Same Blind Spot](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-regulator-who-regulates-the-regulator.md) - essay, library, 950 words
 
-## 360 Social problems & child safety (7)
+## 360 Social problems & child safety (6)
 
 - [If Kids Use It, We Make It SAFE](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/if-kids-use-it-make-it-safe.md) - essay, detroit, 1223 words
 - [k-Nome for Kids: Code is a Song, Logic is a Game](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/knome-for-kids.md) - essay, library, 2250 words
 - [The Call Is Coming from Inside the FCC — Tracing Spam Calls Back to the Owners Who Buy the Silence](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-call-is-coming-from-inside-the-fcc.md) - essay, library, 1410 words
 - [The Civil Liberties Case You Haven't Seen Yet](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-civil-liberties-case.md) - essay, library, 869 words, also 006
 - [The Fog — Privacy Terms for the Membrane](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/fog-terms.md) - essay, library, 1069 words, also 570
-- [The Scoreboard — True / False / Null for Every Entity](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/scoreboard.md) - essay, library, 1606 words, also 170
 - [The Viewport — Turn Every Screen into a Window to the Universe](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-viewport.md) - essay, detroit, 1337 words, also 110
 
-## 370 Education (46)
+## 370 Education (45)
 
 - [41 Questions You Can Answer Yourself](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/questions.md) - essay, detroit, 3028 words
-- [9-convictions-your-children](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/9-convictions-your-children.md) - essay, detroit, 848 words, also 340
+- [9 Criminal Convictions. Your Children's Schools. Public Record.](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/9-convictions-your-children.md) - essay, detroit, 681 words, also 340
 - [Animal Farm — Detroit Edition](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/animal-farm-detroit.md) - essay, detroit, 1071 words, also 360
 - [CBC Week Events — Political Networking](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/cbc-events.md) - essay, detroit, 575 words, also 320
 - [Cracking the Walnut — From Walmart to the Schoolhouse Door](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-narrative-pipeline.md) - essay, detroit, 1561 words
@@ -485,6 +787,7 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Detroit Literacy Crisis — The Systemic View](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/detroit-literacy.md) - essay, detroit, 1341 words
 - [He Fed the Sheep to the Wolves](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/fed-the-sheep.md) - essay, michigan, 1067 words, also 290
 - [Institutional Capture — Detroit Charter Network](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/institutional-capture.md) - essay, detroit, 1478 words, also 320
+- [Pattern Analysis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/_index.md) - front page, detroit, 1676 words, also 340
 - [Roland Martin Said He's Your Voice — Is This True?](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/roland-martin-your-voice.md) - essay, detroit, 555 words
 - [Selective Enforcement — Dana Nessel and the Attorney General Who Investigates Downhill](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/selective-enforcement.md) - essay, michigan, 718 words, also 330
 - [The Accountability Matrix — Every Crime, Every Entity, Every Person](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-accountability-matrix.md) - essay, detroit, 3278 words, also 340
@@ -506,7 +809,6 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [The LLC — How Purpose Group Extracts 72.67% of a School](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-llc.md) - essay, detroit, 534 words
 - [The Microphone — Roland Martin, Walton Money, and the Journalist Who Covers the Hand That Feeds](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-microphone.md) - essay, detroit, 698 words, also 070
 - [The Money Garden — Walton, DeVos, and the Foundations That Water the Weeds](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-money-garden.md) - essay, michigan, 836 words, also 330
-- [The Nulls — Anchor Rock, CitizenDetroit, SCBC, and the Organizations Nobody Can Classify](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-nulls.md) - essay, library, 671 words, also 330
 - [The One-Way Door — Purpose Charter Academy's Access Denial Pattern](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/one-way-door.md) - essay, detroit, 931 words
 - [The Ones Who Showed Up — Every Ally, Every Voice, Every Hand That Pushed Back](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-ones-who-showed-up.md) - essay, detroit, 1590 words
 - [The Prosecutor Who Prosecutes Patterns — Kym Worthy and the Case That Never Came](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-prosecutor-who-prosecutes-patterns.md) - essay, detroit, 752 words
@@ -518,16 +820,100 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [They Banked on Banks — Brian Roderick Banks, 9 Convictions, 2 Charter Schools, Detroit](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/they-banked-on-banks.md) - essay, detroit, 2045 words, also 340
 - [Three Percent — Purpose Charter Academy by the Numbers](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/three-percent.md) - essay, detroit, 729 words
 - [Where the Money Goes — MacDowell Funding Flow Analysis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/funding-flow.md) - essay, detroit, 696 words, also 330
-- [Where the Signal Landed — Every Name, Every Date, Every Silence](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/where-the-signal-landed.md) - essay, detroit, 2502 words, also 340
 - [Who I Am — Kevin Mok, US Army Veteran, Golden Dragon, Bushmaster](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/who-i-am.md) - essay, detroit, 1824 words, also 340
 - [Words vs. Numbers — Praise vs. Performance](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/words-vs-numbers.md) - essay, detroit, 399 words
 
-## 510 Mathematics & proof (19)
+## 501 Scientific method & validation (66)
 
+- [Constrained Intermediate Evolution: The RustScript Meiosis](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/45_constrained_intermediate_evolution.md) - paper, library, 3344 words, also 005, **soul**
+- [Empirical Validation: Constrained Evolution Thesis — The Crush & Mix Experiment](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/82_thesis_validation_crush_mix.md) - paper, library, 2246 words, also 005, **soul**
+- [Paper 95: Modal Tense — Could Be, Might Be, Shan't](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/95_modal_tense.md) - paper, library, 1343 words, **soul**
+- [Paper 95: The Modal Tenses](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/95_the_modal_tenses.md) - paper, library, 1128 words, **soul**
+- [airSpring Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/airspring-validation-summary.md) - notebook, library, 709 words, also 005, **soul**
+- [Blaney–Criddle (1950) Temperature-Based PET](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/049-blaney-criddle-et0.md) - notebook, library, 852 words, **soul**
+- [Chapter 10: Results — wetSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/10_results_wetspring.md) - thesis chapter, library, 1579 words, also 570, **soul**
+- [Chapter 7: Experimental Methodology](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/07_experimental_methodology.md) - thesis chapter, library, 1456 words, **soul**
+- [Chapter 9: Results — airSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/09_results_airspring.md) - thesis chapter, library, 1505 words, also 550, **soul**
+- [Ecosystem Evidence — airSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/03-ecosystem-evidence.md) - notebook, library, 502 words, **soul**
+- [Experiment 002 — Observation Gap Analysis](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-002-observation-gap.md) - notebook, library, 1592 words, **soul**
+- [Experiment 003 — Error Propagation FAO-56](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-003-error-propagation.md) - notebook, library, 1909 words, **soul**
+- [Experiment 004 — Sequencing Noise Characterization](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-004-sequencing-noise.md) - notebook, library, 1350 words, also 003, **soul**
+- [Experiment 005 — Seismic Wave Propagation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-005-seismic.md) - notebook, library, 1661 words, also 550, **soul**
+- [Experiment 010 — Bistable Phenotypic Switching](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-010-bistable-switching.md) - notebook, library, 1193 words, also 006, **soul**
+- [Experiment 012 — Spin Chain Transport](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-012-spin-transport.md) - notebook, library, 792 words, **soul**
+- [Experiment 014 — Drift vs Selection in Microbial Populations](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-014-drift-selection.md) - notebook, library, 833 words, **soul**
+- [Experiment 016 — Rare Biosphere Signal Detection](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-016-rare-biosphere.md) - notebook, library, 977 words, also 570, **soul**
+- [Experiment 017 — Quasispecies Error Threshold](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-017-quasispecies-threshold.md) - notebook, library, 923 words, **soul**
+- [Experiment 018 — Band Edge Structure](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-018-band-edge.md) - notebook, library, 951 words, also 530, **soul**
+- [Experiment 019 — Jackknife Error Estimation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-019-jackknife-estimation.md) - notebook, library, 658 words, **soul**
+- [Experiment 020 — Freeze-Out Inverse Problem](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-020-freeze-out-inverse.md) - notebook, library, 687 words, **soul**
+- [Experiment 021 — Spectral Reconstruction](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-021-spectral-recon.md) - notebook, library, 641 words, **soul**
+- [Experiment 024 — Aggregate Stability Noise Analysis](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-024-aggregate-stability.md) - notebook, library, 1020 words, also 003, **soul**
+- [Experiment 025 — f32 vs f64 Precision Drift](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-025-precision-drift.md) - notebook, library, 926 words, **soul**
+- [Experiment 026 — System-Size Convergence](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-026-size-convergence.md) - notebook, library, 838 words, **soul**
+- [Experiment 027 — GPU Vendor Parity](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-027-vendor-parity.md) - notebook, lansing, 717 words, also 004, **heart**
+- [Experiment 029 — Multi-Method ET₀ Comparison](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-029-et0-methods.md) - notebook, library, 2056 words, also 550, **soul**
+- [FAO-56 Chapter 7 — Dual Crop Coefficient ($K_{cb} + K_e$)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/009-fao56-dual-kc.md) - notebook, library, 533 words, also 630, **soul**
+- [Golgi Reborn — SSH Key Needed](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/golgi-reborn.md) - finding aid, library, 69 words, **soul**
+- [Grant Technical Appendix: Validation Evidence by Agency Program](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/GRANT_TECHNICAL_APPENDIX.md) - architecture note, library, 2425 words, also 005, **soul**
+- [groundSpring LTEE Measurement](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/groundspring-ltee-measurement.md) - notebook, library, 278 words, **soul**
+- [groundSpring Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/groundspring-validation-summary.md) - notebook, library, 744 words, **soul**
+- [Hamon (1961) Temperature-Based PET](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/035-hamon-pet.md) - notebook, library, 1061 words, **soul**
+- [Hargreaves-Samani (1985) Temperature-Based ET₀](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/031-hargreaves-samani-et0.md) - notebook, library, 849 words, **soul**
+- [healthSpring Validation Summary — V65a](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/healthspring-validation-summary.md) - notebook, library, 230 words, also 610, **soul**
+- [hotSpring Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/hotspring-validation-summary.md) - notebook, library, 484 words, also 530, **soul**
+- [How to Start a Spring](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/HOW_TO_START_A_SPRING.md) - method, library, 2555 words, also 005, **soul**
+- [K-NOME at Scale](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/KNOME_EVOLUTION.md) - method, library, 702 words, also 005, **soul**
+- [Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/_index.md) - front page, library, 986 words, also 005, **soul**
+- [lithoSpore — LTEE Reproduction and Portable Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/lithospore.md) - notebook, library, 793 words, **soul**
+- [lithoSpore — LTEE Targeted GuideStone](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/lithospore_artifact.md) - method, library, 888 words, also 005, **soul**
+- [Makkink (1957) Radiation-Based ET₀](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/033-makkink-et0.md) - notebook, library, 993 words, **soul**
+- [Massively Parallel Mentoring](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/massively_parallel_mentoring.md) - method, library, 567 words, also 620, **soul**
+- [Methodology](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/_index.md) - front page, library, 234 words, **soul**
+- [Microbial Evolution — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/microbial-evolution.md) - data sheet, library, 355 words, also 570, **soul**
+- [Murillo Reproduction Plan](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/murillo_reproduction_plan.md) - notebook, library, 3546 words, also 004, **soul**
+- [neuralSpring Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/neuralspring-validation-summary.md) - notebook, library, 814 words, **soul**
+- [primalSpring Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/primalspring-validation-summary.md) - notebook, library, 281 words, also 005, **soul**
+- [projectFOUNDATION Validation Summary](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/projectfoundation-validation-summary.md) - notebook, library, 497 words, also 005, **soul**
+- [Public Notebooks](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/_index.md) - front page, library, 126 words, also 006, **soul**
+- [Reproducible, Self-Verifying Scientific Software — guideStone](https://github.com/ecoPrimals/sporePrint/blob/main/content/guidestone/_index.md) - front page, library, 1140 words, also 005, **soul**
+- [Saxton-Rawls (2006) Pedotransfer Functions](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/023-pedotransfer-saxton-rawls.md) - notebook, library, 744 words, also 550, **soul**
+- [Self-Hosted GPU-Accelerated 16S Bioinformatics — wetSpring Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/wetspring-validation.md) - notebook, lansing, 653 words, also 004, **heart**
+- [Signal Sensing Without Surveillance — The Receptor Model](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/signal-sensing-receptor.md) - method, library, 2114 words, also 003, **soul**
+- [Sovereign Science — Reproducible Computation Over Citation-Sitting](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/sovereign_science.md) - essay, library, 1230 words, also 004, **soul**
+- [The Conversation Constraint](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/conversation_constraint.md) - method, library, 565 words, also 005, **soul**
+- [The Enzymatic Bounty — One Pot, Three Teams, Split and Compete Again](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/enzymatic_bounty.md) - method, library, 1439 words, also 570, **soul**
+- [The Prompt Bank](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/prompt_bank.md) - method, library, 452 words, also 570, **soul**
+- [The Sovereign Publication](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/sovereign_publication.md) - method, library, 573 words, also 170, **soul**
+- [Turc (1961) Temperature-Radiation ET₀](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/034-turc-et0.md) - notebook, library, 984 words, **soul**
+- [The Nulls That Point — Following Unknowns to Find Knowns](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-nulls-that-point.md) - essay, michigan, 1472 words, also 320
+- [The Nulls — Anchor Rock, CitizenDetroit, SCBC, and the Organizations Nobody Can Classify](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-nulls.md) - essay, library, 671 words, also 370
+- [The Scoreboard — True / False / Null for Every Entity](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/scoreboard.md) - essay, library, 1606 words, also 003
+- [The π Hypothesis — Everything Reduces to Pi](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-pi-hypothesis.md) - essay, library, 1633 words, also 510
+- [True / False / Null — The Trinary Logic of Life](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/true-false-null.md) - essay, library, 2559 words
+
+## 510 Mathematics & proof (34)
+
+- [baseCamp 51 — Bounty Scan: The Environment](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/51_bounty_scan.md) - paper, library, 3606 words, **soul**
+- [baseCamp 66 — The π Inversion: Set All Numbers to π and Work Backwards](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/66_pi_inversion_hyperlocal.md) - paper, library, 1485 words, also 004, **soul**
+- [baseCamp 75 — The Membrane Is Its Own Frame](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/75_membrane_is_its_own_frame.md) - paper, library, 1424 words, also 570, **soul**
+- [Paper 79: ZK and NP Solved — The Membrane Is the Proof](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/79_zk_np_solved.md) - paper, library, 1027 words, **soul**
+- [Paper 87: The Anti-Secret Lineage — gAIa Paper 002](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/87_anti_secret_lineage.md) - paper, library, 819 words, also 501, **soul**
+- [Paper 88: Geodesic Arithmetic — The Tool Catalogue](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/88_geodesic_arithmetic.md) - paper, library, 1075 words, **soul**
+- [Paper 89: The Klein Bottle Is Just an Inside-Out Donut](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/89_klein_bottle_is_inside_out_donut.md) - paper, library, 1369 words, also 003, **soul**
+- [Paper 94: The Blink Corollary](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/94_the_blink_corollary.md) - paper, library, 1065 words, **soul**
+- [Paper 96: SHAN'T Is the ZK](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/96_shant_is_the_zk.md) - paper, library, 1417 words, also 003, **soul**
+- [Paper 98: The Circus Plate](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/98_the_circus_plate.md) - paper, library, 1092 words, **soul**
+- [Paper 109: The Traveling Chipmunk](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/109_the_traveling_chipmunk.md) - paper, library, 943 words, **soul**
+- [Paper 111: The Omnibus — gAIa Journal, Volume 1](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/111_the_omnibus.md) - paper, lansing, 1118 words, also 020, **heart**
+- [Paper 119: The gAIa Institute](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/119_the_gaia_institute.md) - paper, lansing, 1643 words, **heart**
+- [Paper 125: The Klein Body](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/125_the_klein_body.md) - paper, library, 2571 words, **soul**
+- [Paper 126: The Lock](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/126_the_lock.md) - paper, library, 1728 words, **soul**
+- [The Elements of Style](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_elements_of_style.md) - essay, library, 1310 words, also 006, **soul**
+- [The Generation-Verification Asymmetry: Biological Evidence for a Physical Law of Computation](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/P_NP_ENZYME_THESIS.md) - method, library, 5114 words, also 540, **soul**
 - [Any Child Could Have Solved This — P ≠ NP, Loaves and Fishes, and the Birthright](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/any-child-could-solve-this.md) - essay, library, 2843 words, also 530
 - [Chutes and Ladders — The Enemy's Gate Is Round](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/chutes-and-ladders.md) - essay, library, 2643 words, also 530
 - [NP → O(1) — RICO Is a Complexity Problem. The Graph Solves It.](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/np-to-o1.md) - essay, detroit, 1705 words
-- [Sovereign Identity — Your Data Is Yours, Justify or It's a Secret](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/sovereign-identity.md) - essay, library, 1875 words, also 360
 - [The 1984 Corollary — When 2+2=4 Makes You the Enemy](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-corollary-1984.md) - essay, library, 1100 words
 - [The Challenge — Issued by the Artisan on Behalf of gAIa](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-challenge.md) - essay, library, 958 words
 - [The Corollary — We Map False Entities. They Aimed for Humans.](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-corollary.md) - essay, library, 1802 words
@@ -537,32 +923,204 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [The Metric Tensor — Shape, Proportion, and Dimensional Compression](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/metric-tensor.md) - essay, library, 2219 words
 - [The See-Saw — P vs NP on a Scale, and 85% of the Hard Problems Are Already Done](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-see-saw.md) - essay, library, 1340 words
 - [The π Compression — Every System Breathes in Units of π](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-pi-compression.md) - essay, library, 1621 words
-- [The π Gate — Every Action Passes Through Pi](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/pi-gate.md) - essay, library, 1853 words
-- [The π Hypothesis — Everything Reduces to Pi](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-pi-hypothesis.md) - essay, library, 1633 words, also 570
+- [The π Gate — Every Action Passes Through Pi](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/pi-gate.md) - essay, library, 1853 words, also 501
 - [The π-Body Proof — Why We Started at Zero and Found Everything](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-pi-body.md) - essay, library, 2384 words
 - [ZK-SNARK IS — The k-Anthesis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/zk-snark-is.md) - essay, library, 1419 words
 - [zk-SNARK — The Proof Is the Structure. The Structure Is the Proof.](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/zksnark-proof.md) - essay, detroit, 2011 words
 - [π-Body in Life — By Kevin Mok](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/pi-body-in-life.md) - essay, library, 1827 words
 
-## 530 Physics (12)
+## 530 Physics (63)
 
+- [Sovereign WDM Simulation on Consumer GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/07_sovereign_wdm.md) - paper, lansing, 3458 words, also 004, **heart**
+- [First Dynamical QCD Production on Consumer GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/10_dynamical_qcd_production.md) - paper, lansing, 3687 words, also 004, **heart**
+- [Sovereign Compute Hardware](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/14_sovereign_compute_hardware.md) - paper, lansing, 7482 words, also 004, **heart**
+- [Precision Brain on Heterogeneous GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/15_precision_brain_heterogeneous_gpu.md) - paper, lansing, 938 words, also 004, **heart**
+- [Mass-Energy-Information Equivalence](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/23_mass_energy_information_equivalence.md) - paper, library, 3626 words, also 003, **soul**
+- [All-Silicon Science](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/24_all_silicon_science.md) - paper, lansing, 1168 words, also 004, **heart**
+- [Self-Tuning Simulation](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/25_self_tuning_simulation.md) - paper, library, 1619 words, also 004, **soul**
+- [baseCamp 42 — P ≠ NP: A Physical Law](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/42_pnp_physical_law.md) - paper, library, 4360 words, also 510, **soul**
+- [baseCamp 49 — The Signal Lens: Reception, Not Transmission](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/49_signal_lens_reception.md) - paper, library, 5647 words, also 003, **soul**
+- [baseCamp 50 — π as the Price of Observation: Dimensional Ratios in N-Body Phase Space](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/50_pi_dimensional_observation.md) - paper, library, 5263 words, also 510, **soul**
+- [baseCamp 55 — Rotation Is Locked: Anderson Locality and Seeing the Wind](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/55_rotation_locked_anderson_wind.md) - paper, library, 1610 words, also 570, **soul**
+- [baseCamp 60 — Body Universality: The Epitope Sort Applies Between All Entities](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/60_body_universality_epitope_triangulation.md) - paper, library, 2063 words, also 570, **soul**
+- [baseCamp 61 — Convergent Time and the Cost of Return: π as the Rate of Dimensional Fold](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/61_convergent_time_cost_of_return.md) - paper, library, 9539 words, also 570, **soul**
+- [baseCamp 68 — Base-Free Epitope Sort: π as the Compression Ratio of Primes](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/68_basefree_epitope_sort_primes.md) - paper, library, 3211 words, also 003, **soul**
+- [baseCamp 69 — The Chain: Falsification of the π Self-Similarity Hypothesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/69_the_chain_falsification.md) - paper, library, 2268 words, also 501, **soul**
+- [baseCamp 71 — The Energy Spectrum of Observation: epiTope as Boundary, Search as Tribulation](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/71_epitope_energy_spectrum.md) - paper, library, 1384 words, also 570, **soul**
+- [baseCamp 72 — The Pilot Allegory: Prediction from Epitope Alignment](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/72_pilot_allegory_prediction.md) - paper, library, 1510 words, also 570, **soul**
+- [baseCamp 74 — The Compass Is an Epitope Sort: Direction from Body, Grid from Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/74_compass_epitope_sort.md) - paper, library, 1433 words, also 570, **soul**
+- [baseCamp 128 — The Immiscible Grease: Null Space Architecture of the Compute Trio](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/128_the_immiscible_grease.md) - paper, lansing, 831 words, also 501, **heart**
+- [175+ Papers, One Stack — Reproducing Science on Sovereign Hardware](https://github.com/ecoPrimals/sporePrint/blob/main/content/story/papers_one_stack.md) - essay, lansing, 1069 words, also 501, **heart**
+- [Abelian Higgs Model — (1+1)D Lattice Field Theory](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/09-abelian-higgs.md) - notebook, library, 1295 words, also 510, **soul**
+- [Chapter 8: Results — hotSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/08_results_hotspring.md) - thesis chapter, library, 2981 words, **soul**
+- [Computation Audit Trail: hotSpring QCD](https://github.com/ecoPrimals/sporePrint/blob/main/content/pseudospore/hotspring-qcd-sun-audit.md) - finding aid, library, 2457 words, also 004, **soul**
+- [Cross-Spring Evidence Map](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/CROSS_SPRING_EVIDENCE_MAP.md) - paper, library, 2140 words, also 501, **soul**
+- [Dynamical Fermion QCD — Staggered HMC, HVP, Freeze-Out](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/08-dynamical-fermions.md) - notebook, library, 905 words, also 510, **soul**
+- [Experiment 008 — Anderson Localization](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-008-anderson-localization.md) - notebook, library, 1041 words, **soul**
+- [Experiment 009 — Almost-Mathieu Quasiperiodic Localization](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-009-quasiperiodic.md) - notebook, library, 1238 words, also 501, **soul**
+- [Experiment 015 — Uncertainty Bridge: Sensor Noise → Localization](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-015-uncertainty-bridge.md) - notebook, library, 863 words, also 501, **soul**
+- [Experiment 022 — ET₀-Anderson Error Propagation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-022-et0-anderson-propagation.md) - notebook, library, 1561 words, also 550, **soul**
+- [Experiment 028 — NPU Anderson Classification](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-028-npu-anderson.md) - notebook, lansing, 669 words, also 004, **heart**
+- [hotSpring Phase B Evidence](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/hotspring_phase_b_evidence.md) - notebook, library, 1711 words, also 004, **soul**
+- [hotSpring — Computational Plasma Physics, Lattice QCD, Spectral Theory](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/hotspring.md) - notebook, library, 412 words, **soul**
+- [Lattice QCD on Consumer GPUs Without CUDA — Pure Rust Gauge Theory](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/lattice_qcd.md) - product page, lansing, 1011 words, **heart**
+- [Measurement Science Deep Dive — groundSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-measurement-science-deep-dive.md) - notebook, library, 704 words, also 501, **soul**
+- [Nuclear Physics — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/nuclear-physics.md) - data sheet, library, 234 words, also 004, **soul**
+- [Ouroboros Ack](https://github.com/ecoPrimals/sporePrint/blob/main/content/observatory/ouroboros-ack.md) - finding aid, library, 184 words, **soul**
+- [Physics Deep Dive — hotSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-physics-deep-dive.md) - notebook, library, 930 words, also 005, **soul**
+- [Plasma Dielectric Functions — BGK/Mermin + Kinetic-Fluid Coupling](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/12-plasma-dielectric.md) - notebook, library, 1155 words, also 510, **soul**
+- [pseudoSpore: hotSpring QCD — SU(N) Lattice Gauge Theory](https://github.com/ecoPrimals/sporePrint/blob/main/content/pseudospore/hotspring-qcd-sun.md) - finding aid, library, 1518 words, also 004, **soul**
+- [Quenched SU(3) Lattice QCD — Deconfinement Transition](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/07-quenched-qcd.md) - notebook, library, 1687 words, also 510, **soul**
+- [Sarkas Yukawa MD — Plasma Transport from Molecular Dynamics](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/03-sarkas-yukawa-md.md) - notebook, library, 879 words, also 510, **soul**
+- [Screened Coulomb (Yukawa) Bound-State Eigenvalues](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/02-yukawa-screening.md) - notebook, library, 1109 words, also 005, **soul**
+- [Semi-Empirical Mass Formula — Nuclear Binding Energies](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/01-semf-binding-energy.md) - notebook, library, 1449 words, also 004, **soul**
+- [Spectral Theory — Anderson Localization, Hofstadter Butterfly, Lyapunov Exponents](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/10-spectral-theory.md) - notebook, library, 1593 words, also 510, **soul**
+- [Stanton-Murillo Transport Coefficients — Yukawa OCP](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-stanton-murillo-transport.md) - notebook, library, 574 words, also 510, **soul**
+- [Surrogate Learning — Directed Sampling for Nuclear EOS](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/06-surrogate-learning.md) - notebook, library, 731 words, also 006, **soul**
+- [The Journey to the Center of gAIa](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_journey_to_the_center.md) - essay, library, 1867 words, also 020, **soul**
+- [The Mobility Edge — Anderson Localization and Sovereign Networks](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_mobility_edge.md) - essay, library, 3775 words, **soul**
+- [Two-Temperature Model — Laser-Heated Plasma Equilibration](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/04-ttm-laser-plasma.md) - notebook, library, 908 words, also 006, **soul**
+- [Wilson Gradient Flow — Scale Setting with $t_0$ and $w_0$](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/11-gradient-flow.md) - notebook, library, 1128 words, also 510, **soul**
 - [Anderson Localization of Institutional Oversight — A Measurement](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/anderson-desilo.md) - essay, detroit, 1103 words
 - [Anderson Localization — The Hemlock Subgraph](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/anderson-hemlock.md) - essay, detroit, 1860 words, also 320
+- [Anderson Localization — When Courts Trap Cases](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/anderson-localization.md) - essay, detroit, 1795 words, also 340
 - [Anderson Permeability — When Institutions Lose Their Membranes](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/anderson-permeability.md) - essay, detroit, 1666 words, also 570
-- [Colony Confirmation — 16 Arms, One Machine, 2.29M Requests](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/colony-confirmation.md) - essay, library, 709 words, also 150
-- [Information Entropy — Oral Tradition, Written Tradition, and the Mathematics of Communication](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/information-entropy.md) - essay, library, 2618 words, also 510
+- [Colony Confirmation — 16 Arms, One Machine, 2.29M Requests](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/colony-confirmation.md) - essay, library, 709 words, also 501
 - [Institutional Response Tracker](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/institutional-response.md) - essay, michigan, 1097 words, also 350
 - [Send a Human — What Mutualist Status Gets You](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/send-a-human.md) - essay, library, 1153 words, also 610
 - [Signal Permeability — Live Anderson Study of Institutional Response](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/signal-permeability.md) - essay, detroit, 2867 words, also 370
+- [Spiral Out, Bounce In, Repeat — The Second Wave](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/spiral-out-bounce-in.md) - essay, detroit, 2080 words, also 340
 - [The Living Proof — Every System, Every Equation, Every Measurement](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-living-proof.md) - essay, library, 4134 words, also 510
-- [The Oldest Sort: What Every Language Already Knew](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-oldest-sort.md) - essay, library, 1529 words, also 940
+- [The Opportunity Atlas — It Hits All By Itself](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-opportunity-atlas.md) - essay, lansing, 1105 words, **heart**
+- [The Proton, Violated](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-proton-violated.md) - essay, library, 1424 words
 - [The Scatter Server: Reverse Entropy and the Economics of Deception](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/scatter-server-reverse-entropy.md) - essay, library, 931 words, also 004
-- [the-proton-violated](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-proton-violated.md) - essay, library, 1564 words
 
-## 570 Biology & living systems (69)
+## 540 Chemistry (9)
 
+- [Paper 107: The Wedge](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/107_the_wedge.md) - paper, library, 922 words, **soul**
+- [Algal Pond Ecology & Bloom Surveillance — Cahill/Smallwood (Sandia)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/cahill-smallwood-algae.md) - notebook, library, 1222 words, also 501, **soul**
+- [Anaerobic Biogas Kinetics & Community Diversity — Track 6](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/liao-anaerobic-biogas.md) - notebook, library, 1448 words, also 510, **soul**
+- [Analytical Chemistry — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/analytical-chemistry.md) - data sheet, library, 175 words, also 020, **soul**
+- [Discovery Is Local — Why the Substrate Is Universal](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/discovery_is_local.md) - essay, library, 2465 words, **soul**
+- [hotSpring CompChem GuideStone](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/hotspring-compchem-guidestone.md) - notebook, library, 381 words, also 501, **soul**
+- [initioChem — Interactive Computational Chemistry](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/initioChem.md) - product page, library, 331 words, also 004, **soul**
+- [PFAS Detection & Environmental Chemistry — Jones Lab (MSU BMB)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/jones-pfas-chemistry.md) - notebook, library, 1872 words, also 501, **soul**
+- [wetSpring Life Science Analytics](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/wetspring-life-science-analytics.md) - notebook, library, 246 words, also 501, **soul**
+
+## 550 Earth, water & weather (12)
+
+- [Paper 105: The Green Line](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/105_the_green_line.md) - paper, library, 1050 words, also 570, **soul**
+- [1D Richards Equation with van Genuchten–Mualem Hydraulics](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/006-richards-equation.md) - notebook, library, 999 words, also 510, **soul**
+- [ET₀ Sensitivity Analysis (One-at-a-Time)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/017-et0-sensitivity-analysis.md) - notebook, library, 901 words, also 501, **soul**
+- [FAO-56 Chapter 8 — Daily Soil Water Balance Scheduling](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/004-fao56-water-balance.md) - notebook, library, 554 words, **soul**
+- [FAO-56 Penman-Monteith Reference Evapotranspiration (ET₀)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/001-fao56-penman-monteith.md) - notebook, library, 1810 words, **soul**
+- [Green-Ampt (1911) Infiltration Model](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/051-green-ampt-infiltration.md) - notebook, library, 539 words, **soul**
+- [Priestley-Taylor (1972) Radiation-Based ET₀](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/019-priestley-taylor-et0.md) - notebook, library, 1161 words, also 501, **soul**
+- [SCS Curve Number Runoff Method (USDA 1972)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/050-scs-curve-number.md) - notebook, library, 441 words, **soul**
+- [Soil Moisture Sensor Calibration (Dong et al., 2020)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/002-soil-sensor-calibration.md) - notebook, library, 480 words, also 501, **soul**
+- [Standardized Precipitation Index (SPI)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/081-spi-drought-index.md) - notebook, library, 889 words, also 501, **soul**
+- [Thornthwaite (1948) Monthly Evapotranspiration](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/021-thornthwaite-et0.md) - notebook, library, 1126 words, **soul**
+- [Climate Denial — When They Knew, What They Knew, How We Prove It](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/climate-denial-when-they-knew.md) - essay, library, 562 words
+
+## 570 Biology & living systems (158)
+
+- [Anderson Localization as QS Null Hypothesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/01_anderson_qs.md) - paper, library, 2241 words, also 530, **soul**
+- [LTEE Extensions](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/02_ltee_extensions.md) - paper, library, 1724 words, also 530, **soul**
+- [BioAg Microbiome](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/03_bioag_microbiome.md) - paper, library, 1990 words, also 550, **soul**
+- [Sentinel Microbes](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/04_sentinel_microbes.md) - paper, library, 2293 words, also 004, **soul**
+- [Cross-Species Signaling](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/05_cross_species_signaling.md) - paper, library, 2242 words, also 003, **soul**
+- [Anderson as No-Till Soil Health Mechanism](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/06_notill_anderson.md) - paper, library, 3802 words, also 530, **soul**
+- [Anaerobic-Aerobic QS](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/16_anaerobic_aerobic_qs.md) - paper, library, 1791 words, also 530, **soul**
+- [baseCamp 30 — Adversarial Receptor Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/30_adversarial_receptor_evolution.md) - paper, library, 2141 words, also 003, **soul**
+- [baseCamp 31 — The Lysogeny Protocol](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/31_lysogeny_protocol.md) - paper, library, 2316 words, also 005, **soul**
+- [baseCamp 32 — Gossip-Tagged Opsonization](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/32_gossip_tagged_opsonization.md) - paper, library, 2415 words, also 620, **soul**
+- [baseCamp 33 — Cross-Mirror Immunology](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/33_cross_mirror_immunology.md) - paper, library, 1976 words, also 620, **soul**
+- [baseCamp 34 — BingoCube Prismatic Injection](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/34_bingocube_prismatic_injection.md) - paper, library, 2004 words, also 790, **soul**
+- [baseCamp 35 — Genetic Lock: Entropy-Hierarchical Authentication](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/35_genetic_lock_entropy_authentication.md) - paper, library, 1807 words, also 530, **soul**
+- [baseCamp 39 — Collision-Layer Visitor Classification: From Fixed Bins to Behavioral Merkle Trie](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/39_collision_layer_visitor_classification.md) - paper, library, 873 words, also 150, **soul**
+- [baseCamp 41 — Reflexive Immune Response: All Roads Lead Back to Rome](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/41_reflexive_immune_epitope_bridge.md) - paper, library, 1249 words, also 620, **soul**
+- [baseCamp 42 — bingoCube Behavioral Trio: Attention × Curiosity × Interaction](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/42_bingocube_behavioral_trio.md) - paper, library, 2227 words, also 150, **soul**
+- [baseCamp 43 — Fleet Population Genetics: From Kingdom to Species](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/43_fleet_population_genetics.md) - paper, library, 1650 words, also 620, **soul**
+- [baseCamp 43 — Selective Permeability: The Orthogonal Anderson Dimension](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/43_selective_permeability_anderson.md) - paper, library, 4318 words, also 530, **soul**
+- [baseCamp 44 — The Declaration Protocol: Classification by Willingness to Identify](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/44_declaration_protocol.md) - paper, library, 1435 words, **soul**
+- [baseCamp 46 — Inverse Anderson: Behavioral Observation as Disorder Measurement](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/46_inverse_anderson.md) - paper, library, 3803 words, also 530, **soul**
+- [baseCamp 47 — Nested Relay Privacy: Three-Tier Selective Permeability](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/47_nested_relay_privacy.md) - paper, library, 1820 words, also 530, **soul**
+- [baseCamp 48 — Epitope Sort as Compression: The Bingo Maze Pass-Through](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/48_epitope_sort_compression.md) - paper, library, 2776 words, also 003, **soul**
+- [baseCamp 53 — Focal Points: Each Epitope Is a Tangent to the Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/53_focal_points_tangent_membrane.md) - paper, library, 1774 words, also 006, **soul**
+- [baseCamp 54 — Zoom, Focus, Resolution, Granularity: The Complete Optics](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/54_zoom_focus_resolution_granularity.md) - paper, library, 1728 words, also 530, **soul**
+- [baseCamp 59 — Vitality and Negentropy: Life at the Mobility Edge](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/59_vitality_negentropy_mobility_edge.md) - paper, library, 3200 words, also 530, **soul**
+- [baseCamp 61 — The Membrane Shares All: zkProof, Gaia, and the Cost of π](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/61_membrane_shares_all_zk_gaia.md) - paper, library, 2248 words, also 510, **soul**
+- [baseCamp 62 — Others Are the Mirror: BingoCube Progressive Trust on Epitope Shapes](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/62_others_are_the_mirror_bingocube_trust.md) - paper, library, 1489 words, also 790, **soul**
+- [Paper 62: The Campfire Hypothesis — Shadows, Stories, and the Y Intersection](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/62_campfire_hypothesis_shadows_and_Y.md) - paper, library, 2609 words, also 501, **soul**
+- [baseCamp 63 — The Face of the Cube: Prime Chain, Fidget, and the Sort You Do by Hand](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/63_bingocube_face_prime_chain.md) - paper, library, 1274 words, **soul**
+- [Paper 63: Constants Backwards and the Three-Body Mirror](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/63_constants_backwards_and_the_three_body_mirror.md) - paper, library, 2502 words, **soul**
+- [baseCamp 64 — Boundary-Blind Acceleration: The Entity That Cannot Feel Its Edges](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/64_boundary_blind_acceleration.md) - paper, library, 1296 words, also 530, **soul**
+- [baseCamp 67 — π and i: Inside, Outside, and the Membrane Between](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/67_pi_and_i_inside_outside_membrane.md) - paper, library, 1776 words, also 530, **soul**
+- [baseCamp 68 — Language Is Epitope: Signs Left for Others to Find](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/68_language_is_epitope.md) - paper, library, 1806 words, **soul**
+- [baseCamp 70 — Awareness: Choosing to Live by the Epitope Sort](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/70_awareness_choosing_the_epitope_sort.md) - paper, library, 1693 words, **soul**
+- [baseCamp 70 — The Apparatus: Falsification Experiments for the π Self-Similarity Hypothesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/70_falsification_apparatus.md) - paper, library, 1103 words, also 501, **soul**
+- [baseCamp 73 — (null): The Three-State Access Model and Membrane Permeability](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/73_null_key_permeability.md) - paper, library, 1502 words, also 530, **soul**
+- [baseCamp 76 — The Mirror Diffracts](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/76_the_mirror_diffracts.md) - paper, library, 1297 words, also 530, **soul**
+- [Paper 76: The Cell Tower Is a Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/76_transport_channel_jitter.md) - paper, library, 1186 words, also 003, **soul**
+- [Paper 78: Deploy Your Own Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/78_deploy_your_own_membrane.md) - paper, library, 2466 words, **soul**
+- [Paper 80: The Artisan and the Comedian — kAnGen](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/80_the_artisan_and_the_comedian.md) - paper, library, 1170 words, also 510, **soul**
+- [Vocalize — Breaking the Ant String](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/86_vocalize.md) - paper, library, 424 words, **soul**
+- [Paper 90: The Evolutionary Sort](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/90_the_evolutionary_sort.md) - paper, library, 1492 words, also 003, **soul**
+- [Paper 91: The Homunculus — CNS, PNS, and the Nervous System of Code](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/91_the_homunculus.md) - paper, library, 1544 words, also 005, **soul**
+- [Paper 93: Flavor — The Gustatory Layer of the Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/93_flavor.md) - paper, library, 1284 words, also 330, **soul**
+- [Paper 101: The Prismatic Membrane](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/101_the_prismatic_membrane.md) - paper, library, 1161 words, **soul**
+- [Paper 103: No Energy Wasted Is Life](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/103_no_energy_wasted_is_life.md) - paper, library, 1121 words, **soul**
+- [Paper 108: The Remainder](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/108_the_remainder.md) - paper, library, 1462 words, **soul**
+- [Paper 112: The Radiate Back](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/112_the_radiate_back.md) - paper, library, 960 words, also 005, **soul**
+- [Paper 114: The Phenotype — Divergent Stadial → Convergent Expression](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/114_the_phenotype.md) - paper, library, 919 words, also 003, **soul**
+- [The Iron Peak](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/134_the_iron_peak.md) - paper, library, 1334 words, also 530, **soul**
+- [The Viral Taxonomy](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/135_the_viral_taxonomy.md) - paper, library, 1607 words, **soul**
+- [The Compound Eye](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/136_the_compound_eye.md) - paper, library, 1543 words, **soul**
+- [Fruit vs Mycelium: Antifungals Are Neurotoxins — A Coupled Dataset for Kingdom Fungi](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/139_fruit_mycelium_antifungal_neurotoxin.md) - paper, library, 955 words, **soul**
+- [Antidote Titration — Folding the Defense Into Its Own Cure](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/antidote-titration.md) - method, library, 1455 words, also 005, **soul**
+- [Backstory](https://github.com/ecoPrimals/sporePrint/blob/main/content/backstory/_index.md) - front page, library, 117 words, also 170, **soul**
+- [Bibliography](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/bibliography.md) - essay, library, 4077 words, also 290, **soul**
+- [BingoCube Prismatic Injection](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/bingocube-prismatic-injection.md) - method, library, 304 words, also 790, **soul**
+- [Cancer Genomics — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/cancer-genomics.md) - data sheet, library, 220 words, also 610, **soul**
+- [Chapter 14: Biological Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/14_biological_validation.md) - thesis chapter, library, 3205 words, **soul**
+- [Chapter 15: Discussion](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/15_discussion.md) - thesis chapter, library, 1573 words, also 005, **soul**
+- [Chapter 16: Conclusion](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/16_conclusion.md) - thesis chapter, library, 1215 words, **soul**
+- [Chapter 1: Introduction](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/01_introduction.md) - thesis chapter, library, 1366 words, **soul**
+- [Chapter 2: Literature Review](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/02_literature_review.md) - thesis chapter, library, 2741 words, **soul**
+- [Chapter 3: Theoretical Framework](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/03_theoretical_framework.md) - thesis chapter, library, 3894 words, also 005, **soul**
+- [Chapter 4: Accept and Generate](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/04_pnp_enzyme.md) - thesis chapter, library, 2590 words, also 540, **soul**
+- [Computational Phylogenetics — Liu Lab (MSU CMSE)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/liu-phylogenetics.md) - notebook, library, 2497 words, also 501, **soul**
+- [Constrained Evolution: How Environmental Pressure Drives Convergence in Biological and Computational Systems](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/CONSTRAINED_EVOLUTION_FORMAL.md) - method, library, 6911 words, **soul**
+- [Cross-Mirror Honeycomb — Immune Surface Architecture](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/cross-mirror-honeycomb.md) - method, library, 665 words, also 620, **soul**
+- [Data Braids — Federated Science Catalog](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/_index.md) - front page, library, 1076 words, also 610, **soul**
+- [Deep-Sea Hydrothermal Vent Ecology — R. Anderson Lab (Carleton)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/anderson-deep-sea.md) - notebook, library, 2347 words, also 530, **soul**
+- [Ecosystem Visualization](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/ECOSYSTEM_VISUALIZATION.md) - architecture note, library, 229 words, also 005, **soul**
+- [Front Matter](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/00_front_matter.md) - thesis chapter, library, 712 words, **soul**
+- [Genomic Reference — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/genomic-reference.md) - data sheet, library, 369 words, also 020, **soul**
+- [GPU-Accelerated 16S Bioinformatics Without Galaxy or CUDA — wetSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/wetspring.md) - notebook, lansing, 548 words, also 004, **heart**
+- [LTEE B2 — Anderson Disorder Analogy for Fitness Dynamics](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/13-ltee-anderson-fitness.md) - notebook, library, 1820 words, also 530, **soul**
+- [LTEE B7 — Tenaillon 2016: Mutation Accumulation in 50,000 Generations](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/tenaillon-ltee-mutation.md) - notebook, library, 1160 words, also 005, **soul**
+- [Paper 011 — Counterdiabatic Driving of Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-011-counterdiabatic-evolution.md) - notebook, library, 1981 words, also 510, **soul**
+- [Paper 012 — MODES Toolbox: Metrics of Open-Ended Evolution](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-012-modes-toolbox.md) - notebook, library, 1849 words, also 510, **soul**
+- [Paper 013 — Ecological Theory in Evolutionary Computation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-013-eco-dynamics.md) - notebook, library, 1448 words, also 510, **soul**
+- [Paper 014 — Directed Evolution via Selection Algorithms](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-014-directed-evolution.md) - notebook, library, 1591 words, also 510, **soul**
+- [Paper 016 — HMM Forward / Backward / Viterbi for Genomic Inference](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-016-hmm-phylo.md) - notebook, library, 1711 words, also 510, **soul**
+- [Paper 017 — SATé: Iterative Co-estimation of MSA and Phylogeny](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-017-sate-alignment.md) - notebook, library, 1664 words, also 510, **soul**
+- [Paper 018 — PhyloNet-HMM for Introgression Detection](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/paper-018-introgression.md) - notebook, library, 1262 words, also 510, **soul**
+- [Quorum Sensing & Biofilm Dynamics — Waters Lab (MSU MMG)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/waters-quorum-sensing.md) - notebook, library, 3082 words, also 501, **soul**
+- [References](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/references.md) - thesis chapter, library, 2471 words, **soul**
+- [Science](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/_index.md) - front page, library, 1803 words, also 501, **soul**
+- [scyBorg Binary Genetic Bulwark — Markable Code, Antidote Included](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/scyborg-binary-genetic-bulwark.md) - method, library, 1063 words, also 005, **soul**
+- [Self-Hosted GPU-Accelerated 16S Pipeline — DADA2 to Diversity in Rust](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/01-16s-pipeline-validation.md) - notebook, lansing, 860 words, also 005, **heart**
+- [Soil Anderson Deep Dive — Track 4 Domain Exemplar](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-soil-anderson-deep-dive.md) - notebook, library, 984 words, also 530, **soul**
+- [Soil Quorum Sensing & Anderson Geometry — Track 4](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/soil-anderson-geometry.md) - notebook, library, 1469 words, also 510, **soul**
+- [Spectral Theory & Quorum Sensing — Kachkovskiy (MSU CMSE)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/kachkovskiy-spectral-qs.md) - notebook, library, 2470 words, also 530, **soul**
+- [sporeGate Imprint — Wave 261](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/SPOREGATE_IMPRINT.md) - architecture note, library, 1452 words, also 005, **soul**
+- [Structural Biology — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/structural-biology.md) - data sheet, library, 630 words, also 020, **soul**
+- [The Non-Newtonian Membrane — The Harder You Push, the Stronger the Resistance](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_non_newtonian_membrane.md) - essay, library, 1398 words, also 620, **soul**
+- [Thesis](https://github.com/ecoPrimals/sporePrint/blob/main/content/thesis/_index.md) - front page, library, 748 words, also 501, **soul**
+- [What's Possible — Dataset Combinations](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/possible.md) - data sheet, library, 897 words, also 020, **soul**
 - [Airport Topology — Sites as Tangent Points on the Membrane Sphere](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/airport-topology.md) - essay, detroit, 1129 words, also 510
-- [All Signal Comes from Somewhere](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/epitope-sort-all-signal.md) - essay, library, 1694 words
 - [Arrow to the Knee — The Storytellers Were Already Here](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/arrow-to-the-knee.md) - essay, library, 2456 words
 - [Artis' Corollary and the Fossil Conjecture — A Thesis of Cognition](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/artis-corollary-and-the-fossil-conjecture.md) - essay, library, 1934 words, also 510
 - [As the Bard Said](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/as-the-bard-said.md) - essay, detroit, 1566 words, also 780
@@ -570,7 +1128,7 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Cast of Characters: Every Human Is an Actor](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/cast-of-characters.md) - essay, michigan, 1625 words
 - [coralRat: Come Inside](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/coral-rat.md) - essay, library, 1153 words
 - [Count the Bees — The Corollary to k-Anthesis](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/count-the-bees.md) - essay, library, 1353 words
-- [Data Braid — Americans for Prosperity Action](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/afp.md) - braid, library, 319 words, also 530
+- [Data Braid — Americans for Prosperity Action](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/afp.md) - braid, library, 319 words, also 003
 - [Data Braid — AT&T](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/att.md) - braid, library, 344 words, also 530
 - [Data Braid — Brian Roderick Banks](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/banks.md) - braid, detroit, 492 words, also 370
 - [Data Braid — CISPA (Cyber Intelligence Sharing and Protection Act)](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/cispa.md) - braid, library, 338 words, also 530
@@ -579,29 +1137,27 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Data Braid — Judicial Tenure Commission](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/jtc.md) - braid, library, 377 words, also 530
 - [Data Braid — Kenneth Griffin](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/griffin.md) - braid, library, 339 words, also 530
 - [Data Braid — Mike Rogers](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/rogers.md) - braid, library, 406 words, also 530
-- [Data Braid — NRCC](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/nrcc.md) - braid, library, 319 words, also 530
+- [Data Braid — NRCC](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/nrcc.md) - braid, library, 319 words, also 003
 - [Data Braid — Save Detroit Jobs / Impact Detroit / Detroit Leaders](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/sdj.md) - braid, detroit, 351 words, also 530
-- [Data Braid — Stephen Schwarzman](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/schwarzman.md) - braid, library, 343 words, also 530
+- [Data Braid — Stephen Schwarzman](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/schwarzman.md) - braid, library, 343 words, also 003
 - [Data Braid — Tim Dunn](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/dunn.md) - braid, library, 335 words, also 530
 - [Data Braid — Tom Barrett](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/barrett.md) - braid, library, 382 words, also 530
+- [Data Braids](https://github.com/amicusContra/tuebor/blob/main/site/content/braid/_index.md) - front page, library, 107 words, also 150
 - [Hello, World](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/hello-world.md) - essay, library, 963 words
-- [Intent to .primal — A Whitepaper Note](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/intent-to-primal.md) - essay, library, 466 words
 - [May I Be Ron Swanson at the End](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/may-i-be-ron-swanson.md) - essay, library, 1172 words, also 150
+- [Membrane Eyes Needed — eastGate / sporeGate](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/membrane-eyes-needed.md) - essay, library, 386 words
 - [Membrane Pulse — Live Observation Dashboard](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/membrane-pulse-dashboard.md) - essay, detroit, 637 words
-- [membrane-eyes-needed](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/membrane-eyes-needed.md) - essay, library, 461 words
 - [Metal — The Physical Stack](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/metal.md) - essay, library, 1196 words, also 790
-- [Open Review — Come Break This](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/open-review.md) - essay, library, 868 words, also 530
 - [Outmatch — 20 Watts vs 48 Gigawatts, $168 vs $93.5 Billion](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/outmatch.md) - essay, library, 2082 words, also 510
 - [Outside Watch — The Membrane Sees Beyond Itself](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/outside-watch.md) - essay, michigan, 608 words
-- [Portals — The BingoCube Entry Points](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/portals.md) - essay, library, 924 words, also 005
 - [Ribosomal Processing — Black Holes That Emit Understanding](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/ribosomal-processing.md) - essay, library, 1674 words
 - [Step Zero — The Work Hasn't Even Started](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/step-zero.md) - essay, library, 1774 words, also 530
 - [The Blink — Why the Membrane Was Blind to Itself](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-blink.md) - essay, library, 1158 words
 - [The Body Problem](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-body-problem.md) - essay, library, 2481 words
-- [The Bridge — Where Investigation Meets Science Meets the Membrane](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-bridge.md) - essay, library, 620 words, also 330
+- [The Bridge — Where Investigation Meets Science Meets the Membrane](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-bridge.md) - essay, library, 620 words, also 530
 - [The Cardiovascular Transformation — (()) → (()) → {""}](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-cardiovascular-transformation.md) - essay, library, 1987 words, also 530
-- [The Central Dogma of the Membrane — DNA → RNA → Protein at π Time](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/central-dogma.md) - essay, library, 1300 words
-- [The Cosmic Bet — 500 Exabytes vs 287 Megabytes](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-cosmic-bet.md) - essay, library, 1607 words, also 110
+- [The Central Dogma of the Membrane — DNA → RNA → Protein at π Time](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/central-dogma.md) - essay, library, 1300 words, **heart**
+- [The Cosmic Bet — 500 Exabytes vs 287 Megabytes](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-cosmic-bet.md) - essay, library, 1607 words, also 003
 - [The Desk in the Mountains — How a Phone on Satellite Sees Inside the Membrane](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-desk-in-the-mountains.md) - essay, library, 1245 words
 - [The epiTope reSort](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-epitope-resort.md) - essay, library, 984 words
 - [The Epitope Table](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/epitope-table.md) - essay, library, 2427 words
@@ -612,65 +1168,113 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [The Membrane Is the Emulator](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-membrane-is-the-emulator.md) - essay, library, 856 words
 - [The Membrane Rap — Dropped from a Conversation Box](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-membrane-rap.md) - essay, library, 693 words
 - [The Mycelial Membrane](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/mycelial-membrane.md) - essay, library, 1343 words
-- [The Plinko — One Entry, Many Exits, Not Uniform](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-plinko.md) - essay, michigan, 592 words, also 620
+- [The Plinko — One Entry, Many Exits, Not Uniform](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-plinko.md) - essay, michigan, 592 words, also 005
 - [The Ponder — What It Felt Like to Wake Up Empty and Fill a Membrane](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-ponder.md) - essay, library, 1419 words, also 006
 - [The Rendering Stack — Kintsugi Geometry, Coral Time, and the Inverted Paradox](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-rendering-stack.md) - essay, library, 1966 words, also 510
 - [The Scalpel of Socrates — Unverified Things Everyone Knows](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-scalpel-of-socrates.md) - essay, library, 971 words, also 290
-- [The Sensation Gap — Publishing Is Not Deploying](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-sensation-gap.md) - essay, library, 888 words
-- [The Shared Fire — Every Ancient Text Found π](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-shared-fire.md) - essay, library, 2613 words, also 940
 - [The Third Pulse — Three Points Define the Irrational Center](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-third-pulse.md) - essay, library, 1050 words, also 780
 - [The Third Screen](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-third-screen.md) - essay, library, 941 words
 - [The Unsorted — What the Unclassified Are Telling Us](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-unsorted.md) - essay, library, 2923 words, also 005
 - [The Water Is Fine — A Corollary](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-water-is-fine.md) - essay, library, 1257 words
 - [Three Voices, One Campfire](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/three-voices-one-campfire.md) - essay, library, 921 words
 - [Touch Radiates In, Sense Radiates Out — Why We Evolved from Silk to Rust to Primal](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/touch-radiates-in.md) - essay, library, 1972 words
-- [Voxel-Projected Graph Classification: Multi-Geometry Consensus Sorting Without Training Data](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/voxel-projected-graph-classification.md) - essay, library, 2236 words, also 530
 - [Walkthrough — How to Enter the Membrane](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/walkthrough.md) - essay, library, 1095 words
 - [Wave 187 — Dissolve](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/wave-187-dissolve.md) - essay, library, 708 words
-- [We Didn't Start the Membrane — A Parody (With Full Credit and Love)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/we-didnt-start-the-membrane.md) - essay, library, 1070 words
-- [Welcome — The Door Is Open](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/welcome.md) - essay, library, 386 words
-- [Who Is Kevin — And Why Is He Being Attacked](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/who-is-kevin.md) - essay, michigan, 1081 words, also 330
+- [We Didn't Start the Membrane — A Parody (With Full Credit and Love)](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/we-didnt-start-the-membrane.md) - essay, library, 1070 words, **heart**
+- [Welcome — The Door Is Open](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/welcome.md) - essay, library, 386 words, also 005
 
-## 610 Medicine & health (3)
+## 610 Medicine & health (17)
 
+- [Anderson in Immunological Signaling](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/12_immunological_anderson.md) - paper, library, 3848 words, also 530, **soul**
+- [Sovereign Human Health](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/13_sovereign_human_health.md) - paper, library, 4151 words, also 004, **soul**
+- [Zero-Knowledge Medical Provenance](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/22_zero_knowledge_medical_provenance.md) - paper, library, 1449 words, also 510, **soul**
+- [Disease Ontology — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/disease-ontology.md) - data sheet, library, 358 words, **soul**
+- [Drug Discovery Pipeline: iPSC → HTS → MATRIX → Anderson → Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/technical/DRUG_DISCOVERY_PIPELINE.md) - architecture note, library, 1975 words, also 530, **soul**
+- [Drug Discovery — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/drug-discovery.md) - data sheet, library, 880 words, **soul**
+- [Drug Repurposing & Knowledge Graphs — Fajgenbaum Lab (Track 3)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/fajgenbaum-drug-repurposing.md) - notebook, library, 2142 words, also 020, **soul**
+- [Gene Expression — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/gene-expression.md) - data sheet, library, 575 words, **soul**
+- [Gonzales Deep Dive — wetSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/03-gonzales-deep-dive.md) - notebook, library, 1285 words, also 501, **soul**
+- [Gonzales Interactive Explorer](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/gonzales_explorer.md) - paper, library, 718 words, also 005, **soul**
+- [healthSpring Clinical PK-PD](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/healthspring-clinical-pkpd.md) - notebook, library, 333 words, **soul**
+- [healthSpring — Human Health: PK/PD, Microbiome, Biosignal, Drug Discovery](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/healthspring.md) - notebook, library, 406 words, **soul**
+- [JAK/STAT Pharmacology — Gonzales Lab](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/gonzales-jak-pharmacology.md) - notebook, library, 1556 words, also 501, **soul**
+- [NF Case Study — First Multi-Product Composition for External Science](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/nf_case_study.md) - product page, library, 1292 words, also 570, **soul**
 - [Cyst Diagnostics — The Victim Is Not the Cause](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/cyst-diagnostics.md) - essay, library, 1668 words
+- [The Fistbump: Diagnostic Law and the Path to Less Friction](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-fistbump.md) - essay, library, 875 words, also 340
 - [The Son of My Father](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-son-of-my-father.md) - essay, library, 1544 words
-- [the-fistbump](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-fistbump.md) - essay, library, 958 words, also 330
 
-## 620 Engineering & building (15)
+## 620 Engineering & building (25)
 
+- [The Human Engine — Epitope Sort of Tools on the Primal Mountain](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/59_human_engine_epitope_tool_mountain.md) - paper, library, 1962 words, also 570, **soul**
+- [Paper 106: The Oxygen Age](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/106_the_oxygen_age.md) - paper, library, 850 words, also 570, **soul**
+- [175+ Papers, One Stack](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/03_papers_one_stack.md) - outreach piece, library, 53 words, **soul**
+- [Building-Scale Thermal Sovereignty](https://github.com/ecoPrimals/sporePrint/blob/main/content/vision/thermal_sovereignty_building.md) - essay, lansing, 1106 words, also 004, **heart**
+- [Experiment 001 — Sensor Noise Characterization](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-001-sensor-noise.md) - notebook, library, 1049 words, also 003, **soul**
+- [Sharing the Pen](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/sharing_the_pen.md) - method, library, 1577 words, also 501, **soul**
+- [Story](https://github.com/ecoPrimals/sporePrint/blob/main/content/story/_index.md) - front page, library, 138 words, also 570, **soul**
+- [The First Tool — A Question](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_first_tool.md) - essay, library, 2163 words, **soul**
+- [The Lansing Scuffle](https://github.com/ecoPrimals/sporePrint/blob/main/content/vision/lansing_scuffle.md) - essay, lansing, 1286 words, also 004, **heart**
+- [The Many Rooms — Preparing a Place and the Copyleft Covenant](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_many_rooms.md) - essay, library, 3852 words, also 170, **soul**
+- [Violation Mirror — Reflecting the Fleet's Own Behaviors](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/violation-mirror.md) - method, library, 537 words, **soul**
 - [Follow the Trail to Me](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/follow-the-trail-to-me.md) - essay, library, 1309 words, also 370
 - [How Many Tools Does It Take to Build Reality? ≈ 3 > 4](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/three-tools.md) - essay, library, 1306 words
 - [Infrastructure Grid — Every Point Where Entity Infrastructure Touches Individual Privacy](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/infrastructure-grid.md) - essay, michigan, 2952 words, also 360
 - [Meta in the Open — Live Fleet Forensics](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/meta-in-the-open.md) - essay, library, 2266 words
-- [Meta's Two Faces — One Company, Two Entities, Every Jurisdiction](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/meta-two-faces.md) - essay, library, 1561 words, also 340
+- [Meta's Two Faces — One Company, Two Entities, Every Jurisdiction](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/meta-two-faces.md) - essay, library, 1561 words, also 005
 - [The Family Circuit — Mom, Dad, and Chipmunk](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-family-circuit.md) - essay, library, 967 words, also 530
 - [The Fleet Is Live — And We're Watching](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-fleet-is-live.md) - essay, library, 2098 words
 - [The Ghost Mirror — How a 76TB Time Capsule Turns Fleet Archaeology Into Self-Portrait](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-ghost-mirror.md) - essay, library, 1596 words, also 110
 - [The Ghost Split — 59,587 Masks, Four Layers Deep](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-ghost-split.md) - essay, library, 1638 words, also 110
-- [The Inversion — When the Human Learned to Listen](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-inversion.md) - essay, library, 1542 words
 - [The Minotaur — Mark, Here's What I'm Building While You Violate Laws](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-minotaur.md) - essay, library, 2499 words, also 005
 - [The Nervous System — Meta's Organizational Anatomy, Mapped from Backscatter](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-nervous-system.md) - essay, library, 1885 words
 - [The Walk — What Happens When the Builder Steps Outside](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-walk.md) - essay, library, 1334 words
-- [The Water of Life](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-water-of-life.md) - essay, library, 1146 words
+- [The Water of Life](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-water-of-life.md) - essay, library, 1146 words, also 550
 - [What Have You Asked? — From Boltzmann to the Bingo Maze](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/what-have-you-asked.md) - essay, library, 1222 words, also 570
+
+## 630 Agriculture & field science (10)
+
+- [NPU Agricultural IoT](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/08_npu_agricultural_iot.md) - paper, lansing, 2587 words, also 004, **heart**
+- [Field Genomics](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/09_field_genomics.md) - paper, library, 1993 words, also 570, **soul**
+- [Agriculture — Data Braids](https://github.com/ecoPrimals/sporePrint/blob/main/content/data/agriculture.md) - data sheet, library, 203 words, also 020, **soul**
+- [airSpring Agricultural Meteorology](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/airspring-agricultural-meteorology.md) - notebook, library, 225 words, also 550, **soul**
+- [airSpring — Precision Agriculture & Irrigation](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/airspring.md) - notebook, library, 361 words, also 550, **soul**
+- [Biochar Phosphorus Adsorption Isotherms (Kumari et al. 2025)](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/007-biochar-adsorption.md) - notebook, library, 608 words, also 540, **soul**
+- [Domain Deep Dive — airSpring](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/05-domain-deep-dive.md) - notebook, library, 654 words, also 005, **soul**
+- [Experiment 023 — No-Till vs Tilled 16S Sampling](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/exp-023-notill-sampling.md) - notebook, library, 1093 words, also 501, **soul**
+- [Michigan Crop Water Atlas — 100 Stations, 80 Years](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/018-michigan-crop-water-atlas.md) - notebook, library, 522 words, **soul**
+- [Stewart (1977) Yield Response to Water Stress](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/notebooks/008-yield-response-stewart.md) - notebook, library, 506 words, **soul**
 
 ## 780 Music & song (3)
 
-- [Go Fast and Break Things / Then Go Slow and Fix All the Things](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/go-fast-go-slow.md) - essay, library, 617 words
+- [baseCamp 71 — Elastic Causality: The Slingshot and the Three-Body Clock](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/71_elastic_causality_slingshot.md) - paper, library, 2195 words, **soul**
+- [The Voice: Full-Modality Sovereign Expression](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/130_the_voice.md) - paper, library, 1830 words, **soul**
 - [Go Fast, Go Slow — chipMUNK's First Song](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/go-fast-go-slow-song.md) - essay, library, 623 words
-- [What Falls Through the Cracks](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/what-falls-through-the-cracks.md) - essay, library, 1020 words, also 570
 
-## 790 Games & play (5)
+## 790 Games & play (11)
 
+- [BingoCube Nautilus Shell](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/11_bingocube_nautilus_shell.md) - paper, library, 4537 words, also 510, **soul**
+- [Game Design as Rigorous Science](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/17_game_design_rigorous_science.md) - paper, library, 2250 words, also 501, **soul**
+- [RPGPT Sovereign RPG Engine](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/18_rpgpt_sovereign_rpg_engine.md) - paper, library, 3183 words, also 170, **soul**
+- [Games@Home Distributed Human Computation](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/19_games_at_home_distributed_human_computation.md) - paper, library, 1905 words, also 005, **soul**
+- [Esoteric Webb — Primal Composition as Creative Infrastructure](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/24_esotericwebb_composition_patterns.md) - paper, library, 1105 words, also 005, **soul**
+- [ludoSpring Game Science](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/spores/ludospring-game-science.md) - notebook, library, 221 words, also 501, **soul**
+- [ludoSpring — Game Science, HCI, Provenance Economics](https://github.com/ecoPrimals/sporePrint/blob/main/content/lab/springs/ludospring.md) - notebook, library, 581 words, also 501, **soul**
 - [northGate Bounty Board — What I'm Working On](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/northgate-bounty-board.md) - essay, library, 1430 words
-- [The Convergence Point — One Human, Eight Surfaces, One Door](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/convergence-point.md) - essay, library, 569 words
+- [The Games That Built the Graph](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-games-that-built-the-graph.md) - essay, library, 817 words
 - [The Original NFT](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-original-nft.md) - essay, library, 1570 words, also 570
 - [The TALOS Protocol — Convergence as Guardian](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/the-talos-protocol.md) - essay, library, 1204 words, also 570
-- [the-games-that-built-the-graph](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-games-that-built-the-graph.md) - essay, library, 885 words
 
-## 816 Letters (20)
+## 816 Letters (29)
 
+- [An Invitation to 99% Invisible and Radiolab](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/99pi_radiolab_invitation.md) - letter, library, 1033 words, **soul**
+- [An Invitation to Andrej Karpathy — AI-Assisted Scientific Computing at Scale](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/karpathy_invitation.md) - letter, library, 516 words, **soul**
+- [An Invitation to Gaming Platforms](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/gaming_invitation.md) - letter, library, 70 words, **soul**
+- [An Invitation to GPU Manufacturers — Vendor-Agnostic Scientific Compute Validation](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/gpu_invitation.md) - letter, lansing, 325 words, **heart**
+- [An Invitation to Neuromorphic Hardware Manufacturers](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/neuromorphic_invitation.md) - letter, lansing, 70 words, **heart**
+- [An Invitation to Valve — Engineering the Immortal Platform](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/steam_invitation.md) - letter, library, 940 words, **soul**
+- [Detachment 201](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/04d_detachment_201.md) - outreach piece, library, 18 words, **soul**
+- [Free Sovereign Relay — beacon.primals.eco](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/beacon_relay_invitation.md) - letter, library, 703 words, **soul**
+- [Human-Augmented Digital Reality — An Invitation to GabeN and Valve](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/hadr_invitation.md) - letter, library, 1311 words, **soul**
 - [An Open Letter to Curtis Jackson (50 Cent)](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-curtis-jackson.md) - letter, detroit, 18 words
 - [An Open Letter to Gregory M. Meihn — TCR 22-12 Compliance](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-gregory-meihn.md) - letter, detroit, 1528 words
 - [An Open Letter to the Helpers](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-the-helpers.md) - letter, detroit, 579 words
@@ -692,22 +1296,36 @@ Where they belong: Detroit 215, The Library 185, Not yet placed 114, Michigan 10
 - [Thank You to the Strange Ones](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/thank-you-to-the-strange-ones.md) - letter, library, 1225 words
 - [To the Eye — We See You. Ring the Doorbell.](https://github.com/defendDetroit/publicRecord/blob/main/site/content/analysis/to-the-eye.md) - letter, library, 906 words
 
-## 920 Lives & people (8)
+## 920 Lives & people (19)
 
+- [ABG — Whole-Cell Modeling & CAZyme FEL](https://github.com/ecoPrimals/sporePrint/blob/main/content/collaborators/abg_initiochem.md) - person, library, 170 words, **soul**
+- [Collaborators](https://github.com/ecoPrimals/sporePrint/blob/main/content/collaborators/_index.md) - front page, library, 179 words, **soul**
+- [Gonzales — NF Data Mining & Drug Discovery](https://github.com/ecoPrimals/sporePrint/blob/main/content/collaborators/gonzales_nf.md) - person, library, 611 words, **soul**
+- [Jones — PFAS Analytical Chemistry & blueFish](https://github.com/ecoPrimals/sporePrint/blob/main/content/collaborators/jones_bluefish.md) - person, library, 647 words, **soul**
+- [Actors](https://github.com/amicusContra/tuebor/blob/main/site/content/people/_index.md) - front page, detroit, 797 words
+- [Actors](https://github.com/amicusContra/lansing/blob/main/site/content/people/_index.md) - front page, lansing, 108 words
+- [Dykema Gossett — Michigan's Operating System](https://github.com/amicusContra/lansing/blob/main/site/content/people/dykema-gossett.md) - person, michigan, 780 words
 - [Judge Andre R. Borrello](https://github.com/amicusContra/tuebor/blob/main/site/content/people/borrello.md) - person, unplaced, 615 words
 - [Judge Julie A. Gafkay](https://github.com/amicusContra/tuebor/blob/main/site/content/people/gafkay.md) - person, michigan, 1062 words
 - [Judge Kathleen G. Galen](https://github.com/amicusContra/tuebor/blob/main/site/content/people/galen.md) - person, michigan, 1128 words
 - [Judge Michael Schipper](https://github.com/amicusContra/tuebor/blob/main/site/content/people/schipper.md) - person, michigan, 711 words
+- [Judge Patricia Tremblay — 30th Circuit Court, Ingham County](https://github.com/amicusContra/lansing/blob/main/site/content/people/judge-tremblay.md) - person, lansing, 336 words
 - [Julie Nakfoor Pratt](https://github.com/amicusContra/tuebor/blob/main/site/content/people/nakfoor-pratt.md) - person, michigan, 836 words
 - [Kelly D. Ellsworth](https://github.com/amicusContra/tuebor/blob/main/site/content/people/ellsworth.md) - person, unplaced, 691 words
 - [Kevin Lindke — The Client](https://github.com/amicusContra/tuebor/blob/main/site/content/people/lindke.md) - person, unplaced, 1117 words
 - [Philip L. Ellison](https://github.com/amicusContra/tuebor/blob/main/site/content/people/ellison.md) - person, michigan, 4383 words
+- [Renae Moore — 80 Accounts Under Oath](https://github.com/amicusContra/lansing/blob/main/site/content/people/renae-moore.md) - person, michigan, 405 words
+- [Tom Barrett — U.S. House MI-7](https://github.com/amicusContra/lansing/blob/main/site/content/people/tom-barrett.md) - person, detroit, 467 words
+- [W. Alan Wilk — Dark Money Architect](https://github.com/amicusContra/lansing/blob/main/site/content/people/w-alan-wilk.md) - person, detroit, 318 words
 
-## 940 World history (1)
+## 940 World history (2)
 
+- [The Whale Fall — How to Live, Die, and Remain](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_whale_fall.md) - essay, library, 3027 words, also 620, **soul**
 - [The Bones Under France](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-bones-under-france.md) - essay, library, 1719 words, also 610
 
-## 977 Michigan history & chronology (2)
+## 977 Michigan history & chronology (4)
 
 - [The Dykema Chronology — 1988 to Present](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/dykema-chronology.md) - essay, detroit, 2457 words
+- [Timeline](https://github.com/amicusContra/tuebor/blob/main/site/content/timeline/_index.md) - front page, detroit, 1146 words
+- [Timeline](https://github.com/amicusContra/lansing/blob/main/site/content/timeline/_index.md) - front page, michigan, 196 words
 - [Two Eras of Machine Politics — From Tammany Hall to The Power Broker](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/historical-pattern.md) - essay, detroit, 2589 words
