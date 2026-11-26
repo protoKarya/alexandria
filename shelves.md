@@ -56,7 +56,7 @@ First pass, sorted by machine: 1164 works, nothing moved. Fix a card in `overrid
 - [The Opportunity Atlas — It Hits All By Itself](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-opportunity-atlas.md) - essay, lansing, 1105 words, **heart**
 - [We Didn't Start the Membrane — A Parody (With Full Credit and Love)](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/we-didnt-start-the-membrane.md) - essay, library, 1070 words, **heart**
 
-Where the works live: The Library 723, Detroit 278, Michigan 117, Lansing 46.
+Where the works live: The Library 725, Detroit 274, Michigan 118, Lansing 47.
 
 ## 003 Information, signals & systems (26)
 
@@ -452,7 +452,7 @@ Where the works live: The Library 723, Detroit 278, Michigan 117, Lansing 46.
 - [Alan C. Young & Associates — Auditor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/alan-young-associates.md) - network node, detroit, 251 words
 - [Albert Einstein](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/albert-einstein.md) - network node, library, 121 words
 - [Albert Einstein](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/albert-einstein.md) - network node, library, 136 words
-- [Alexandria Daniels — MacDowell Staff](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/daniels-alexandria.md) - network node, michigan, 113 words
+- [Alexandria Daniels — MacDowell Staff](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/daniels-alexandria.md) - network node, detroit, 113 words
 - [Alexey Pajitnov](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/alexey-pajitnov.md) - network node, library, 115 words
 - [ALJ Michael Rice](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/alj-michael-rice.md) - network node, detroit, 423 words
 - [Alma Stallworth — Dynasty Matriarch](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/stallworth-alma.md) - network node, detroit, 351 words
@@ -494,8 +494,8 @@ Where the works live: The Library 723, Detroit 278, Michigan 117, Lansing 46.
 - [Dennis Graham](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dennis-graham.md) - network node, detroit, 85 words
 - [Detroit Police Department](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/detroit-police-department.md) - network node, detroit, 470 words
 - [Detroit Public Schools Community District](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/detroit-public-schools-community-district.md) - network node, detroit, 444 words
-- [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/devos-foundation.md) - network node, detroit, 11 words
-- [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dick-betsy-devos-family-foundation.md) - network node, detroit, 389 words
+- [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/devos-foundation.md) - network node, michigan, 11 words
+- [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dick-betsy-devos-family-foundation.md) - network node, michigan, 389 words
 - [Dick DeVos](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dick-devos.md) - network node, detroit, 378 words
 - [DNA](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dna.md) - network node, library, 167 words
 - [Donald Trump](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/donald-trump.md) - network node, detroit, 402 words
@@ -624,8 +624,8 @@ Where the works live: The Library 723, Detroit 278, Michigan 117, Lansing 46.
 - [Pokemon](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/pokemon.md) - network node, library, 135 words
 - [Political Dynasties & Enablers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/_index.md) - front page, detroit, 710 words
 - [Professional Enablers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/_index.md) - front page, detroit, 967 words
-- [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education-the-commons.md) - network node, detroit, 376 words
-- [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education.md) - network node, detroit, 11 words
+- [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education-the-commons.md) - network node, library, 376 words
+- [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education.md) - network node, library, 11 words
 - [Purpose Charter Academy — K-8 Charter School](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-charter-academy.md) - network node, detroit, 691 words
 - [Purpose Foundation — Two Felons, Four Positions](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-foundation.md) - network node, detroit, 337 words
 - [Quantum Mechanics](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/quantum-mechanics.md) - network node, library, 126 words
@@ -675,7 +675,7 @@ Where the works live: The Library 723, Detroit 278, Michigan 117, Lansing 46.
 - [USA v. Flenory et al (2:05-cr-80955)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/usa-v-flenory-et-al-2-05-cr-80955.md) - network node, michigan, 230 words
 - [Vaccination](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/vaccination.md) - network node, library, 113 words
 - [Verkeydia Hall](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/verkeydia-hall.md) - network node, detroit, 399 words
-- [W. Alan Wilk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/wilk.md) - network node, detroit, 11 words
+- [W. Alan Wilk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/wilk.md) - network node, lansing, 11 words
 - [Walton Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/walton-family-foundation.md) - network node, detroit, 422 words
 - [Warhammer 40,000](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/warhammer-40-000.md) - network node, library, 100 words
 - [Wayne County](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/wayne-county.md) - network node, detroit, 417 words

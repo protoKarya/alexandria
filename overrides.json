@@ -6,5 +6,23 @@
  "amicusContra/tuebor:evidence/every-line-every-peak-every-depth.md": {
   "place": "library",
   "place_by": "by hand: the topology of the whole Earth belongs to no one place"
+ },
+ "amicusContra/tuebor:network/institutional/daniels-alexandria.md": {
+  "place": "detroit",
+  "place_by": "by hand: her page names her school, MacDowell Preparatory Academy, which stands in Detroit"
+ },
+ "amicusContra/tuebor:network/actors/wilk.md": {
+  "place": "lansing",
+  "place_by": "by hand: the record seats him at Dykema's Lansing office (analysis/the-flower-to-wilk.md)"
+ },
+ "amicusContra/tuebor:network/entities/dick-betsy-devos-family-foundation.md": {
+  "place": "michigan",
+  "touches": ["detroit"],
+  "place_by": "by hand: a west Michigan foundation (the atlas pins it in Grand Rapids); its page names Detroit only in its neighbours"
+ },
+ "amicusContra/tuebor:network/entities/public-education-the-commons.md": {
+  "place": "library",
+  "touches": ["detroit", "michigan"],
+  "place_by": "by hand: it is the commons itself, the node the works of the commons hang from"
  }
 }

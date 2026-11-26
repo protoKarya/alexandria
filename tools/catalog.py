@@ -212,7 +212,7 @@ def anchor(fm, body):
     unplaced here, and main() seats it with its full page or its neighbours."""
     if COMMONS.search(body[:400]) or COMMONS_TAG.search(str(fm.get("keywords") or "")):
         return "library", "it is of the commons"
-    tags = words_of(fm, ("keywords", "counties", "tags"))
+    tags = words_of(fm, ("keywords", "counties", "tags", "role"))  # role: the one line a graph stub says of itself
     d, l = len(DET.findall(tags)), len(LAN.findall(tags))
     if d or l:
         return ("detroit" if d > l else "lansing" if l > d else "michigan"), "by its own subject tags"
