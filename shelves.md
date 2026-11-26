@@ -4,7 +4,7 @@ First pass, sorted by machine: 1164 works, nothing moved. Fix a card in `overrid
 
 ## The nucleus: ecoPrimals/sporePrint
 
-513 works, 726053 words. Everything else is shelved around it.
+513 works, 726132 words. Everything else is shelved around it.
 
 - **Soul - the science:** 472 works in the library above the Library of Congress.
 - **Heart - the hardware and the Lansing Scuffle:** 44 works in Lansing.
@@ -40,7 +40,7 @@ First pass, sorted by machine: 1164 works, nothing moved. Fix a card in `overrid
 - [Neuromorphic Sovereign Driver](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/26_neuromorphic_sovereign_driver.md) - paper, lansing, 1508 words, **heart**
 - [NPU Agricultural IoT](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/08_npu_agricultural_iot.md) - paper, lansing, 2587 words, also 004, **heart**
 - [Paper 111: The Omnibus — gAIa Journal, Volume 1](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/111_the_omnibus.md) - paper, lansing, 1118 words, also 020, **heart**
-- [Paper 119: The gAIa Institute](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/119_the_gaia_institute.md) - paper, lansing, 1643 words, **heart**
+- [Paper 132: The gAIa Institute](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/132_the_gaia_institute.md) - paper, lansing, 1690 words, **heart**
 - [Precision Brain on Heterogeneous GPU](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/15_precision_brain_heterogeneous_gpu.md) - paper, lansing, 938 words, also 004, **heart**
 - [Primal Evolution — From AI Swarm to Sovereign Compute](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/primal_evolution.md) - architecture note, lansing, 834 words, also 570, **heart**
 - [Products](https://github.com/ecoPrimals/sporePrint/blob/main/content/products/_index.md) - front page, lansing, 326 words, **heart**
@@ -140,7 +140,7 @@ Where the works live: The Library 725, Detroit 274, Michigan 118, Lansing 47.
 - [Paper 113: The Full Trace — Opsonize, Agglutinate, Digest](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/113_the_full_trace.md) - paper, library, 1283 words, also 570, **soul**
 - [Paper 116: The Open University — Rust Polymerase for Everyone](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/116_the_open_university.md) - paper, library, 1074 words, **soul**
 - [Paper 117: The Primal Reclassification](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/117_the_primal_reclassification.md) - paper, library, 1746 words, **soul**
-- [Paper 118: The Clutch](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/118_the_clutch.md) - paper, library, 1128 words, **soul**
+- [Paper 131: The Clutch](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/131_the_clutch.md) - paper, library, 1160 words, **soul**
 - [The Rust Synthase](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/137_the_rust_synthase.md) - paper, library, 743 words, also 540, **soul**
 - [Acknowledgments — The Systems We Stand On](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/acknowledgments.md) - method, library, 957 words, **soul**
 - [Adaptive Immune Defense — Why Scraping This System Doesn't Work](https://github.com/ecoPrimals/sporePrint/blob/main/content/architecture/adaptive_immune_defense.md) - architecture note, library, 2435 words, also 570, **soul**
@@ -906,9 +906,9 @@ Where the works live: The Library 725, Detroit 274, Michigan 118, Lansing 47.
 - [Paper 98: The Circus Plate](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/98_the_circus_plate.md) - paper, library, 1092 words, **soul**
 - [Paper 109: The Traveling Chipmunk](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/109_the_traveling_chipmunk.md) - paper, library, 943 words, **soul**
 - [Paper 111: The Omnibus — gAIa Journal, Volume 1](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/111_the_omnibus.md) - paper, lansing, 1118 words, also 020, **heart**
-- [Paper 119: The gAIa Institute](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/119_the_gaia_institute.md) - paper, lansing, 1643 words, **heart**
 - [Paper 125: The Klein Body](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/125_the_klein_body.md) - paper, library, 2571 words, **soul**
 - [Paper 126: The Lock](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/126_the_lock.md) - paper, library, 1728 words, **soul**
+- [Paper 132: The gAIa Institute](https://github.com/ecoPrimals/sporePrint/blob/main/content/science/132_the_gaia_institute.md) - paper, lansing, 1690 words, **heart**
 - [The Elements of Style](https://github.com/ecoPrimals/sporePrint/blob/main/content/philosophy/the_elements_of_style.md) - essay, library, 1310 words, also 006, **soul**
 - [The Generation-Verification Asymmetry: Biological Evidence for a Physical Law of Computation](https://github.com/ecoPrimals/sporePrint/blob/main/content/methodology/P_NP_ENZYME_THESIS.md) - method, library, 5114 words, also 540, **soul**
 - [Any Child Could Have Solved This — P ≠ NP, Loaves and Fishes, and the Birthright](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/any-child-could-solve-this.md) - essay, library, 2843 words, also 530

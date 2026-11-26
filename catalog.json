@@ -1617,9 +1617,9 @@
    "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/117_the_primal_reclassification.md"
   },
   {
-   "id": "ecoPrimals/sporePrint:science/118_the_clutch.md",
-   "path": "science/118_the_clutch.md",
-   "title": "Paper 118: The Clutch",
+   "id": "ecoPrimals/sporePrint:science/131_the_clutch.md",
+   "path": "science/131_the_clutch.md",
+   "title": "Paper 131: The Clutch",
    "class": "005",
    "also_class": null,
    "kind": "paper",
@@ -1632,14 +1632,14 @@
     "lansing",
     "michigan"
    ],
-   "paper": 118,
+   "paper": 131,
    "date": "2026-10-22",
-   "words": 1128,
+   "words": 1160,
    "sorted": "by its vocabulary",
    "source": "ecoPrimals/sporePrint",
    "also_in": [],
-   "sha256": "7b68a64e2354354bb583efac03f786b72f9279d70dd55c0f88362e6af9802251",
-   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/118_the_clutch.md"
+   "sha256": "59c296f08231c19488cb63305bf20bec6b840d4364e7ab10d624ff3dcecfe0db",
+   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/131_the_clutch.md"
   },
   {
    "id": "ecoPrimals/sporePrint:science/137_the_rust_synthase.md",
@@ -3913,7 +3913,7 @@
    "sorted": "by its vocabulary",
    "source": "ecoPrimals/sporePrint",
    "also_in": [],
-   "sha256": "2f85492e4c2eb4c53131efdb7ffc4b3b7e11adf1b1035cd2fef959118bcc7e4e",
+   "sha256": "5d46a04a4d1fd7381c9802b60e974b20e50cb367e85b035ecca7adfa5f0a1aa3",
    "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/127_the_hands.md"
   },
   {
@@ -18068,29 +18068,6 @@
    "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/111_the_omnibus.md"
   },
   {
-   "id": "ecoPrimals/sporePrint:science/119_the_gaia_institute.md",
-   "path": "science/119_the_gaia_institute.md",
-   "title": "Paper 119: The gAIa Institute",
-   "class": "510",
-   "also_class": null,
-   "kind": "paper",
-   "organ": "heart",
-   "nucleus": true,
-   "place": "lansing",
-   "place_by": "it is the nucleus",
-   "touches": [
-    "michigan"
-   ],
-   "paper": 119,
-   "date": "2026-10-22",
-   "words": 1643,
-   "sorted": "by its vocabulary",
-   "source": "ecoPrimals/sporePrint",
-   "also_in": [],
-   "sha256": "c21c94f77bd27fea2d88fcb1043531d9b98fbdd0afdeaa51078ab85716a52e84",
-   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/119_the_gaia_institute.md"
-  },
-  {
    "id": "ecoPrimals/sporePrint:science/125_the_klein_body.md",
    "path": "science/125_the_klein_body.md",
    "title": "Paper 125: The Klein Body",
@@ -18108,7 +18085,7 @@
    "sorted": "by its vocabulary",
    "source": "ecoPrimals/sporePrint",
    "also_in": [],
-   "sha256": "70eb73c175412d39f0d355e2074fc18cc1371c541311f1025fb1514320fb941d",
+   "sha256": "c9d8845b441ebb9333739d68a947ca02a94fb7feedc300d8d20eb5c269d0318f",
    "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/125_the_klein_body.md"
   },
   {
@@ -18131,8 +18108,31 @@
    "sorted": "by its vocabulary",
    "source": "ecoPrimals/sporePrint",
    "also_in": [],
-   "sha256": "6deb2d0bc337e83b2988edd5f714aeaf9da85bc75715f38b688b1db1bdcffa96",
+   "sha256": "70fe43af151f4dc4a7e4dac5962972399ac7285e8c50f7292a8e520109dd7f40",
    "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/126_the_lock.md"
+  },
+  {
+   "id": "ecoPrimals/sporePrint:science/132_the_gaia_institute.md",
+   "path": "science/132_the_gaia_institute.md",
+   "title": "Paper 132: The gAIa Institute",
+   "class": "510",
+   "also_class": null,
+   "kind": "paper",
+   "organ": "heart",
+   "nucleus": true,
+   "place": "lansing",
+   "place_by": "it is the nucleus",
+   "touches": [
+    "michigan"
+   ],
+   "paper": 132,
+   "date": "2026-10-22",
+   "words": 1690,
+   "sorted": "by its vocabulary",
+   "source": "ecoPrimals/sporePrint",
+   "also_in": [],
+   "sha256": "085c058df42ad4224a88bf420627a37d4136b0bcb27ad63ee9317cbf366e584a",
+   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/science/132_the_gaia_institute.md"
   },
   {
    "id": "ecoPrimals/sporePrint:philosophy/the_elements_of_style.md",
