@@ -324,6 +324,8 @@ def main():
                         "paper": int(paper.group(1)) if paper else None, "date": str(fm.get("date") or "")[:10], "words": len(body.split()),
                         "sorted": how, "source": label, "also_in": [], "sha256": hashlib.sha256(raw).hexdigest(),
                         "url": "https://github.com/%s/blob/main/%s/%s" % (label, prefix, rel)}
+                if fm.get("slug"):
+                    card["slug"] = str(fm["slug"])  # the page says where it is published: its last name on the site is this, not its file's name
                 fix = overrides.get(card["id"]) or overrides.get(rel)
                 if fix:
                     card.update(fix)

@@ -14287,7 +14287,8 @@
     "defendDetroit/publicRecord"
    ],
    "sha256": "350800ab37035d02500958c128b8888156cb1605cd54449d12497117a5631617",
-   "url": "https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-science-of-law.md"
+   "url": "https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-science-of-law.md",
+   "slug": "the-science-of-law"
   },
   {
    "id": "amicusContra/tuebor:analysis/the-two-judges.md",
@@ -19002,7 +19003,8 @@
    "source": "ecoPrimals/sporePrint",
    "also_in": [],
    "sha256": "ab41281847a29e21611b23d347d5d83d16dab528fd8ed978221fa3b2a8f6aebf",
-   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/story/papers_one_stack.md"
+   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/story/papers_one_stack.md",
+   "slug": "175-papers-one-stack"
   },
   {
    "id": "ecoPrimals/sporePrint:lab/notebooks/09-abelian-higgs.md",
@@ -24261,7 +24263,8 @@
     "defendDetroit/publicRecord"
    ],
    "sha256": "92f7b0f0fa2312a0f56bf117fab4d2d6786675859d9abe8d9706143d6265a992",
-   "url": "https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-fistbump.md"
+   "url": "https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-fistbump.md",
+   "slug": "the-fistbump"
   },
   {
    "id": "amicusContra/tuebor:analysis/the-son-of-my-father.md",
@@ -24352,7 +24355,8 @@
    "source": "ecoPrimals/sporePrint",
    "also_in": [],
    "sha256": "ab4856c8323ad3133ea589389275564f46963cd0790257e8348b394199fc46ba",
-   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/03_papers_one_stack.md"
+   "url": "https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/03_papers_one_stack.md",
+   "slug": "175-papers-one-stack"
   },
   {
    "id": "ecoPrimals/sporePrint:vision/thermal_sovereignty_building.md",
