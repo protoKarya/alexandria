@@ -17,6 +17,11 @@ A third part (=other/repo) says "this site is a copy of that one": a page alread
 other site is not carded twice. Writes catalog.json, shelves.md, dewey.json and places.json in the
 repo root. This is a machine's first pass: put corrections in overrides.json, keyed by
 "owner/repo:path" ({"amicusContra/tuebor:analysis/zksnark-proof.md": {"place": "library"}}), and run it again.
+
+Every card has a place, and place_by says how it was decided. A work lives where it is about. A case
+record too short to be about anywhere goes by what it says of itself (a work of the commons belongs to
+no one place: the library), then by its own subject tags, then with its full page, then with its
+neighbours in the same folder. Only a record with none of these stays "unplaced".
 """
 import argparse
 import hashlib
@@ -103,6 +108,9 @@ DET = re.compile(r"\b(detroit|wayne county|dpscd)\b", re.I)
 LAN = re.compile(r"\b(lansing|ingham county|capitol)\b", re.I)
 MICH = re.compile(r"\b(michigan)\b", re.I)
 CASE_KINDS = ("network node", "evidence", "person", "press coverage", "legal paper")
+# How a page of the commons marks itself: a Creator or Commons badge under its heading, or "commons" among its keywords.
+COMMONS = re.compile(r"\*\*(?:Creator|Commons)\*\*|\*(?:creator|commons)\*")
+COMMONS_TAG = re.compile(r"(^|,)\s*commons\s*(,|$)", re.I)
 
 
 def front_matter(text):
@@ -197,6 +205,52 @@ def place_of(fm, body):
     return "library", touches
 
 
+def anchor(fm, body):
+    """(home, how) for a case record whose own page is not about a place. It goes by what the page says of
+    itself: a work of the commons (Einstein, calculus, Tetris) belongs to no one place, which is the
+    library; otherwise its own subject tags name the record it belongs to. A page that says neither stays
+    unplaced here, and main() seats it with its full page or its neighbours."""
+    if COMMONS.search(body[:400]) or COMMONS_TAG.search(str(fm.get("keywords") or "")):
+        return "library", "it is of the commons"
+    tags = words_of(fm, ("keywords", "counties", "tags"))
+    d, l = len(DET.findall(tags)), len(LAN.findall(tags))
+    if d or l:
+        return ("detroit" if d > l else "lansing" if l > d else "michigan"), "by its own subject tags"
+    if MICH.search(tags) or fm.get("counties"):
+        return "michigan", "by its own subject tags"
+    return "unplaced", None
+
+
+def seat_the_rest(cards):
+    """Case records that say nothing of place (mostly the 11-word stubs of the network graph). A stub sits
+    where its full page sits; failing that, where most of its folder sits, counting only neighbours that
+    were placed by their own words."""
+    loose = [c for c in cards.values() if c["place"] == "unplaced"]
+
+    def lead(c):
+        return c["title"].lower().split(" \u2014 ")[0].strip()
+
+    for c in loose:
+        twins = [x for x in cards.values() if x is not c and x["source"] == c["source"] and x["place"] != "unplaced" and lead(x) == lead(c)]
+        twin = min(twins, key=lambda x: (x["path"].split("/")[0] != c["path"].split("/")[0], x["path"])) if twins else None  # its own section first
+        if twin:
+            c["place"], c["place_by"] = twin["place"], "with its full page (%s)" % twin["path"]
+    for c in loose:
+        if c["place"] != "unplaced":
+            continue
+        folder = c["path"].rsplit("/", 1)[0] if "/" in c["path"] else ""
+        votes = {}
+        for x in cards.values():
+            if x["source"] == c["source"] and x["path"].startswith(folder + "/") and x["path"].count("/") == c["path"].count("/") \
+                    and x["place"] in ("detroit", "lansing", "michigan") and x["place_by"] in ("by what it says", "by its own subject tags"):
+                votes[x["place"]] = votes.get(x["place"], 0) + 1
+        if votes:
+            ranked = sorted(votes, key=lambda p: -votes[p])
+            # An even split between two places is settled by the state, which holds them both.
+            c["place"] = "michigan" if len(ranked) > 1 and votes[ranked[0]] == votes[ranked[1]] else ranked[0]
+            c["place_by"] = "with its neighbours in %s/ (%s)" % (folder, ", ".join("%s %d" % kv for kv in sorted(votes.items(), key=lambda kv: -kv[1])))
+
+
 def kind_of(section, slug):
     if slug == "_index":
         return "front page"
@@ -249,8 +303,9 @@ def main():
                 cls, second, how = classify(section, slug, fm, body)
                 kind = kind_of(section, slug)
                 home, touches = place_of(fm, body)
+                place_by = "by what it says"
                 if home == "library" and kind in CASE_KINDS and label != args.centre:
-                    home = "unplaced"  # a case record is not a library work just because it names no city
+                    home, place_by = anchor(fm, body)  # a case record is not a library work just because it names no city
                 title = title_of(fm, body, slug)
                 # Heart: the work names the Lansing Scuffle, or it is a nucleus work whose own title, subtitle or keywords are about the hardware.
                 organ = None
@@ -262,17 +317,22 @@ def main():
                 if label == args.centre:
                     home, touches = ("lansing" if organ == "heart" else "library"), [t for t in set(touches + [home]) if t in ("detroit", "lansing", "michigan")]
                     touches = sorted(t for t in touches if t != home)
+                    place_by = "it is the nucleus"
                 paper = re.match(r"(\d+)_", slug) if section == "science" else None
                 card = {"id": label + ":" + rel, "path": rel, "title": title[:160], "class": cls, "also_class": second, "kind": kind,
-                        "organ": organ, "nucleus": label == args.centre, "place": home, "touches": touches,
+                        "organ": organ, "nucleus": label == args.centre, "place": home, "place_by": place_by, "touches": touches,
                         "paper": int(paper.group(1)) if paper else None, "date": str(fm.get("date") or "")[:10], "words": len(body.split()),
                         "sorted": how, "source": label, "also_in": [], "sha256": hashlib.sha256(raw).hexdigest(),
                         "url": "https://github.com/%s/blob/main/%s/%s" % (label, prefix, rel)}
                 fix = overrides.get(card["id"]) or overrides.get(rel)
                 if fix:
                     card.update(fix)
-                    card["sorted"] = "by hand (overrides.json)"
+                    if "place" in fix:
+                        card["place_by"] = fix.get("place_by") or "by hand (overrides.json)"
+                    if set(fix) - {"place", "place_by", "touches"}:
+                        card["sorted"] = "by hand (overrides.json)"
                 cards[card["id"]] = card
+    seat_the_rest(cards)
     cards = sorted(cards.values(), key=lambda c: (c["class"], not c["nucleus"], c["paper"] if c["paper"] is not None else 10 ** 6, c["title"].lower()))
 
     def dump(name, obj):

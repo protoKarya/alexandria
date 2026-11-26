@@ -21,6 +21,11 @@ stay where they are published, and the card says what each one is.
 - **organ** - `soul` or `heart`, or nothing. **nucleus** - true for sporePrint's own pages.
 - **place** - where the work lives on the globe (`places.json`). A work lives in Detroit only when it
   is about Detroit. A proof that uses Detroit as its example lives in the library and `touches` Detroit.
+- **place_by** - how the place was decided. Most works say where they are about. A case record too
+  short to say so goes by what it says of itself: a work of the commons (Einstein, calculus, Tetris)
+  belongs to no one place, so it lives in the library; otherwise it goes by its own subject tags, then
+  with its full page, then with its neighbours in the same folder. The last two are the weakest, and
+  are the first to check by hand.
 - **source** - the repository that holds the page; `also_in` lists other repositories with the same page.
 
 | File | What it is |
@@ -29,7 +34,7 @@ stay where they are published, and the card says what each one is.
 | `catalog.json` | The same cards for programs |
 | `dewey.json` | The classes in use |
 | `places.json` | Places and their coordinates |
-| `overrides.json` | Corrections made by hand (create it when the first one is needed) |
+| `overrides.json` | Corrections made by hand |
 | `tools/catalog.py` | Builds all of the above from the sites' content directories |
 
 ## This is a first pass

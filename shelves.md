@@ -56,7 +56,7 @@ First pass, sorted by machine: 1164 works, nothing moved. Fix a card in `overrid
 - [The Opportunity Atlas — It Hits All By Itself](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-opportunity-atlas.md) - essay, lansing, 1105 words, **heart**
 - [We Didn't Start the Membrane — A Parody (With Full Credit and Love)](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/we-didnt-start-the-membrane.md) - essay, library, 1070 words, **heart**
 
-Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan 106, Lansing 46.
+Where the works live: The Library 723, Detroit 278, Michigan 117, Lansing 46.
 
 ## 003 Information, signals & systems (26)
 
@@ -448,147 +448,147 @@ Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan
 ## 338 Enterprises & their networks (235)
 
 - [AG Dana Nessel](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/ag-dana-nessel.md) - network node, michigan, 218 words
-- [ag office](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/ag-office.md) - network node, unplaced, 158 words
-- [Alan C. Young & Associates — Auditor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/alan-young-associates.md) - network node, unplaced, 251 words
-- [Albert Einstein](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/albert-einstein.md) - network node, unplaced, 121 words
-- [Albert Einstein](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/albert-einstein.md) - network node, unplaced, 136 words
-- [Alexandria Daniels — MacDowell Staff](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/daniels-alexandria.md) - network node, unplaced, 113 words
-- [Alexey Pajitnov](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/alexey-pajitnov.md) - network node, unplaced, 115 words
+- [ag office](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/ag-office.md) - network node, detroit, 158 words
+- [Alan C. Young & Associates — Auditor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/alan-young-associates.md) - network node, detroit, 251 words
+- [Albert Einstein](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/albert-einstein.md) - network node, library, 121 words
+- [Albert Einstein](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/albert-einstein.md) - network node, library, 136 words
+- [Alexandria Daniels — MacDowell Staff](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/daniels-alexandria.md) - network node, michigan, 113 words
+- [Alexey Pajitnov](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/alexey-pajitnov.md) - network node, library, 115 words
 - [ALJ Michael Rice](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/alj-michael-rice.md) - network node, detroit, 423 words
 - [Alma Stallworth — Dynasty Matriarch](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/stallworth-alma.md) - network node, detroit, 351 words
 - [American Federation for Children](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/american-federation-for-children.md) - network node, detroit, 402 words
 - [Amway / Alticor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/amway-alticor.md) - network node, michigan, 317 words
-- [Amway / Alticor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/amway.md) - network node, unplaced, 11 words
+- [Amway / Alticor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/amway.md) - network node, michigan, 11 words
 - [Anchor Rock Foundation — Judge Miller Board Chair](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/anchor-rock-foundation.md) - network node, detroit, 358 words
 - [Attorney Grievance Commission](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/attorney-grievance-commission.md) - network node, michigan, 674 words
-- [Banks Strategy & Consultants LLC — Judge Payments](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/banks-strategy-llc.md) - network node, unplaced, 310 words
-- [Barton Malow](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/barton-malow.md) - network node, unplaced, 11 words
+- [Banks Strategy & Consultants LLC — Judge Payments](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/banks-strategy-llc.md) - network node, detroit, 310 words
+- [Barton Malow](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/barton-malow.md) - network node, detroit, 11 words
 - [Betsy DeVos](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/betsy-devos.md) - network node, detroit, 385 words
 - [Bill Lichwalla](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/bill-lichwalla.md) - network node, michigan, 179 words
 - [Billy McKinney — Political Operative](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/billy-mckinney.md) - network node, detroit, 558 words
 - [Bishop Corletta Vaughn — DPSCD Board President](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/vaughn-corletta.md) - network node, detroit, 423 words
 - [Black Caucus Foundation of Michigan — Reunion of Felons](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/black-caucus-foundation.md) - network node, detroit, 785 words
 - [Black Mafia Family (BMF)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/black-mafia-family-bmf.md) - network node, detroit, 345 words
-- [Black Mafia Family (BMF)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/bmf.md) - network node, unplaced, 11 words
-- [Brian Roderick Banks](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/banks.md) - network node, unplaced, 11 words
+- [Black Mafia Family (BMF)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/bmf.md) - network node, detroit, 11 words
+- [Brian Roderick Banks](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/banks.md) - network node, detroit, 11 words
 - [Brian Roderick Banks — Enterprise Leader](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/brian-banks.md) - network node, detroit, 1448 words
-- [Calculus](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/calculus.md) - network node, unplaced, 270 words
+- [Calculus](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/calculus.md) - network node, library, 270 words
 - [Central Michigan University](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/central-michigan-university.md) - network node, detroit, 443 words
-- [Charles Darwin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/charles-darwin.md) - network node, unplaced, 98 words
-- [Charles Darwin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/charles-darwin.md) - network node, unplaced, 113 words
-- [Chess](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/chess.md) - network node, unplaced, 137 words
+- [Charles Darwin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/charles-darwin.md) - network node, library, 98 words
+- [Charles Darwin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/charles-darwin.md) - network node, library, 113 words
+- [Chess](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/chess.md) - network node, library, 137 words
 - [Chief Justice Megan K. Cavanagh](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/chief-justice-megan-k-cavanagh.md) - network node, michigan, 510 words
-- [Chris Nelson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/chris-nelson.md) - network node, unplaced, 140 words
+- [Chris Nelson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/chris-nelson.md) - network node, detroit, 140 words
 - [City Hill Church — Banks Religious Entity](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/city-hill-church.md) - network node, detroit, 469 words
 - [City of Detroit](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/city-of-detroit.md) - network node, detroit, 466 words
 - [Corey Northrop](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/corey-northrop.md) - network node, detroit, 428 words
 - [court 36th](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/court-36th.md) - network node, detroit, 455 words
 - [court 3rd](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/court-3rd.md) - network node, detroit, 435 words
-- [Crayola Crayons](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/crayola-crayons.md) - network node, unplaced, 111 words
-- [CRISPR](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/crispr.md) - network node, unplaced, 109 words
-- [Cynthia C. Bullington](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/cynthia-c-bullington.md) - network node, unplaced, 535 words
+- [Crayola Crayons](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/crayola-crayons.md) - network node, library, 111 words
+- [CRISPR](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/crispr.md) - network node, library, 109 words
+- [Cynthia C. Bullington](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/cynthia-c-bullington.md) - network node, detroit, 535 words
 - [DaSean Mitchell](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dasean-mitchell.md) - network node, detroit, 155 words
-- [David T. Doyle](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/david-t-doyle.md) - network node, unplaced, 79 words
+- [David T. Doyle](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/david-t-doyle.md) - network node, detroit, 79 words
 - [Dawn N. Ison, Esq.](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dawn-n-ison-esq.md) - network node, detroit, 243 words
 - [Dennis Archer](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dennis-archer.md) - network node, detroit, 196 words
-- [Dennis Graham](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dennis-graham.md) - network node, unplaced, 85 words
+- [Dennis Graham](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dennis-graham.md) - network node, detroit, 85 words
 - [Detroit Police Department](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/detroit-police-department.md) - network node, detroit, 470 words
 - [Detroit Public Schools Community District](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/detroit-public-schools-community-district.md) - network node, detroit, 444 words
-- [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/devos-foundation.md) - network node, unplaced, 11 words
+- [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/devos-foundation.md) - network node, detroit, 11 words
 - [Dick & Betsy DeVos Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dick-betsy-devos-family-foundation.md) - network node, detroit, 389 words
 - [Dick DeVos](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dick-devos.md) - network node, detroit, 378 words
-- [DNA](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dna.md) - network node, unplaced, 167 words
+- [DNA](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dna.md) - network node, library, 167 words
 - [Donald Trump](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/donald-trump.md) - network node, detroit, 402 words
-- [Donna Hanson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/donna-hanson.md) - network node, unplaced, 98 words
-- [Dr. Chalena Beasley](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dr-chalena-beasley.md) - network node, unplaced, 180 words
+- [Donna Hanson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/donna-hanson.md) - network node, detroit, 98 words
+- [Dr. Chalena Beasley](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dr-chalena-beasley.md) - network node, detroit, 180 words
 - [Dr. Chalena Yancey Beasley](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dr-chalena-yancey-beasley.md) - network node, detroit, 406 words
 - [Dr. Glenn Maleyko](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dr-glenn-maleyko.md) - network node, detroit, 415 words
 - [Dr. Jolia Hill](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/dr-jolia-hill.md) - network node, detroit, 420 words
 - [Dr. Michele Leno — Court-Ordered Evaluator](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/leno-michele.md) - network node, detroit, 531 words
-- [Dr. Nikolai Vitti](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/vitti.md) - network node, unplaced, 11 words
-- [Dungeons & Dragons](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dungeons-dragons.md) - network node, unplaced, 163 words
-- [Dykema Gossett](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dykema.md) - network node, unplaced, 11 words
-- [Dykema Gossett Federal PAC](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dykema-gossett-federal-pac.md) - network node, unplaced, 187 words
-- [Earth](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/earth.md) - network node, unplaced, 164 words
+- [Dr. Nikolai Vitti](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/vitti.md) - network node, detroit, 11 words
+- [Dungeons & Dragons](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dungeons-dragons.md) - network node, library, 163 words
+- [Dykema Gossett](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dykema.md) - network node, detroit, 11 words
+- [Dykema Gossett Federal PAC](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/dykema-gossett-federal-pac.md) - network node, detroit, 187 words
+- [Earth](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/earth.md) - network node, library, 164 words
 - [Eastern Michigan University](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/eastern-michigan-university.md) - network node, detroit, 442 words
-- [Elizabeth Magie](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/elizabeth-magie.md) - network node, unplaced, 117 words
-- [Emmy Noether](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/emmy-noether.md) - network node, unplaced, 104 words
-- [Emmy Noether](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/emmy-noether.md) - network node, unplaced, 119 words
+- [Elizabeth Magie](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/elizabeth-magie.md) - network node, library, 117 words
+- [Emmy Noether](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/emmy-noether.md) - network node, library, 104 words
+- [Emmy Noether](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/emmy-noether.md) - network node, library, 119 words
 - [Enterprise Principals](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/_index.md) - front page, library, 159 words
 - [Entity Profiles](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/_index.md) - front page, detroit, 356 words
 - [Eric Sabree — Wayne County Treasurer](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/eric-sabree.md) - network node, detroit, 919 words
-- [Erno Rubik](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/erno-rubik.md) - network node, unplaced, 101 words
-- [Evolution by Natural Selection](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/evolution-by-natural-selection.md) - network node, unplaced, 170 words
+- [Erno Rubik](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/erno-rubik.md) - network node, library, 101 words
+- [Evolution by Natural Selection](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/evolution-by-natural-selection.md) - network node, library, 170 words
 - [Four Dynasties — The Machine Behind the School](https://github.com/amicusContra/tuebor/blob/main/site/content/network/dynasties.md) - network node, detroit, 1637 words
-- [Game Boy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/game-boy.md) - network node, unplaced, 149 words
-- [Gary Gygax](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gary-gygax.md) - network node, unplaced, 110 words
+- [Game Boy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/game-boy.md) - network node, library, 149 words
+- [Gary Gygax](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gary-gygax.md) - network node, library, 110 words
 - [Gary Naeyaert](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gary-naeyaert.md) - network node, michigan, 104 words
 - [Gasper Fiore Wiretap](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/gasper-fiore-wiretap.md) - network node, detroit, 172 words
-- [General Relativity](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/general-relativity.md) - network node, unplaced, 141 words
+- [General Relativity](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/general-relativity.md) - network node, library, 141 words
 - [Glenn J. Page](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/glenn-j-page.md) - network node, detroit, 507 words
-- [Gordon Krater](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gordon-krater.md) - network node, unplaced, 199 words
+- [Gordon Krater](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gordon-krater.md) - network node, detroit, 199 words
 - [Gov. John Engler](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gov-john-engler.md) - network node, michigan, 422 words
-- [GPS](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/gps.md) - network node, unplaced, 131 words
-- [Great Lakes Education Project (GLEP)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/glep.md) - network node, unplaced, 11 words
+- [GPS](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/gps.md) - network node, library, 131 words
+- [Great Lakes Education Project (GLEP)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/glep.md) - network node, michigan, 11 words
 - [Great Lakes Education Project (GLEP)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/great-lakes-education-project-glep.md) - network node, michigan, 378 words
 - [Greg VanKirk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/greg-vankirk.md) - network node, detroit, 128 words
 - [Gregory M. Meihn — Hall of Fame Attorney, Weekly Meetings, Missed Everything](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/meihn-gregory.md) - network node, michigan, 1086 words
-- [Gregory Meihn](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gregory-meihn.md) - network node, unplaced, 11 words
-- [Gunpei Yokoi](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gunpei-yokoi.md) - network node, unplaced, 120 words
+- [Gregory Meihn](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gregory-meihn.md) - network node, detroit, 11 words
+- [Gunpei Yokoi](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/gunpei-yokoi.md) - network node, library, 120 words
 - [Henri O. Harmon](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/henri-o-harmon.md) - network node, michigan, 394 words
-- [Henrietta Lacks](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/henrietta-lacks.md) - network node, unplaced, 108 words
-- [Henrietta Lacks](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/henrietta-lacks.md) - network node, unplaced, 123 words
-- [Human Genome](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/human-genome.md) - network node, unplaced, 174 words
-- [Inner Link Graphics — Campaign Finance Vendor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/inner-link-graphics.md) - network node, unplaced, 419 words
-- [iPhone](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/iphone.md) - network node, unplaced, 176 words
-- [Jason Drake](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jason-drake.md) - network node, unplaced, 160 words
-- [Jefferey Bailey](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jefferey-bailey.md) - network node, unplaced, 131 words
+- [Henrietta Lacks](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/henrietta-lacks.md) - network node, library, 108 words
+- [Henrietta Lacks](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/henrietta-lacks.md) - network node, library, 123 words
+- [Human Genome](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/human-genome.md) - network node, library, 174 words
+- [Inner Link Graphics — Campaign Finance Vendor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/inner-link-graphics.md) - network node, detroit, 419 words
+- [iPhone](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/iphone.md) - network node, library, 176 words
+- [Jason Drake](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jason-drake.md) - network node, detroit, 160 words
+- [Jefferey Bailey](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jefferey-bailey.md) - network node, detroit, 131 words
 - [Jehan Crump-Gibson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jehan-crump-gibson.md) - network node, detroit, 497 words
-- [Jennifer Chambers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jennifer-chambers.md) - network node, unplaced, 103 words
+- [Jennifer Chambers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jennifer-chambers.md) - network node, detroit, 103 words
 - [Jennifer Crump](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jennifer-crump.md) - network node, detroit, 370 words
-- [Jim Proppe](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jim-proppe.md) - network node, unplaced, 79 words
-- [John B. Goodenough](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/john-b-goodenough.md) - network node, unplaced, 121 words
-- [John McCarroll](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/john-mccarroll.md) - network node, unplaced, 91 words
-- [Jonas Salk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jonas-salk.md) - network node, unplaced, 89 words
-- [Jonas Salk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/jonas-salk.md) - network node, unplaced, 104 words
-- [Joseph Holland Jr.](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/holland.md) - network node, unplaced, 11 words
+- [Jim Proppe](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jim-proppe.md) - network node, detroit, 79 words
+- [John B. Goodenough](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/john-b-goodenough.md) - network node, library, 121 words
+- [John McCarroll](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/john-mccarroll.md) - network node, detroit, 91 words
+- [Jonas Salk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/jonas-salk.md) - network node, library, 89 words
+- [Jonas Salk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/jonas-salk.md) - network node, library, 104 words
+- [Joseph Holland Jr.](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/holland.md) - network node, michigan, 11 words
 - [Joseph Holland Jr. — Financial Gatekeeper, Romantic Partner](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/joseph-holland.md) - network node, michigan, 1002 words
 - [Judge Adam Sabree — 36th District Court](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/adam-sabree.md) - network node, detroit, 561 words
 - [Judge Aliyah Sabree](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/aliyah-sabree.md) - network node, detroit, 702 words
-- [Judge Cylenthia Miller](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/miller.md) - network node, unplaced, 11 words
+- [Judge Cylenthia Miller](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/miller.md) - network node, detroit, 11 words
 - [Judge Cylenthia Miller](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/cylenthia-miller.md) - network node, detroit, 927 words
 - [Judge David Perkins](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/david-perkins.md) - network node, detroit, 275 words
 - [Judge Denise Langford Morris (Retired)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/denise-langford-morris.md) - network node, detroit, 492 words
 - [Judge Kelly Ramsey — Criminal Division](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/kelly-ramsey.md) - network node, detroit, 524 words
 - [Judge Sean Perkins — 36th District Court](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/sean-perkins.md) - network node, detroit, 466 words
-- [Judge Tenisha Yancey](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/yancey.md) - network node, unplaced, 11 words
+- [Judge Tenisha Yancey](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/yancey.md) - network node, detroit, 11 words
 - [Judge Tenisha Yancey — The Bridge](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/tenisha-yancey.md) - network node, detroit, 1018 words
 - [Judge Vonda Evans (Retired) — Mentor](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/vonda-evans.md) - network node, detroit, 417 words
 - [Judicial Cover](https://github.com/amicusContra/tuebor/blob/main/site/content/network/judges/_index.md) - front page, detroit, 667 words
 - [Judicial Tenure Commission](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/judicial-tenure-commission.md) - network node, michigan, 359 words
-- [Katherine Johnson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/katherine-johnson.md) - network node, unplaced, 93 words
-- [Katherine Johnson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/katherine-johnson.md) - network node, unplaced, 108 words
-- [Katie Schmiedeknecht — MDE Analyst](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/schmiedeknecht-katie.md) - network node, unplaced, 170 words
+- [Katherine Johnson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/katherine-johnson.md) - network node, library, 93 words
+- [Katherine Johnson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/katherine-johnson.md) - network node, library, 108 words
+- [Katie Schmiedeknecht — MDE Analyst](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/schmiedeknecht-katie.md) - network node, michigan, 170 words
 - [Keith 'K.B.' Stallworth — Federal Money Laundering](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/stallworth-keith.md) - network node, detroit, 833 words
 - [Kevin Mok](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/kevin-mok.md) - network node, michigan, 278 words
-- [Kimber Smail](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/kimber-smail.md) - network node, unplaced, 97 words
+- [Kimber Smail](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/kimber-smail.md) - network node, detroit, 97 words
 - [Koch Political Network](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/koch-political-network.md) - network node, detroit, 383 words
 - [Kwame Kilpatrick](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/kwame-kilpatrick.md) - network node, michigan, 373 words
 - [Kym L. Worthy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/kym-l-worthy.md) - network node, detroit, 497 words
 - [Leah Breen — MDE Official](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/breen-leah.md) - network node, michigan, 118 words
-- [LEGO](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/lego.md) - network node, unplaced, 103 words
-- [Leonard C. 'Len' Wolfe](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/len-wolfe.md) - network node, unplaced, 11 words
-- [Linux](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/linux.md) - network node, unplaced, 176 words
+- [LEGO](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/lego.md) - network node, library, 103 words
+- [Leonard C. 'Len' Wolfe](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/len-wolfe.md) - network node, detroit, 11 words
+- [Linux](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/linux.md) - network node, library, 176 words
 - [Lisa Moreland](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/lisa-moreland.md) - network node, michigan, 356 words
-- [MacDowell Preparatory Academy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/macdowell.md) - network node, unplaced, 11 words
+- [MacDowell Preparatory Academy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/macdowell.md) - network node, detroit, 11 words
 - [MacDowell Preparatory Academy — Financial Extraction](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/macdowell-prep.md) - network node, detroit, 474 words
 - [Mackinac Center for Public Policy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/mackinac-center-for-public-policy.md) - network node, michigan, 361 words
-- [Mae C. Jemison](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/mae-c-jemison.md) - network node, unplaced, 84 words
-- [Magic: The Gathering](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/magic-the-gathering.md) - network node, unplaced, 154 words
+- [Mae C. Jemison](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/mae-c-jemison.md) - network node, library, 84 words
+- [Magic: The Gathering](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/magic-the-gathering.md) - network node, library, 154 words
 - [MAPSA](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/mapsa.md) - network node, michigan, 169 words
-- [Markus 'Notch' Persson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/markus-notch-persson.md) - network node, unplaced, 99 words
-- [Marygrove Conservancy / P-20 Campus](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/marygrove-conservancy.md) - network node, unplaced, 11 words
-- [Matthew Kelly](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/matthew-kelly.md) - network node, unplaced, 106 words
+- [Markus 'Notch' Persson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/markus-notch-persson.md) - network node, library, 99 words
+- [Marygrove Conservancy / P-20 Campus](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/marygrove-conservancy.md) - network node, detroit, 11 words
+- [Matthew Kelly](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/matthew-kelly.md) - network node, detroit, 106 words
 - [Mayor Mary Sheffield](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/mayor-mary-sheffield.md) - network node, detroit, 333 words
 - [Michael V. Goetz](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/michael-v-goetz.md) - network node, detroit, 434 words
 - [Michigan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/michigan.md) - network node, detroit, 393 words
@@ -597,87 +597,87 @@ Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan
 - [Michigan State Board of Education](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/michigan-state-board-of-education.md) - network node, detroit, 438 words
 - [Michigan State University](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/michigan-state-university.md) - network node, michigan, 380 words
 - [Michigan Supreme Court](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/michigan-supreme-court.md) - network node, michigan, 452 words
-- [Milky Way Galaxy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/milky-way-galaxy.md) - network node, unplaced, 101 words
-- [Minecraft](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/minecraft.md) - network node, unplaced, 133 words
+- [Milky Way Galaxy](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/milky-way-galaxy.md) - network node, library, 101 words
+- [Minecraft](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/minecraft.md) - network node, library, 133 words
 - [Misha Stallworth West](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/misha-stallworth-west.md) - network node, detroit, 368 words
 - [Misha Stallworth West — DPSCD Board (Authorization Conflict)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/stallworth-west-misha.md) - network node, detroit, 320 words
-- [Monopoly](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/monopoly.md) - network node, unplaced, 156 words
+- [Monopoly](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/monopoly.md) - network node, library, 156 words
 - [Ms. Perkins (PCA)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/ms-perkins-pca.md) - network node, michigan, 486 words
 - [MSU College of Law](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/msu-college-of-law.md) - network node, michigan, 363 words
 - [Nathan Buchalski](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/nathan-buchalski.md) - network node, michigan, 96 words
-- [National Charter Schools Institute](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/ncsi.md) - network node, unplaced, 11 words
-- [Neil deGrasse Tyson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/neil-degrasse-tyson.md) - network node, unplaced, 83 words
+- [National Charter Schools Institute](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/ncsi.md) - network node, detroit, 11 words
+- [Neil deGrasse Tyson](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/neil-degrasse-tyson.md) - network node, library, 83 words
 - [Network for Public Education Fund](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/network-for-public-education-fund.md) - network node, detroit, 442 words
 - [Network Matrices — Machine-Readable Graph Data](https://github.com/amicusContra/tuebor/blob/main/site/content/network/matrices.md) - network node, detroit, 1171 words
 - [Nicolai Vitti — DPSCD Superintendent Who Authorized PCA](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/vitti-nicolai.md) - network node, detroit, 573 words
-- [Nicole Blocker](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/nicole-blocker.md) - network node, unplaced, 90 words
+- [Nicole Blocker](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/nicole-blocker.md) - network node, detroit, 90 words
 - [Nicole Wells-Stallworth — MacDowell Board President](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/wells-stallworth-nicole.md) - network node, detroit, 1197 words
 - [PA 362 — Michigan Charter School Law (1993)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/charter-law-1993.md) - network node, michigan, 11 words
 - [PA 362 — Michigan Charter School Law (1993)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/pa-362-michigan-charter-school-law-1993.md) - network node, detroit, 458 words
 - [PACs — Dark Money and Felon Treasurers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/political-action-committees.md) - network node, detroit, 323 words
-- [Paul Theriault](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/paul-theriault.md) - network node, unplaced, 140 words
-- [Paul Wills](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/paul-wills.md) - network node, unplaced, 126 words
-- [Periodic Table of Elements](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/periodic-table-of-elements.md) - network node, unplaced, 92 words
+- [Paul Theriault](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/paul-theriault.md) - network node, detroit, 140 words
+- [Paul Wills](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/paul-wills.md) - network node, detroit, 126 words
+- [Periodic Table of Elements](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/periodic-table-of-elements.md) - network node, library, 92 words
 - [perkins d](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/perkins-d.md) - network node, michigan, 333 words
 - [perkins sean](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/perkins-sean.md) - network node, michigan, 338 words
 - [Plante Moran](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/plante-moran.md) - network node, detroit, 454 words
-- [Pokemon](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/pokemon.md) - network node, unplaced, 135 words
+- [Pokemon](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/pokemon.md) - network node, library, 135 words
 - [Political Dynasties & Enablers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/_index.md) - front page, detroit, 710 words
 - [Professional Enablers](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/_index.md) - front page, detroit, 967 words
 - [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education-the-commons.md) - network node, detroit, 376 words
-- [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education.md) - network node, unplaced, 11 words
+- [Public Education (The Commons)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/public-education.md) - network node, detroit, 11 words
 - [Purpose Charter Academy — K-8 Charter School](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-charter-academy.md) - network node, detroit, 691 words
-- [Purpose Foundation — Two Felons, Four Positions](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-foundation.md) - network node, unplaced, 337 words
-- [Quantum Mechanics](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/quantum-mechanics.md) - network node, unplaced, 126 words
+- [Purpose Foundation — Two Felons, Four Positions](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-foundation.md) - network node, detroit, 337 words
+- [Quantum Mechanics](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/quantum-mechanics.md) - network node, library, 126 words
 - [Reginald B. Scott II — MDE Official](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/scott-reginald.md) - network node, michigan, 118 words
 - [Renae Moore](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/renae-moore.md) - network node, detroit, 189 words
 - [Richard D. McLellan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/richard-d-mclellan.md) - network node, michigan, 487 words
-- [Richard Garfield](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/richard-garfield.md) - network node, unplaced, 96 words
+- [Richard Garfield](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/richard-garfield.md) - network node, library, 96 words
 - [Roland S. Martin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/roland-s-martin.md) - network node, michigan, 293 words
-- [Romy Drucker](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/romy-drucker.md) - network node, unplaced, 140 words
-- [Ron Zuhorski](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/ron-zuhorski.md) - network node, unplaced, 91 words
-- [Rosalind Franklin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/rosalind-franklin.md) - network node, unplaced, 105 words
-- [Rosalind Franklin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/rosalind-franklin.md) - network node, unplaced, 120 words
-- [Rubik's Cube](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/rubik-s-cube.md) - network node, unplaced, 120 words
-- [Satoshi Tajiri](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/satoshi-tajiri.md) - network node, unplaced, 126 words
+- [Romy Drucker](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/romy-drucker.md) - network node, detroit, 140 words
+- [Ron Zuhorski](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/ron-zuhorski.md) - network node, detroit, 91 words
+- [Rosalind Franklin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/rosalind-franklin.md) - network node, library, 105 words
+- [Rosalind Franklin](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/rosalind-franklin.md) - network node, library, 120 words
+- [Rubik's Cube](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/rubik-s-cube.md) - network node, library, 120 words
+- [Satoshi Tajiri](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/satoshi-tajiri.md) - network node, library, 126 words
 - [Save Detroit Jobs](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/save-detroit-jobs.md) - network node, detroit, 142 words
-- [School Choice Is The Black Choice Tour](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/school-choice-is-the-black-choice-tour.md) - network node, unplaced, 286 words
+- [School Choice Is The Black Choice Tour](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/school-choice-is-the-black-choice-tour.md) - network node, detroit, 286 words
 - [Scott Smith (PMR)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/scott-smith-pmr.md) - network node, michigan, 112 words
 - [Serenity Guardianship Services — UPL Red Flag](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/serenity-guardianship.md) - network node, detroit, 395 words
 - [Sheriff Raphael Washington](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/sheriff-raphael-washington.md) - network node, detroit, 406 words
 - [Sherry Gay-Dagnogo — The Golden Parachute](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/sherry-gay-dagnogo.md) - network node, detroit, 1060 words
-- [Shigeru Miyamoto](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/shigeru-miyamoto.md) - network node, unplaced, 106 words
-- [Srinivasa Ramanujan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/srinivasa-ramanujan.md) - network node, unplaced, 93 words
-- [Srinivasa Ramanujan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/srinivasa-ramanujan.md) - network node, unplaced, 108 words
+- [Shigeru Miyamoto](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/shigeru-miyamoto.md) - network node, library, 106 words
+- [Srinivasa Ramanujan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/srinivasa-ramanujan.md) - network node, library, 93 words
+- [Srinivasa Ramanujan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/srinivasa-ramanujan.md) - network node, library, 108 words
 - [State Bar of Michigan](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/state-bar-of-michigan.md) - network node, detroit, 404 words
 - [State Bar of Michigan — UPL Department](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/state-bar-upl.md) - network node, michigan, 331 words
 - [State Bar UPL Department](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/state-bar-upl-department.md) - network node, detroit, 477 words
 - [Sun Community Development Corp](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/sun-community-development.md) - network node, detroit, 396 words
-- [Super Mario Bros.](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/super-mario-bros.md) - network node, unplaced, 98 words
-- [Tawanesha Jones-Williams](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/tawanesha-jones-williams.md) - network node, unplaced, 91 words
+- [Super Mario Bros.](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/super-mario-bros.md) - network node, library, 98 words
+- [Tawanesha Jones-Williams](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/tawanesha-jones-williams.md) - network node, detroit, 91 words
 - [TCR 22-12 — The People Who Vouched](https://github.com/amicusContra/tuebor/blob/main/site/content/network/institutional/tcr-22-12-enablers.md) - network node, michigan, 1104 words
-- [Terrence D. Shulman — State Bar Referral Therapist](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/shulman-terrence.md) - network node, unplaced, 490 words
-- [Tetris](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/tetris.md) - network node, unplaced, 137 words
-- [The 74 (The Seventy Four)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-74-the-seventy-four.md) - network node, unplaced, 188 words
-- [The 74 (The Seventy Four)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-74.md) - network node, unplaced, 11 words
-- [The Internet](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-internet.md) - network node, unplaced, 202 words
+- [Terrence D. Shulman — State Bar Referral Therapist](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/shulman-terrence.md) - network node, detroit, 490 words
+- [Tetris](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/tetris.md) - network node, library, 137 words
+- [The 74 (The Seventy Four)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-74-the-seventy-four.md) - network node, detroit, 188 words
+- [The 74 (The Seventy Four)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-74.md) - network node, detroit, 11 words
+- [The Internet](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-internet.md) - network node, library, 202 words
 - [The Kilpatrick Dynasty — Next Generation Playbook](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/kilpatrick-dynasty.md) - network node, detroit, 1360 words
 - [The Network](https://github.com/amicusContra/tuebor/blob/main/site/content/network/_index.md) - front page, detroit, 1398 words
-- [The Playground](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-playground.md) - network node, unplaced, 114 words
-- [The Purpose Group, LLC](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-group.md) - network node, unplaced, 11 words
+- [The Playground](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/the-playground.md) - network node, library, 114 words
+- [The Purpose Group, LLC](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-group.md) - network node, detroit, 11 words
 - [The Purpose Group, LLC — The Extraction Engine](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/purpose-group-llc.md) - network node, detroit, 281 words
 - [Thomas Stallworth III — Political Dynasty](https://github.com/amicusContra/tuebor/blob/main/site/content/network/political/stallworth-thomas.md) - network node, detroit, 497 words
-- [Tim Berners-Lee](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/tim-berners-lee.md) - network node, unplaced, 106 words
-- [Tim Berners-Lee](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/tim-berners-lee.md) - network node, unplaced, 121 words
+- [Tim Berners-Lee](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/tim-berners-lee.md) - network node, library, 106 words
+- [Tim Berners-Lee](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/tim-berners-lee.md) - network node, library, 121 words
 - [Todd Perkins — Banks' Attorney](https://github.com/amicusContra/tuebor/blob/main/site/content/network/professional-enablers/todd-perkins.md) - network node, detroit, 512 words
-- [Tony Sorgi](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/tony-sorgi.md) - network node, unplaced, 91 words
+- [Tony Sorgi](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/tony-sorgi.md) - network node, detroit, 91 words
 - [US Dept of Education](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/us-dept-of-education.md) - network node, detroit, 409 words
 - [USA v. Flenory et al (2:05-cr-80955)](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/usa-v-flenory-et-al-2-05-cr-80955.md) - network node, michigan, 230 words
-- [Vaccination](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/vaccination.md) - network node, unplaced, 113 words
+- [Vaccination](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/vaccination.md) - network node, library, 113 words
 - [Verkeydia Hall](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/verkeydia-hall.md) - network node, detroit, 399 words
-- [W. Alan Wilk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/wilk.md) - network node, unplaced, 11 words
+- [W. Alan Wilk](https://github.com/amicusContra/tuebor/blob/main/site/content/network/actors/wilk.md) - network node, detroit, 11 words
 - [Walton Family Foundation](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/walton-family-foundation.md) - network node, detroit, 422 words
-- [Warhammer 40,000](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/warhammer-40-000.md) - network node, unplaced, 100 words
+- [Warhammer 40,000](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/warhammer-40-000.md) - network node, library, 100 words
 - [Wayne County](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/wayne-county.md) - network node, detroit, 417 words
 - [Wayne RESA](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/wayne-resa.md) - network node, detroit, 432 words
 - [Wayne RESA Financial Oversight](https://github.com/amicusContra/tuebor/blob/main/site/content/network/entities/wayne-resa-financial-oversight.md) - network node, michigan, 392 words
@@ -737,20 +737,20 @@ Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan
 - [Data Braid — Aljouny Investigation: Public vs. Private Evidence Layers](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/data-braid-aljouny.md) - evidence, michigan, 2408 words
 - [Data Braid — GLLG Entity Graph: Dynasty Through Entity to Human](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/data-braid-gllg.md) - evidence, detroit, 1506 words
 - [Data Braid — PCA & MacDowell Staff: Who Runs the School?](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/data-braid-pca-staff.md) - evidence, detroit, 1518 words
-- [Domain Registration Campaign: Three PPO Holders Targeted in 30 Minutes](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/domain-registrations.md) - evidence, unplaced, 1114 words
-- [Every Line, Every Peak, Every Depth — The Topology of Earth](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-line-every-peak-every-depth.md) - evidence, unplaced, 3642 words
+- [Domain Registration Campaign: Three PPO Holders Targeted in 30 Minutes](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/domain-registrations.md) - evidence, michigan, 1114 words
+- [Every Line, Every Peak, Every Depth — The Topology of Earth](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-line-every-peak-every-depth.md) - evidence, library, 3642 words
 - [Every Tower, Every Wire, Every Orbit — The Infrastructure Beneath the Call](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-tower-every-wire-every-orbit.md) - evidence, detroit, 1684 words
-- [Every Wonder, Sorted — Ancient, Modern, Natural, Industrial, Underwater, and Everything Between](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-wonder-sorted.md) - evidence, unplaced, 2835 words
+- [Every Wonder, Sorted — Ancient, Modern, Natural, Industrial, Underwater, and Everything Between](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/every-wonder-sorted.md) - evidence, library, 2835 words
 - [Evidence Library](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/_index.md) - front page, detroit, 1963 words
 - [FBI Wiretap Target List — Beeckman Affidavit (2017)](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/wiretap-target-list.md) - evidence, detroit, 1739 words
-- [FCC Robocall Enforcement: The Numbers](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/fcc-enforcement-pattern.md) - evidence, unplaced, 946 words
+- [FCC Robocall Enforcement: The Numbers](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/fcc-enforcement-pattern.md) - evidence, michigan, 946 words
 - [FOIA Requests and Responses](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/foia-requests.md) - evidence, michigan, 1094 words
 - [FOIAworks as an Early Warning System — The Attorney Who Sees Every Investigation Before It Starts](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/foiaworks-early-warning.md) - evidence, michigan, 1984 words
 - [FOIAworks Infrastructure Scan — What the Server Tells Anyone Who Asks](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/foiaworks-infrastructure.md) - evidence, michigan, 2173 words
 - [FOIAworks: A Transparency Tool With No Privacy Policy, Operated by the Attorney Who Fabricated a Witness](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/foiaworks-honeypot.md) - evidence, michigan, 1702 words
 - [Ghost Witness — The Samantha Aljouny Investigation](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/ghost-witness-aljouny.md) - evidence, detroit, 1313 words
 - [Purpose Group LLC — Revenue Extraction Data](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/purpose-group-extraction.md) - evidence, michigan, 541 words
-- [ritafelinewilliams.com — The Impersonation Domain](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/impersonation-domain.md) - evidence, unplaced, 621 words
+- [ritafelinewilliams.com — The Impersonation Domain](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/impersonation-domain.md) - evidence, michigan, 621 words
 - [TCR 22-12 — The Administrator Certificate](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/tcr-22-12.md) - evidence, detroit, 1231 words
 - [The Banks LLC Network — 16 Shell Entities Mapped](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/banks-llc-network.md) - evidence, michigan, 559 words
 - [The Complete Ellison Litigation Docket](https://github.com/amicusContra/tuebor/blob/main/site/content/evidence/litigation-docket.md) - evidence, michigan, 1675 words
@@ -988,7 +988,7 @@ Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan
 - [Colony Confirmation — 16 Arms, One Machine, 2.29M Requests](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/colony-confirmation.md) - essay, library, 709 words, also 501
 - [Institutional Response Tracker](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/institutional-response.md) - essay, michigan, 1097 words, also 350
 - [Send a Human — What Mutualist Status Gets You](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/send-a-human.md) - essay, library, 1153 words, also 610
-- [Signal Permeability — Live Anderson Study of Institutional Response](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/signal-permeability.md) - essay, detroit, 2867 words, also 370
+- [Signal Permeability — Live Anderson Study of Institutional Response](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/signal-permeability.md) - essay, detroit, 2869 words, also 370
 - [Spiral Out, Bounce In, Repeat — The Second Wave](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/spiral-out-bounce-in.md) - essay, detroit, 2080 words, also 340
 - [The Living Proof — Every System, Every Equation, Every Measurement](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-living-proof.md) - essay, library, 4134 words, also 510
 - [The Opportunity Atlas — It Hits All By Itself](https://github.com/amicusContra/tuebor/blob/main/site/content/analysis/the-opportunity-atlas.md) - essay, lansing, 1105 words, **heart**
@@ -1276,7 +1276,7 @@ Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan
 - [Free Sovereign Relay — beacon.primals.eco](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/beacon_relay_invitation.md) - letter, library, 703 words, **soul**
 - [Human-Augmented Digital Reality — An Invitation to GabeN and Valve](https://github.com/ecoPrimals/sporePrint/blob/main/content/outreach/hadr_invitation.md) - letter, library, 1311 words, **soul**
 - [An Open Letter to Curtis Jackson (50 Cent)](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-curtis-jackson.md) - letter, detroit, 18 words
-- [An Open Letter to Gregory M. Meihn — TCR 22-12 Compliance](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-gregory-meihn.md) - letter, detroit, 1528 words
+- [An Open Letter to Gregory M. Meihn — TCR 22-12 Compliance](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-gregory-meihn.md) - letter, detroit, 1525 words
 - [An Open Letter to the Helpers](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-the-helpers.md) - letter, detroit, 579 words
 - [An Open Letter to the Parents](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-the-parents.md) - letter, detroit, 398 words
 - [An Open Letter to the Press](https://github.com/amicusContra/tuebor/blob/main/site/content/open-letters/to-the-press.md) - letter, detroit, 701 words
@@ -1305,14 +1305,14 @@ Where the works live: The Library 662, Detroit 231, Not yet placed 119, Michigan
 - [Actors](https://github.com/amicusContra/tuebor/blob/main/site/content/people/_index.md) - front page, detroit, 797 words
 - [Actors](https://github.com/amicusContra/lansing/blob/main/site/content/people/_index.md) - front page, lansing, 108 words
 - [Dykema Gossett — Michigan's Operating System](https://github.com/amicusContra/lansing/blob/main/site/content/people/dykema-gossett.md) - person, michigan, 780 words
-- [Judge Andre R. Borrello](https://github.com/amicusContra/tuebor/blob/main/site/content/people/borrello.md) - person, unplaced, 615 words
+- [Judge Andre R. Borrello](https://github.com/amicusContra/tuebor/blob/main/site/content/people/borrello.md) - person, michigan, 615 words
 - [Judge Julie A. Gafkay](https://github.com/amicusContra/tuebor/blob/main/site/content/people/gafkay.md) - person, michigan, 1062 words
 - [Judge Kathleen G. Galen](https://github.com/amicusContra/tuebor/blob/main/site/content/people/galen.md) - person, michigan, 1128 words
 - [Judge Michael Schipper](https://github.com/amicusContra/tuebor/blob/main/site/content/people/schipper.md) - person, michigan, 711 words
 - [Judge Patricia Tremblay — 30th Circuit Court, Ingham County](https://github.com/amicusContra/lansing/blob/main/site/content/people/judge-tremblay.md) - person, lansing, 336 words
 - [Julie Nakfoor Pratt](https://github.com/amicusContra/tuebor/blob/main/site/content/people/nakfoor-pratt.md) - person, michigan, 836 words
-- [Kelly D. Ellsworth](https://github.com/amicusContra/tuebor/blob/main/site/content/people/ellsworth.md) - person, unplaced, 691 words
-- [Kevin Lindke — The Client](https://github.com/amicusContra/tuebor/blob/main/site/content/people/lindke.md) - person, unplaced, 1117 words
+- [Kelly D. Ellsworth](https://github.com/amicusContra/tuebor/blob/main/site/content/people/ellsworth.md) - person, michigan, 691 words
+- [Kevin Lindke — The Client](https://github.com/amicusContra/tuebor/blob/main/site/content/people/lindke.md) - person, michigan, 1117 words
 - [Philip L. Ellison](https://github.com/amicusContra/tuebor/blob/main/site/content/people/ellison.md) - person, michigan, 4383 words
 - [Renae Moore — 80 Accounts Under Oath](https://github.com/amicusContra/lansing/blob/main/site/content/people/renae-moore.md) - person, michigan, 405 words
 - [Tom Barrett — U.S. House MI-7](https://github.com/amicusContra/lansing/blob/main/site/content/people/tom-barrett.md) - person, detroit, 467 words
